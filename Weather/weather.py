@@ -33,7 +33,7 @@ def get_day_dict(url):
 	return day_dict
 
 def get_city_daily_weather(city = 'Tulsa', state = 'Oklahoma', zip = 74104,
-	start_yr = 2016, start_month = 10, start_day = 1):
+	start_yr = 1970, start_month = 1, start_day = 1):
 	starttime = datetime.datetime.today()
 	
 	log = open('Logs\load_weather_log_{dt}_{city}_{state}_{zip}.txt'.format(dt=str(datetime.date.today()),city=city,state=state,zip=zip), 'a')
@@ -43,8 +43,14 @@ def get_city_daily_weather(city = 'Tulsa', state = 'Oklahoma', zip = 74104,
 	day_data_dicts = []
 	locations_df = pd.read_csv('Locations.csv')
 	selected_city = locations_df[(locations_df['City'] == city) & (locations_df['State'] == state) & (locations_df['Zip'] == zip)]
+	
+	if len(selected_city) == 0:
+		log.write("No city was found for {city},{state},{zip}\n\n".format(city=city,state=state,zip=zip))
+		log.write('--------------------------------------------------------\n')
+		log.close()
+		return
 
-	url = selected_city['Url'][0]
+	url = selected_city['Url'].item()
 	
 	#Loop through the days from 1970 to today() and call get_day_dict
 	historical_dt = datetime.date(start_yr, start_month, start_day)
@@ -86,6 +92,8 @@ def get_city_daily_weather(city = 'Tulsa', state = 'Oklahoma', zip = 74104,
 	log.write("\nTime to complete data load: {0}\n".format(str(elapsed_time)))
 	log.write('--------------------------------------------------------\n')
 	log.close()
+	
+	print "DONE"
 	
 	return days_df
 
