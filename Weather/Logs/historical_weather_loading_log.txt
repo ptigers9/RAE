@@ -1,0 +1,3358 @@
+
+--------------------------------------------------------
+Loading missing dates for Tulsa, Oklahoma, 741045 missing dates found
+Loading URL: https://www.wunderground.com/history/airport/KRVS/1970/1/1/DailyHistory.html?format=1
+ERROR:<type 'exceptions.IndexError'>
+
+Loading URL: https://www.wunderground.com/history/airport/KRVS/1970/1/2/DailyHistory.html?format=1
+ERROR:<type 'exceptions.IndexError'>
+
+Loading URL: https://www.wunderground.com/history/airport/KRVS/1970/1/3/DailyHistory.html?format=1
+ERROR:<type 'exceptions.IndexError'>
+
+Loading URL: https://www.wunderground.com/history/airport/KRVS/1970/1/4/DailyHistory.html?format=1
+ERROR:<type 'exceptions.IndexError'>
+
+Loading URL: https://www.wunderground.com/history/airport/KRVS/1970/1/5/DailyHistory.html?format=1
+ERROR:<type 'exceptions.IndexError'>
+
+
+Time to complete: 0:00:02.366000
+--------------------------------------------------------
+
+--------------------------------------------------------
+Loading missing dates for Seattle, Washington, 981015 missing dates found
+Loading URL: https://www.wunderground.com/history/airport/KBFI/1970/1/1/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KBFI/1970/1/2/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KBFI/1970/1/3/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KBFI/1970/1/4/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KBFI/1970/1/5/DailyHistory.html?format=1
+Successfully loaded
+
+
+Time to complete: 0:00:03.471000
+--------------------------------------------------------
+
+--------------------------------------------------------
+Loading missing dates for San Francisco, California, 941010 missing dates found
+
+--------------------------------------------------------
+Loading missing dates for Tulsa, Oklahoma, 741041 missing dates found
+Loading URL: https://www.wunderground.com/history/airport/KRVS/1970/1/1/DailyHistory.html?format=1
+ERROR:<type 'exceptions.IndexError'>
+
+
+Time to complete: 0:00:00.538000
+--------------------------------------------------------
+
+--------------------------------------------------------
+Loading missing dates for Seattle, Washington, 981011 missing dates found
+Loading URL: https://www.wunderground.com/history/airport/KBFI/1970/1/1/DailyHistory.html?format=1
+Successfully loaded
+
+
+Time to complete: 0:00:00.732000
+--------------------------------------------------------
+
+--------------------------------------------------------
+Loading missing dates for San Francisco, California, 941011 missing dates found
+Loading URL: https://www.wunderground.com/history/airport/KSFO/1970/1/1/DailyHistory.html?format=1
+Successfully loaded
+
+
+Time to complete: 0:00:00.499000
+--------------------------------------------------------
+
+--------------------------------------------------------
+Loading missing dates for Los Angeles, California, 900011 missing dates found
+Loading URL: https://www.wunderground.com/history/airport/KCQT/1970/1/1/DailyHistory.html?format=1
+ERROR:<type 'exceptions.IndexError'>
+
+
+Time to complete: 0:00:00.462000
+--------------------------------------------------------
+
+--------------------------------------------------------
+Loading missing dates for Boise, Idaho, 837011 missing dates found
+Loading URL: https://www.wunderground.com/history/airport/KBOI/1970/1/1/DailyHistory.html?format=1
+Successfully loaded
+
+
+Time to complete: 0:00:00.539000
+--------------------------------------------------------
+
+--------------------------------------------------------
+Loading missing dates for Denver, Colorado, 802021 missing dates found
+Loading URL: https://www.wunderground.com/history/airport/KAPA/1970/1/1/DailyHistory.html?format=1
+ERROR:<type 'exceptions.IndexError'>
+
+
+Time to complete: 0:00:00.503000
+--------------------------------------------------------
+
+--------------------------------------------------------
+Loading missing dates for Dallas, Texas, 752011 missing dates found
+Loading URL: https://www.wunderground.com/history/airport/KDAL/1970/1/1/DailyHistory.html?format=1
+Successfully loaded
+
+
+Time to complete: 0:00:00.484000
+--------------------------------------------------------
+
+--------------------------------------------------------
+Loading missing dates for New Orleans, Louisiana, 700631 missing dates found
+Loading URL: https://www.wunderground.com/history/airport/KMSY/1970/1/1/DailyHistory.html?format=1
+Successfully loaded
+
+
+Time to complete: 0:00:00.525000
+--------------------------------------------------------
+
+--------------------------------------------------------
+Loading missing dates for Miami, Florida, 330101 missing dates found
+Loading URL: https://www.wunderground.com/history/airport/KMIA/1970/1/1/DailyHistory.html?format=1
+Successfully loaded
+
+
+Time to complete: 0:00:00.544000
+--------------------------------------------------------
+
+--------------------------------------------------------
+Loading missing dates for Atlanta, Georgia, 303011 missing dates found
+Loading URL: https://www.wunderground.com/history/airport/KPDK/1970/1/1/DailyHistory.html?format=1
+ERROR:<type 'exceptions.IndexError'>
+
+
+Time to complete: 0:00:00.490000
+--------------------------------------------------------
+
+--------------------------------------------------------
+Loading missing dates for St Louis, Missouri, 631011 missing dates found
+Loading URL: https://www.wunderground.com/history/airport/KSTL/1970/1/1/DailyHistory.html?format=1
+Successfully loaded
+
+
+Time to complete: 0:00:00.530000
+--------------------------------------------------------
+
+--------------------------------------------------------
+Loading missing dates for Minneapolis, Minnesota, 554011 missing dates found
+Loading URL: https://www.wunderground.com/history/airport/KMIC/1970/1/1/DailyHistory.html?format=1
+ERROR:<type 'exceptions.IndexError'>
+
+
+Time to complete: 0:00:00.491000
+--------------------------------------------------------
+
+--------------------------------------------------------
+Loading missing dates for Chicago, Illinois, 602901 missing dates found
+Loading URL: https://www.wunderground.com/history/airport/KMDW/1970/1/1/DailyHistory.html?format=1
+Successfully loaded
+
+
+Time to complete: 0:00:00.547000
+--------------------------------------------------------
+
+--------------------------------------------------------
+Loading missing dates for Boston, Massachusetts, 21011 missing dates found
+Loading URL: https://www.wunderground.com/history/airport/KBOS/1970/1/1/DailyHistory.html?format=1
+Successfully loaded
+
+
+Time to complete: 0:00:00.558000
+--------------------------------------------------------
+
+--------------------------------------------------------
+Loading missing dates for New York City, New York, 100011 missing dates found
+Loading URL: https://www.wunderground.com/history/airport/KNYC/1970/1/1/DailyHistory.html?format=1
+Successfully loaded
+
+
+Time to complete: 0:00:00.518000
+--------------------------------------------------------
+
+--------------------------------------------------------
+Loading missing dates for Washington, District of Columbia, 200011 missing dates found
+Loading URL: https://www.wunderground.com/history/airport/KDCA/1970/1/1/DailyHistory.html?format=1
+Successfully loaded
+
+
+Time to complete: 0:00:00.532000
+--------------------------------------------------------
+
+--------------------------------------------------------
+Loading missing dates for Tulsa, Oklahoma, 741041 missing dates found
+Loading URL: https://www.wunderground.com/history/airport/KRVS/1970/1/1/DailyHistory.html?format=1
+ERROR:<type 'exceptions.IndexError'>
+
+
+Time to complete: 0:00:00.474000
+--------------------------------------------------------
+
+--------------------------------------------------------
+Loading missing dates for Tulsa, Oklahoma, 741041 missing dates found
+Loading URL: https://www.wunderground.com/history/airport/KRVS/1970/1/1/DailyHistory.html?format=1
+ERROR:<type 'exceptions.IndexError'>
+
+
+Time to complete: 0:00:00.501000
+--------------------------------------------------------
+
+--------------------------------------------------------
+Loading missing dates for Seattle, Washington, 981011 missing dates found
+Loading URL: https://www.wunderground.com/history/airport/KBFI/1970/1/1/DailyHistory.html?format=1
+Successfully loaded
+
+
+Time to complete: 0:00:00.701000
+--------------------------------------------------------
+
+--------------------------------------------------------
+Loading missing dates for San Francisco, California, 941010 missing dates found
+
+--------------------------------------------------------
+Loading missing dates for Boston, Massachusetts, 21010 missing dates found
+
+--------------------------------------------------------
+Loading missing dates for Boston, Massachusetts, 21010 missing dates found
+
+--------------------------------------------------------
+Loading missing dates for Boston, Massachusetts, 21010 missing dates found
+
+Time to complete: 0:00:00.004000
+--------------------------------------------------------
+
+--------------------------------------------------------
+Loading missing dates for Boston, Massachusetts, 21010 missing dates found
+
+Time to complete: 0:00:00.005000
+--------------------------------------------------------
+
+--------------------------------------------------------
+Loading missing dates for Tulsa, Oklahoma, 741041 missing dates found
+Loading URL: https://www.wunderground.com/history/airport/KRVS/1970/1/1/DailyHistory.html?format=1
+ERROR:<type 'exceptions.IndexError'>
+
+
+Time to complete: 0:00:00.618000
+--------------------------------------------------------
+
+--------------------------------------------------------
+Loading missing dates for Seattle, Washington, 981011 missing dates found
+Loading URL: https://www.wunderground.com/history/airport/KBFI/1970/1/1/DailyHistory.html?format=1
+Successfully loaded
+
+
+Time to complete: 0:00:00.862000
+--------------------------------------------------------
+
+--------------------------------------------------------
+Loading missing dates for San Francisco, California, 941010 missing dates found
+
+Time to complete: 0:00:00.005000
+--------------------------------------------------------
+
+--------------------------------------------------------
+Loading missing dates for Los Angeles, California, 900011 missing dates found
+Loading URL: https://www.wunderground.com/history/airport/KCQT/1970/1/1/DailyHistory.html?format=1
+ERROR:<type 'exceptions.IndexError'>
+
+
+Time to complete: 0:00:00.479000
+--------------------------------------------------------
+
+--------------------------------------------------------
+Loading missing dates for Boise, Idaho, 837010 missing dates found
+
+Time to complete: 0:00:00.005000
+--------------------------------------------------------
+
+--------------------------------------------------------
+Loading missing dates for Denver, Colorado, 802021 missing dates found
+Loading URL: https://www.wunderground.com/history/airport/KAPA/1970/1/1/DailyHistory.html?format=1
+ERROR:<type 'exceptions.IndexError'>
+
+
+Time to complete: 0:00:00.484000
+--------------------------------------------------------
+
+--------------------------------------------------------
+Loading missing dates for Dallas, Texas, 752010 missing dates found
+
+Time to complete: 0:00:00.005000
+--------------------------------------------------------
+
+--------------------------------------------------------
+Loading missing dates for New Orleans, Louisiana, 700630 missing dates found
+
+Time to complete: 0:00:00.005000
+--------------------------------------------------------
+
+--------------------------------------------------------
+Loading missing dates for Miami, Florida, 330100 missing dates found
+
+Time to complete: 0:00:00.004000
+--------------------------------------------------------
+
+--------------------------------------------------------
+Loading missing dates for Atlanta, Georgia, 303011 missing dates found
+Loading URL: https://www.wunderground.com/history/airport/KPDK/1970/1/1/DailyHistory.html?format=1
+ERROR:<type 'exceptions.IndexError'>
+
+
+Time to complete: 0:00:00.421000
+--------------------------------------------------------
+
+--------------------------------------------------------
+Loading missing dates for St Louis, Missouri, 631010 missing dates found
+
+Time to complete: 0:00:00.004000
+--------------------------------------------------------
+
+--------------------------------------------------------
+Loading missing dates for Minneapolis, Minnesota, 554011 missing dates found
+Loading URL: https://www.wunderground.com/history/airport/KMIC/1970/1/1/DailyHistory.html?format=1
+ERROR:<type 'exceptions.IndexError'>
+
+
+Time to complete: 0:00:00.462000
+--------------------------------------------------------
+
+--------------------------------------------------------
+Loading missing dates for Chicago, Illinois, 602900 missing dates found
+
+Time to complete: 0:00:00.004000
+--------------------------------------------------------
+
+--------------------------------------------------------
+Loading missing dates for Boston, Massachusetts, 21010 missing dates found
+
+Time to complete: 0:00:00.004000
+--------------------------------------------------------
+
+--------------------------------------------------------
+Loading missing dates for New York City, New York, 100010 missing dates found
+
+Time to complete: 0:00:00.004000
+--------------------------------------------------------
+
+--------------------------------------------------------
+Loading missing dates for Washington, District of Columbia, 200010 missing dates found
+
+Time to complete: 0:00:00.004000
+--------------------------------------------------------
+
+--------------------------------------------------------
+Loading missing dates for Tulsa, Oklahoma, 741041 missing dates found
+Loading URL: https://www.wunderground.com/history/airport/KRVS/1970/1/1/DailyHistory.html?format=1
+ERROR:<type 'exceptions.IndexError'>
+
+
+Time to complete: 0:00:00.962000
+--------------------------------------------------------
+
+--------------------------------------------------------
+Loading missing dates for Seattle, Washington, 981011 missing dates found
+Loading URL: https://www.wunderground.com/history/airport/KBFI/1970/1/1/DailyHistory.html?format=1
+Successfully loaded
+
+
+Time to complete: 0:00:00.677000
+--------------------------------------------------------
+
+--------------------------------------------------------
+Loading missing dates for San Francisco, California, 941010 missing dates found
+
+Time to complete: 0:00:00.004000
+--------------------------------------------------------
+
+--------------------------------------------------------
+Loading missing dates for Los Angeles, California, 900011 missing dates found
+Loading URL: https://www.wunderground.com/history/airport/KCQT/1970/1/1/DailyHistory.html?format=1
+ERROR:<type 'exceptions.IndexError'>
+
+
+Time to complete: 0:00:00.455000
+--------------------------------------------------------
+
+--------------------------------------------------------
+Loading missing dates for Boise, Idaho, 837010 missing dates found
+
+Time to complete: 0:00:00.004000
+--------------------------------------------------------
+
+--------------------------------------------------------
+Loading missing dates for Denver, Colorado, 802021 missing dates found
+Loading URL: https://www.wunderground.com/history/airport/KAPA/1970/1/1/DailyHistory.html?format=1
+ERROR:<type 'exceptions.IndexError'>
+
+
+Time to complete: 0:00:00.455000
+--------------------------------------------------------
+
+--------------------------------------------------------
+Loading missing dates for Dallas, Texas, 752010 missing dates found
+
+Time to complete: 0:00:00.004000
+--------------------------------------------------------
+
+--------------------------------------------------------
+Loading missing dates for New Orleans, Louisiana, 700630 missing dates found
+
+Time to complete: 0:00:00.004000
+--------------------------------------------------------
+
+--------------------------------------------------------
+Loading missing dates for Miami, Florida, 330100 missing dates found
+
+Time to complete: 0:00:00.004000
+--------------------------------------------------------
+
+--------------------------------------------------------
+Loading missing dates for Atlanta, Georgia, 303011 missing dates found
+Loading URL: https://www.wunderground.com/history/airport/KPDK/1970/1/1/DailyHistory.html?format=1
+ERROR:<type 'exceptions.IndexError'>
+
+
+Time to complete: 0:00:00.475000
+--------------------------------------------------------
+
+--------------------------------------------------------
+Loading missing dates for St Louis, Missouri, 631010 missing dates found
+
+Time to complete: 0:00:00.004000
+--------------------------------------------------------
+
+--------------------------------------------------------
+Loading missing dates for Minneapolis, Minnesota, 554011 missing dates found
+Loading URL: https://www.wunderground.com/history/airport/KMIC/1970/1/1/DailyHistory.html?format=1
+ERROR:<type 'exceptions.IndexError'>
+
+
+Time to complete: 0:00:00.483000
+--------------------------------------------------------
+
+--------------------------------------------------------
+Loading missing dates for Chicago, Illinois, 602900 missing dates found
+
+Time to complete: 0:00:00.004000
+--------------------------------------------------------
+
+--------------------------------------------------------
+Loading missing dates for Boston, Massachusetts, 21010 missing dates found
+
+Time to complete: 0:00:00.004000
+--------------------------------------------------------
+
+--------------------------------------------------------
+Loading missing dates for New York City, New York, 100010 missing dates found
+
+Time to complete: 0:00:00.004000
+--------------------------------------------------------
+
+--------------------------------------------------------
+Loading missing dates for Washington, District of Columbia, 200010 missing dates found
+
+Time to complete: 0:00:00.004000
+--------------------------------------------------------
+
+--------------------------------------------------------
+Loading missing dates for Tulsa, Oklahoma, 741041 missing dates foundLoading URL: https://www.wunderground.com/history/airport/KRVS/1970/1/1/DailyHistory.html?format=1
+ERROR:<type 'exceptions.IndexError'>
+
+
+Time to complete: 0:00:00.472000
+--------------------------------------------------------
+
+--------------------------------------------------------
+Loading missing dates for Seattle, Washington, 981011 missing dates foundLoading URL: https://www.wunderground.com/history/airport/KBFI/1970/1/1/DailyHistory.html?format=1
+Successfully loaded
+
+
+Time to complete: 0:00:00.679000
+--------------------------------------------------------
+
+--------------------------------------------------------
+Loading missing dates for San Francisco, California, 941010 missing dates found
+Time to complete: 0:00:00.004000
+--------------------------------------------------------
+
+--------------------------------------------------------
+Loading missing dates for Los Angeles, California, 900011 missing dates foundLoading URL: https://www.wunderground.com/history/airport/KCQT/1970/1/1/DailyHistory.html?format=1
+ERROR:<type 'exceptions.IndexError'>
+
+
+Time to complete: 0:00:00.469000
+--------------------------------------------------------
+
+--------------------------------------------------------
+Loading missing dates for Boise, Idaho, 837010 missing dates found
+Time to complete: 0:00:00.005000
+--------------------------------------------------------
+
+--------------------------------------------------------
+Loading missing dates for Denver, Colorado, 802021 missing dates foundLoading URL: https://www.wunderground.com/history/airport/KAPA/1970/1/1/DailyHistory.html?format=1
+ERROR:<type 'exceptions.IndexError'>
+
+
+Time to complete: 0:00:00.446000
+--------------------------------------------------------
+
+--------------------------------------------------------
+Loading missing dates for Dallas, Texas, 752010 missing dates found
+Time to complete: 0:00:00.004000
+--------------------------------------------------------
+
+--------------------------------------------------------
+Loading missing dates for New Orleans, Louisiana, 700630 missing dates found
+Time to complete: 0:00:00.004000
+--------------------------------------------------------
+
+--------------------------------------------------------
+Loading missing dates for Miami, Florida, 330100 missing dates found
+Time to complete: 0:00:00.005000
+--------------------------------------------------------
+
+--------------------------------------------------------
+Loading missing dates for Atlanta, Georgia, 303011 missing dates foundLoading URL: https://www.wunderground.com/history/airport/KPDK/1970/1/1/DailyHistory.html?format=1
+ERROR:<type 'exceptions.IndexError'>
+
+
+Time to complete: 0:00:00.449000
+--------------------------------------------------------
+
+--------------------------------------------------------
+Loading missing dates for St Louis, Missouri, 631010 missing dates found
+Time to complete: 0:00:00.004000
+--------------------------------------------------------
+
+--------------------------------------------------------
+Loading missing dates for Minneapolis, Minnesota, 554011 missing dates foundLoading URL: https://www.wunderground.com/history/airport/KMIC/1970/1/1/DailyHistory.html?format=1
+ERROR:<type 'exceptions.IndexError'>
+
+
+Time to complete: 0:00:00.439000
+--------------------------------------------------------
+
+--------------------------------------------------------
+Loading missing dates for Chicago, Illinois, 602900 missing dates found
+Time to complete: 0:00:00.005000
+--------------------------------------------------------
+
+--------------------------------------------------------
+Loading missing dates for Boston, Massachusetts, 21010 missing dates found
+Time to complete: 0:00:00.005000
+--------------------------------------------------------
+
+--------------------------------------------------------
+Loading missing dates for New York City, New York, 100010 missing dates found
+Time to complete: 0:00:00.004000
+--------------------------------------------------------
+
+--------------------------------------------------------
+Loading missing dates for Washington, District of Columbia, 200010 missing dates found
+Time to complete: 0:00:00.004000
+--------------------------------------------------------
+
+--------------------------------------------------------
+Loading missing dates for Tulsa, Oklahoma, 741041 missing dates foundLoading URL: https://www.wunderground.com/history/airport/KRVS/1970/1/1/DailyHistory.html?format=1
+ERROR:<type 'exceptions.IndexError'>
+
+
+Time to complete: 0:00:00.564000
+--------------------------------------------------------
+
+--------------------------------------------------------
+Loading missing dates for Seattle, Washington, 981011 missing dates foundLoading URL: https://www.wunderground.com/history/airport/KBFI/1970/1/1/DailyHistory.html?format=1
+Successfully loaded
+
+
+Time to complete: 0:00:00.700000
+--------------------------------------------------------
+
+--------------------------------------------------------
+Loading missing dates for San Francisco, California, 941010 missing dates found
+Time to complete: 0:00:00.004000
+--------------------------------------------------------
+
+--------------------------------------------------------
+Loading missing dates for Los Angeles, California, 900011 missing dates foundLoading URL: https://www.wunderground.com/history/airport/KCQT/1970/1/1/DailyHistory.html?format=1
+ERROR:<type 'exceptions.IndexError'>
+
+
+Time to complete: 0:00:00.517000
+--------------------------------------------------------
+
+--------------------------------------------------------
+Loading missing dates for Boise, Idaho, 837010 missing dates found
+Time to complete: 0:00:00.004000
+--------------------------------------------------------
+
+--------------------------------------------------------
+Loading missing dates for Denver, Colorado, 802021 missing dates foundLoading URL: https://www.wunderground.com/history/airport/KAPA/1970/1/1/DailyHistory.html?format=1
+ERROR:<type 'exceptions.IndexError'>
+
+
+Time to complete: 0:00:00.477000
+--------------------------------------------------------
+
+--------------------------------------------------------
+Loading missing dates for Dallas, Texas, 752010 missing dates found
+Time to complete: 0:00:00.004000
+--------------------------------------------------------
+
+--------------------------------------------------------
+Loading missing dates for New Orleans, Louisiana, 700630 missing dates found
+Time to complete: 0:00:00.004000
+--------------------------------------------------------
+
+--------------------------------------------------------
+Loading missing dates for Miami, Florida, 330100 missing dates found
+Time to complete: 0:00:00.005000
+--------------------------------------------------------
+
+--------------------------------------------------------
+Loading missing dates for Atlanta, Georgia, 303011 missing dates foundLoading URL: https://www.wunderground.com/history/airport/KPDK/1970/1/1/DailyHistory.html?format=1
+ERROR:<type 'exceptions.IndexError'>
+
+
+Time to complete: 0:00:00.473000
+--------------------------------------------------------
+
+--------------------------------------------------------
+Loading missing dates for St Louis, Missouri, 631010 missing dates found
+Time to complete: 0:00:00.004000
+--------------------------------------------------------
+
+--------------------------------------------------------
+Loading missing dates for Minneapolis, Minnesota, 554011 missing dates foundLoading URL: https://www.wunderground.com/history/airport/KMIC/1970/1/1/DailyHistory.html?format=1
+ERROR:<type 'exceptions.IndexError'>
+
+
+Time to complete: 0:00:00.469000
+--------------------------------------------------------
+
+--------------------------------------------------------
+Loading missing dates for Chicago, Illinois, 602900 missing dates found
+Time to complete: 0:00:00.005000
+--------------------------------------------------------
+
+--------------------------------------------------------
+Loading missing dates for Boston, Massachusetts, 21010 missing dates found
+Time to complete: 0:00:00.004000
+--------------------------------------------------------
+
+--------------------------------------------------------
+Loading missing dates for New York City, New York, 100010 missing dates found
+Time to complete: 0:00:00.004000
+--------------------------------------------------------
+
+--------------------------------------------------------
+Loading missing dates for Washington, District of Columbia, 200010 missing dates found
+Time to complete: 0:00:00.004000
+--------------------------------------------------------
+
+--------------------------------------------------------
+Loading missing dates for Tulsa, Oklahoma, 741041 missing dates foundLoading URL: https://www.wunderground.com/history/airport/KRVS/1970/1/1/DailyHistory.html?format=1
+ERROR:<type 'exceptions.IndexError'>
+
+
+Time to complete: 0:00:00.524000
+--------------------------------------------------------
+
+--------------------------------------------------------
+Loading missing dates for Seattle, Washington, 981011 missing dates foundLoading URL: https://www.wunderground.com/history/airport/KBFI/1970/1/1/DailyHistory.html?format=1
+Successfully loaded
+
+
+Time to complete: 0:00:00.707000
+--------------------------------------------------------
+
+--------------------------------------------------------
+Loading missing dates for San Francisco, California, 941010 missing dates found
+Time to complete: 0:00:00.005000
+--------------------------------------------------------
+
+--------------------------------------------------------
+Loading missing dates for Los Angeles, California, 900011 missing dates foundLoading URL: https://www.wunderground.com/history/airport/KCQT/1970/1/1/DailyHistory.html?format=1
+ERROR:<type 'exceptions.IndexError'>
+
+
+Time to complete: 0:00:00.455000
+--------------------------------------------------------
+
+--------------------------------------------------------
+Loading missing dates for Boise, Idaho, 837010 missing dates found
+Time to complete: 0:00:00.005000
+--------------------------------------------------------
+
+--------------------------------------------------------
+Loading missing dates for Denver, Colorado, 802021 missing dates foundLoading URL: https://www.wunderground.com/history/airport/KAPA/1970/1/1/DailyHistory.html?format=1
+ERROR:<type 'exceptions.IndexError'>
+
+
+Time to complete: 0:00:00.439000
+--------------------------------------------------------
+
+--------------------------------------------------------
+Loading missing dates for Dallas, Texas, 752010 missing dates found
+Time to complete: 0:00:00.005000
+--------------------------------------------------------
+
+--------------------------------------------------------
+Loading missing dates for New Orleans, Louisiana, 700630 missing dates found
+Time to complete: 0:00:00.004000
+--------------------------------------------------------
+
+--------------------------------------------------------
+Loading missing dates for Miami, Florida, 330100 missing dates found
+Time to complete: 0:00:00.005000
+--------------------------------------------------------
+
+--------------------------------------------------------
+Loading missing dates for Atlanta, Georgia, 303011 missing dates foundLoading URL: https://www.wunderground.com/history/airport/KPDK/1970/1/1/DailyHistory.html?format=1
+ERROR:<type 'exceptions.IndexError'>
+
+
+Time to complete: 0:00:00.474000
+--------------------------------------------------------
+
+--------------------------------------------------------
+Loading missing dates for St Louis, Missouri, 631010 missing dates found
+Time to complete: 0:00:00.004000
+--------------------------------------------------------
+
+--------------------------------------------------------
+Loading missing dates for Minneapolis, Minnesota, 554011 missing dates foundLoading URL: https://www.wunderground.com/history/airport/KMIC/1970/1/1/DailyHistory.html?format=1
+ERROR:<type 'exceptions.IndexError'>
+
+
+Time to complete: 0:00:00.433000
+--------------------------------------------------------
+
+--------------------------------------------------------
+Loading missing dates for Chicago, Illinois, 602900 missing dates found
+Time to complete: 0:00:00.005000
+--------------------------------------------------------
+
+--------------------------------------------------------
+Loading missing dates for Boston, Massachusetts, 21010 missing dates found
+Time to complete: 0:00:00.004000
+--------------------------------------------------------
+
+--------------------------------------------------------
+Loading missing dates for New York City, New York, 100010 missing dates found
+Time to complete: 0:00:00.005000
+--------------------------------------------------------
+
+--------------------------------------------------------
+Loading missing dates for Washington, District of Columbia, 200010 missing dates found
+Time to complete: 0:00:00.005000
+--------------------------------------------------------
+
+--------------------------------------------------------
+Loading missing dates for Tulsa, Oklahoma, 741041 missing dates foundLoading URL: https://www.wunderground.com/history/airport/KRVS/1970/1/1/DailyHistory.html?format=1
+ERROR:<type 'exceptions.IndexError'>
+
+
+Time to complete: 0:00:00.508000
+--------------------------------------------------------
+
+--------------------------------------------------------
+Loading missing dates for Seattle, Washington, 981011 missing dates foundLoading URL: https://www.wunderground.com/history/airport/KBFI/1970/1/1/DailyHistory.html?format=1
+Successfully loaded
+
+
+Time to complete: 0:00:00.946000
+--------------------------------------------------------
+
+--------------------------------------------------------
+Loading missing dates for San Francisco, California, 941010 missing dates found
+Time to complete: 0:00:00.005000
+--------------------------------------------------------
+
+--------------------------------------------------------
+Loading missing dates for Los Angeles, California, 900011 missing dates foundLoading URL: https://www.wunderground.com/history/airport/KCQT/1970/1/1/DailyHistory.html?format=1
+ERROR:<type 'exceptions.IndexError'>
+
+
+Time to complete: 0:00:00.519000
+--------------------------------------------------------
+
+--------------------------------------------------------
+Loading missing dates for Boise, Idaho, 837010 missing dates found
+Time to complete: 0:00:00.005000
+--------------------------------------------------------
+
+--------------------------------------------------------
+Loading missing dates for Denver, Colorado, 802021 missing dates foundLoading URL: https://www.wunderground.com/history/airport/KAPA/1970/1/1/DailyHistory.html?format=1
+ERROR:<type 'exceptions.IndexError'>
+
+
+Time to complete: 0:00:00.465000
+--------------------------------------------------------
+
+--------------------------------------------------------
+Loading missing dates for Dallas, Texas, 752010 missing dates found
+Time to complete: 0:00:00.005000
+--------------------------------------------------------
+
+--------------------------------------------------------
+Loading missing dates for New Orleans, Louisiana, 700630 missing dates found
+Time to complete: 0:00:00.005000
+--------------------------------------------------------
+
+--------------------------------------------------------
+Loading missing dates for Miami, Florida, 330100 missing dates found
+Time to complete: 0:00:00.005000
+--------------------------------------------------------
+
+--------------------------------------------------------
+Loading missing dates for Atlanta, Georgia, 303011 missing dates foundLoading URL: https://www.wunderground.com/history/airport/KPDK/1970/1/1/DailyHistory.html?format=1
+ERROR:<type 'exceptions.IndexError'>
+
+
+Time to complete: 0:00:00.475000
+--------------------------------------------------------
+
+--------------------------------------------------------
+Loading missing dates for St Louis, Missouri, 631010 missing dates found
+Time to complete: 0:00:00.004000
+--------------------------------------------------------
+
+--------------------------------------------------------
+Loading missing dates for Minneapolis, Minnesota, 554011 missing dates foundLoading URL: https://www.wunderground.com/history/airport/KMIC/1970/1/1/DailyHistory.html?format=1
+ERROR:<type 'exceptions.IndexError'>
+
+
+Time to complete: 0:00:00.502000
+--------------------------------------------------------
+
+--------------------------------------------------------
+Loading missing dates for Chicago, Illinois, 602900 missing dates found
+Time to complete: 0:00:00.005000
+--------------------------------------------------------
+
+--------------------------------------------------------
+Loading missing dates for Boston, Massachusetts, 21010 missing dates found
+Time to complete: 0:00:00.005000
+--------------------------------------------------------
+
+--------------------------------------------------------
+Loading missing dates for New York City, New York, 100010 missing dates found
+Time to complete: 0:00:00.004000
+--------------------------------------------------------
+
+--------------------------------------------------------
+Loading missing dates for Washington, District of Columbia, 200010 missing dates found
+Time to complete: 0:00:00.004000
+--------------------------------------------------------
+
+--------------------------------------------------------
+Loading missing dates for Tulsa, Oklahoma, 741041 missing dates foundLoading URL: https://www.wunderground.com/history/airport/KRVS/1970/1/1/DailyHistory.html?format=1
+ERROR:<type 'exceptions.IndexError'>
+
+
+Time to complete: 0:00:00.587000
+--------------------------------------------------------
+
+--------------------------------------------------------
+Loading missing dates for Seattle, Washington, 981011 missing dates foundLoading URL: https://www.wunderground.com/history/airport/KBFI/1970/1/1/DailyHistory.html?format=1
+Successfully loaded
+
+
+Time to complete: 0:00:00.689000
+--------------------------------------------------------
+
+--------------------------------------------------------
+Loading missing dates for San Francisco, California, 941010 missing dates found
+Time to complete: 0:00:00.004000
+--------------------------------------------------------
+
+--------------------------------------------------------
+Loading missing dates for Los Angeles, California, 900011 missing dates foundLoading URL: https://www.wunderground.com/history/airport/KCQT/1970/1/1/DailyHistory.html?format=1
+ERROR:<type 'exceptions.IndexError'>
+
+
+Time to complete: 0:00:00.483000
+--------------------------------------------------------
+
+--------------------------------------------------------
+Loading missing dates for Boise, Idaho, 837010 missing dates found
+Time to complete: 0:00:00.005000
+--------------------------------------------------------
+
+--------------------------------------------------------
+Loading missing dates for Denver, Colorado, 802021 missing dates foundLoading URL: https://www.wunderground.com/history/airport/KAPA/1970/1/1/DailyHistory.html?format=1
+ERROR:<type 'exceptions.IndexError'>
+
+
+Time to complete: 0:00:00.469000
+--------------------------------------------------------
+
+--------------------------------------------------------
+Loading missing dates for Dallas, Texas, 752010 missing dates found
+Time to complete: 0:00:00.004000
+--------------------------------------------------------
+
+--------------------------------------------------------
+Loading missing dates for New Orleans, Louisiana, 700630 missing dates found
+Time to complete: 0:00:00.004000
+--------------------------------------------------------
+
+--------------------------------------------------------
+Loading missing dates for Miami, Florida, 330100 missing dates found
+Time to complete: 0:00:00.004000
+--------------------------------------------------------
+
+--------------------------------------------------------
+Loading missing dates for Atlanta, Georgia, 303011 missing dates foundLoading URL: https://www.wunderground.com/history/airport/KPDK/1970/1/1/DailyHistory.html?format=1
+ERROR:<type 'exceptions.IndexError'>
+
+
+Time to complete: 0:00:00.469000
+--------------------------------------------------------
+
+--------------------------------------------------------
+Loading missing dates for St Louis, Missouri, 631010 missing dates found
+Time to complete: 0:00:00.004000
+--------------------------------------------------------
+
+--------------------------------------------------------
+Loading missing dates for Minneapolis, Minnesota, 554011 missing dates foundLoading URL: https://www.wunderground.com/history/airport/KMIC/1970/1/1/DailyHistory.html?format=1
+ERROR:<type 'exceptions.IndexError'>
+
+
+Time to complete: 0:00:00.414000
+--------------------------------------------------------
+
+--------------------------------------------------------
+Loading missing dates for Chicago, Illinois, 602900 missing dates found
+Time to complete: 0:00:00.004000
+--------------------------------------------------------
+
+--------------------------------------------------------
+Loading missing dates for Boston, Massachusetts, 21010 missing dates found
+Time to complete: 0:00:00.004000
+--------------------------------------------------------
+
+--------------------------------------------------------
+Loading missing dates for New York City, New York, 100010 missing dates found
+Time to complete: 0:00:00.004000
+--------------------------------------------------------
+
+--------------------------------------------------------
+Loading missing dates for Washington, District of Columbia, 200010 missing dates found
+Time to complete: 0:00:00.005000
+--------------------------------------------------------
+
+--------------------------------------------------------
+Loading missing dates for Tulsa, Oklahoma, 741041 missing dates foundLoading URL: https://www.wunderground.com/history/airport/KTUL/1970/1/1/DailyHistory.html?format=1
+Successfully loaded
+
+
+Time to complete: 0:00:00.522000
+--------------------------------------------------------
+
+--------------------------------------------------------
+Loading missing dates for Seattle, Washington, 981011 missing dates foundLoading URL: https://www.wunderground.com/history/airport/KSEA/1970/1/1/DailyHistory.html?format=1
+Successfully loaded
+
+
+Time to complete: 0:00:00.494000
+--------------------------------------------------------
+
+--------------------------------------------------------
+Loading missing dates for San Francisco, California, 941010 missing dates found
+Time to complete: 0:00:00.005000
+--------------------------------------------------------
+
+--------------------------------------------------------
+Loading missing dates for Los Angeles, California, 900011 missing dates foundLoading URL: https://www.wunderground.com/history/airport/KLAX/1970/1/1/DailyHistory.html?format=1
+Successfully loaded
+
+
+Time to complete: 0:00:00.574000
+--------------------------------------------------------
+
+--------------------------------------------------------
+Loading missing dates for Boise, Idaho, 837010 missing dates found
+Time to complete: 0:00:00.004000
+--------------------------------------------------------
+
+--------------------------------------------------------
+Loading missing dates for Tulsa, Oklahoma, 741040 missing dates found
+Time to complete: 0:00:00.006000
+--------------------------------------------------------
+
+--------------------------------------------------------
+Loading missing dates for Seattle, Washington, 981010 missing dates found
+Time to complete: 0:00:00.006000
+--------------------------------------------------------
+
+--------------------------------------------------------
+Loading missing dates for San Francisco, California, 941010 missing dates found
+Time to complete: 0:00:00.004000
+--------------------------------------------------------
+
+--------------------------------------------------------
+Loading missing dates for Los Angeles, California, 900010 missing dates found
+Time to complete: 0:00:00.004000
+--------------------------------------------------------
+
+--------------------------------------------------------
+Loading missing dates for Boise, Idaho, 837010 missing dates found
+Time to complete: 0:00:00.004000
+--------------------------------------------------------
+
+--------------------------------------------------------
+Loading missing dates for Denver, Colorado, 80202
+--------------------------------------------------------
+Loading missing dates for Tulsa, Oklahoma, 741040 missing dates found
+Time to complete: 0:00:00.005000
+--------------------------------------------------------
+
+--------------------------------------------------------
+Loading missing dates for Seattle, Washington, 981010 missing dates found
+Time to complete: 0:00:00.006000
+--------------------------------------------------------
+
+--------------------------------------------------------
+Loading missing dates for San Francisco, California, 941010 missing dates found
+Time to complete: 0:00:00.005000
+--------------------------------------------------------
+
+--------------------------------------------------------
+Loading missing dates for Los Angeles, California, 900010 missing dates found
+Time to complete: 0:00:00.005000
+--------------------------------------------------------
+
+--------------------------------------------------------
+Loading missing dates for Boise, Idaho, 837010 missing dates found
+Time to complete: 0:00:00.005000
+--------------------------------------------------------
+
+--------------------------------------------------------
+Loading missing dates for Denver, Colorado, 80202
+--------------------------------------------------------
+Loading missing dates for Tulsa, Oklahoma, 741040 missing dates found
+Time to complete: 0:00:00.004000
+--------------------------------------------------------
+
+--------------------------------------------------------
+Loading missing dates for Seattle, Washington, 981010 missing dates found
+Time to complete: 0:00:00.005000
+--------------------------------------------------------
+
+--------------------------------------------------------
+Loading missing dates for San Francisco, California, 941010 missing dates found
+Time to complete: 0:00:00.005000
+--------------------------------------------------------
+
+--------------------------------------------------------
+Loading missing dates for Los Angeles, California, 900010 missing dates found
+Time to complete: 0:00:00.005000
+--------------------------------------------------------
+
+--------------------------------------------------------
+Loading missing dates for Boise, Idaho, 837010 missing dates found
+Time to complete: 0:00:00.005000
+--------------------------------------------------------
+
+--------------------------------------------------------
+Loading missing dates for Colorado Springs, Colorado, 802021 missing dates foundLoading URL: https://www.wunderground.com/history/airport/KCOS/1970/1/1/DailyHistory.html?format=1
+Successfully loaded
+
+
+Time to complete: 0:00:00.624000
+--------------------------------------------------------
+
+--------------------------------------------------------
+Loading missing dates for Dallas, Texas, 752010 missing dates found
+Time to complete: 0:00:00.005000
+--------------------------------------------------------
+
+--------------------------------------------------------
+Loading missing dates for New Orleans, Louisiana, 700630 missing dates found
+Time to complete: 0:00:00.004000
+--------------------------------------------------------
+
+--------------------------------------------------------
+Loading missing dates for Miami, Florida, 330100 missing dates found
+Time to complete: 0:00:00.004000
+--------------------------------------------------------
+
+--------------------------------------------------------
+Loading missing dates for Atlanta, Georgia, 303011 missing dates foundLoading URL: https://www.wunderground.com/history/airport/KATL/1970/1/1/DailyHistory.html?format=1
+Successfully loaded
+
+
+Time to complete: 0:00:00.525000
+--------------------------------------------------------
+
+--------------------------------------------------------
+Loading missing dates for St Louis, Missouri, 631010 missing dates found
+Time to complete: 0:00:00.005000
+--------------------------------------------------------
+
+--------------------------------------------------------
+Loading missing dates for Minneapolis, Minnesota, 554011 missing dates foundLoading URL: https://www.wunderground.com/history/airport/KMSP/1970/1/1/DailyHistory.html?format=1
+Successfully loaded
+
+
+Time to complete: 0:00:00.645000
+--------------------------------------------------------
+
+--------------------------------------------------------
+Loading missing dates for Chicago, Illinois, 602900 missing dates found
+Time to complete: 0:00:00.005000
+--------------------------------------------------------
+
+--------------------------------------------------------
+Loading missing dates for Boston, Massachusetts, 21010 missing dates found
+Time to complete: 0:00:00.004000
+--------------------------------------------------------
+
+--------------------------------------------------------
+Loading missing dates for New York City, New York, 100010 missing dates found
+Time to complete: 0:00:00.004000
+--------------------------------------------------------
+
+--------------------------------------------------------
+Loading missing dates for Washington, District of Columbia, 200010 missing dates found
+Time to complete: 0:00:00.005000
+--------------------------------------------------------
+
+--------------------------------------------------------
+Loading missing dates for Tulsa, Oklahoma, 741040 missing dates found
+Time to complete: 0:00:00.005000
+--------------------------------------------------------
+
+--------------------------------------------------------
+Loading missing dates for Seattle, Washington, 981010 missing dates found
+Time to complete: 0:00:00.005000
+--------------------------------------------------------
+
+--------------------------------------------------------
+Loading missing dates for San Francisco, California, 941010 missing dates found
+Time to complete: 0:00:00.005000
+--------------------------------------------------------
+
+--------------------------------------------------------
+Loading missing dates for Los Angeles, California, 900010 missing dates found
+Time to complete: 0:00:00.004000
+--------------------------------------------------------
+
+--------------------------------------------------------
+Loading missing dates for Boise, Idaho, 837010 missing dates found
+Time to complete: 0:00:00.004000
+--------------------------------------------------------
+
+--------------------------------------------------------
+Loading missing dates for Colorado Springs, Colorado, 802020 missing dates found
+Time to complete: 0:00:00.004000
+--------------------------------------------------------
+
+--------------------------------------------------------
+Loading missing dates for Dallas, Texas, 752010 missing dates found
+Time to complete: 0:00:00.004000
+--------------------------------------------------------
+
+--------------------------------------------------------
+Loading missing dates for New Orleans, Louisiana, 700630 missing dates found
+Time to complete: 0:00:00.005000
+--------------------------------------------------------
+
+--------------------------------------------------------
+Loading missing dates for Miami, Florida, 330100 missing dates found
+Time to complete: 0:00:00.004000
+--------------------------------------------------------
+
+--------------------------------------------------------
+Loading missing dates for Atlanta, Georgia, 303010 missing dates found
+Time to complete: 0:00:00.004000
+--------------------------------------------------------
+
+--------------------------------------------------------
+Loading missing dates for St Louis, Missouri, 631010 missing dates found
+Time to complete: 0:00:00.004000
+--------------------------------------------------------
+
+--------------------------------------------------------
+Loading missing dates for Minneapolis, Minnesota, 554010 missing dates found
+Time to complete: 0:00:00.004000
+--------------------------------------------------------
+
+--------------------------------------------------------
+Loading missing dates for Chicago, Illinois, 602900 missing dates found
+Time to complete: 0:00:00.005000
+--------------------------------------------------------
+
+--------------------------------------------------------
+Loading missing dates for Boston, Massachusetts, 21010 missing dates found
+Time to complete: 0:00:00.005000
+--------------------------------------------------------
+
+--------------------------------------------------------
+Loading missing dates for New York City, New York, 100010 missing dates found
+Time to complete: 0:00:00.004000
+--------------------------------------------------------
+
+--------------------------------------------------------
+Loading missing dates for Washington, District of Columbia, 200010 missing dates found
+Time to complete: 0:00:00.004000
+--------------------------------------------------------
+
+--------------------------------------------------------
+Loading missing dates for Tulsa, Oklahoma, 7410429 missing dates foundLoading URL: https://www.wunderground.com/history/airport/KTUL/1970/1/3/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KTUL/1970/1/4/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KTUL/1970/1/5/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KTUL/1970/1/6/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KTUL/1970/1/7/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KTUL/1970/1/8/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KTUL/1970/1/9/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KTUL/1970/1/10/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KTUL/1970/1/11/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KTUL/1970/1/12/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KTUL/1970/1/13/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KTUL/1970/1/14/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KTUL/1970/1/15/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KTUL/1970/1/16/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KTUL/1970/1/17/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KTUL/1970/1/18/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KTUL/1970/1/19/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KTUL/1970/1/20/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KTUL/1970/1/21/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KTUL/1970/1/22/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KTUL/1970/1/23/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KTUL/1970/1/24/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KTUL/1970/1/25/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KTUL/1970/1/26/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KTUL/1970/1/27/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KTUL/1970/1/28/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KTUL/1970/1/29/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KTUL/1970/1/30/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KTUL/1970/1/31/DailyHistory.html?format=1
+Successfully loaded
+
+
+Time to complete: 0:00:14.505000
+--------------------------------------------------------
+
+--------------------------------------------------------
+Loading missing dates for Seattle, Washington, 9810129 missing dates foundLoading URL: https://www.wunderground.com/history/airport/KSEA/1970/1/3/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KSEA/1970/1/4/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KSEA/1970/1/5/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KSEA/1970/1/6/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KSEA/1970/1/7/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KSEA/1970/1/8/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KSEA/1970/1/9/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KSEA/1970/1/10/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KSEA/1970/1/11/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KSEA/1970/1/12/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KSEA/1970/1/13/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KSEA/1970/1/14/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KSEA/1970/1/15/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KSEA/1970/1/16/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KSEA/1970/1/17/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KSEA/1970/1/18/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KSEA/1970/1/19/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KSEA/1970/1/20/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KSEA/1970/1/21/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KSEA/1970/1/22/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KSEA/1970/1/23/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KSEA/1970/1/24/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KSEA/1970/1/25/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KSEA/1970/1/26/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KSEA/1970/1/27/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KSEA/1970/1/28/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KSEA/1970/1/29/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KSEA/1970/1/30/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KSEA/1970/1/31/DailyHistory.html?format=1
+Successfully loaded
+
+
+Time to complete: 0:00:14.087000
+--------------------------------------------------------
+
+--------------------------------------------------------
+Loading missing dates for San Francisco, California, 9410129 missing dates foundLoading URL: https://www.wunderground.com/history/airport/KSFO/1970/1/3/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KSFO/1970/1/4/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KSFO/1970/1/5/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KSFO/1970/1/6/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KSFO/1970/1/7/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KSFO/1970/1/8/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KSFO/1970/1/9/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KSFO/1970/1/10/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KSFO/1970/1/11/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KSFO/1970/1/12/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KSFO/1970/1/13/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KSFO/1970/1/14/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KSFO/1970/1/15/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KSFO/1970/1/16/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KSFO/1970/1/17/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KSFO/1970/1/18/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KSFO/1970/1/19/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KSFO/1970/1/20/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KSFO/1970/1/21/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KSFO/1970/1/22/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KSFO/1970/1/23/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KSFO/1970/1/24/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KSFO/1970/1/25/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KSFO/1970/1/26/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KSFO/1970/1/27/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KSFO/1970/1/28/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KSFO/1970/1/29/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KSFO/1970/1/30/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KSFO/1970/1/31/DailyHistory.html?format=1
+Successfully loaded
+
+
+Time to complete: 0:00:14.440000
+--------------------------------------------------------
+
+--------------------------------------------------------
+Loading missing dates for Los Angeles, California, 9000129 missing dates foundLoading URL: https://www.wunderground.com/history/airport/KLAX/1970/1/3/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KLAX/1970/1/4/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KLAX/1970/1/5/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KLAX/1970/1/6/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KLAX/1970/1/7/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KLAX/1970/1/8/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KLAX/1970/1/9/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KLAX/1970/1/10/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KLAX/1970/1/11/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KLAX/1970/1/12/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KLAX/1970/1/13/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KLAX/1970/1/14/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KLAX/1970/1/15/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KLAX/1970/1/16/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KLAX/1970/1/17/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KLAX/1970/1/18/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KLAX/1970/1/19/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KLAX/1970/1/20/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KLAX/1970/1/21/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KLAX/1970/1/22/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KLAX/1970/1/23/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KLAX/1970/1/24/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KLAX/1970/1/25/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KLAX/1970/1/26/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KLAX/1970/1/27/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KLAX/1970/1/28/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KLAX/1970/1/29/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KLAX/1970/1/30/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KLAX/1970/1/31/DailyHistory.html?format=1
+Successfully loaded
+
+
+Time to complete: 0:00:15.247000
+--------------------------------------------------------
+
+--------------------------------------------------------
+Loading missing dates for Boise, Idaho, 8370129 missing dates foundLoading URL: https://www.wunderground.com/history/airport/KBOI/1970/1/3/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KBOI/1970/1/4/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KBOI/1970/1/5/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KBOI/1970/1/6/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KBOI/1970/1/7/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KBOI/1970/1/8/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KBOI/1970/1/9/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KBOI/1970/1/10/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KBOI/1970/1/11/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KBOI/1970/1/12/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KBOI/1970/1/13/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KBOI/1970/1/14/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KBOI/1970/1/15/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KBOI/1970/1/16/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KBOI/1970/1/17/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KBOI/1970/1/18/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KBOI/1970/1/19/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KBOI/1970/1/20/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KBOI/1970/1/21/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KBOI/1970/1/22/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KBOI/1970/1/23/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KBOI/1970/1/24/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KBOI/1970/1/25/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KBOI/1970/1/26/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KBOI/1970/1/27/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KBOI/1970/1/28/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KBOI/1970/1/29/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KBOI/1970/1/30/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KBOI/1970/1/31/DailyHistory.html?format=1
+Successfully loaded
+
+
+Time to complete: 0:00:14.129000
+--------------------------------------------------------
+
+--------------------------------------------------------
+Loading missing dates for Colorado Springs, Colorado, 8020229 missing dates foundLoading URL: https://www.wunderground.com/history/airport/KCOS/1970/1/3/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KCOS/1970/1/4/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KCOS/1970/1/5/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KCOS/1970/1/6/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KCOS/1970/1/7/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KCOS/1970/1/8/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KCOS/1970/1/9/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KCOS/1970/1/10/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KCOS/1970/1/11/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KCOS/1970/1/12/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KCOS/1970/1/13/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KCOS/1970/1/14/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KCOS/1970/1/15/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KCOS/1970/1/16/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KCOS/1970/1/17/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KCOS/1970/1/18/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KCOS/1970/1/19/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KCOS/1970/1/20/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KCOS/1970/1/21/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KCOS/1970/1/22/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KCOS/1970/1/23/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KCOS/1970/1/24/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KCOS/1970/1/25/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KCOS/1970/1/26/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KCOS/1970/1/27/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KCOS/1970/1/28/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KCOS/1970/1/29/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KCOS/1970/1/30/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KCOS/1970/1/31/DailyHistory.html?format=1
+Successfully loaded
+
+
+Time to complete: 0:00:14.587000
+--------------------------------------------------------
+
+--------------------------------------------------------
+Loading missing dates for Dallas, Texas, 7520129 missing dates foundLoading URL: https://www.wunderground.com/history/airport/KDAL/1970/1/3/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KDAL/1970/1/4/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KDAL/1970/1/5/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KDAL/1970/1/6/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KDAL/1970/1/7/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KDAL/1970/1/8/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KDAL/1970/1/9/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KDAL/1970/1/10/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KDAL/1970/1/11/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KDAL/1970/1/12/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KDAL/1970/1/13/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KDAL/1970/1/14/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KDAL/1970/1/15/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KDAL/1970/1/16/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KDAL/1970/1/17/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KDAL/1970/1/18/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KDAL/1970/1/19/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KDAL/1970/1/20/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KDAL/1970/1/21/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KDAL/1970/1/22/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KDAL/1970/1/23/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KDAL/1970/1/24/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KDAL/1970/1/25/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KDAL/1970/1/26/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KDAL/1970/1/27/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KDAL/1970/1/28/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KDAL/1970/1/29/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KDAL/1970/1/30/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KDAL/1970/1/31/DailyHistory.html?format=1
+Successfully loaded
+
+
+Time to complete: 0:00:13.986000
+--------------------------------------------------------
+
+--------------------------------------------------------
+Loading missing dates for New Orleans, Louisiana, 7006329 missing dates foundLoading URL: https://www.wunderground.com/history/airport/KMSY/1970/1/3/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KMSY/1970/1/4/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KMSY/1970/1/5/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KMSY/1970/1/6/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KMSY/1970/1/7/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KMSY/1970/1/8/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KMSY/1970/1/9/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KMSY/1970/1/10/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KMSY/1970/1/11/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KMSY/1970/1/12/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KMSY/1970/1/13/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KMSY/1970/1/14/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KMSY/1970/1/15/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KMSY/1970/1/16/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KMSY/1970/1/17/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KMSY/1970/1/18/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KMSY/1970/1/19/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KMSY/1970/1/20/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KMSY/1970/1/21/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KMSY/1970/1/22/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KMSY/1970/1/23/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KMSY/1970/1/24/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KMSY/1970/1/25/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KMSY/1970/1/26/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KMSY/1970/1/27/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KMSY/1970/1/28/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KMSY/1970/1/29/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KMSY/1970/1/30/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KMSY/1970/1/31/DailyHistory.html?format=1
+Successfully loaded
+
+
+Time to complete: 0:00:14.067000
+--------------------------------------------------------
+
+--------------------------------------------------------
+Loading missing dates for Miami, Florida, 3301029 missing dates foundLoading URL: https://www.wunderground.com/history/airport/KMIA/1970/1/3/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KMIA/1970/1/4/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KMIA/1970/1/5/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KMIA/1970/1/6/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KMIA/1970/1/7/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KMIA/1970/1/8/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KMIA/1970/1/9/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KMIA/1970/1/10/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KMIA/1970/1/11/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KMIA/1970/1/12/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KMIA/1970/1/13/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KMIA/1970/1/14/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KMIA/1970/1/15/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KMIA/1970/1/16/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KMIA/1970/1/17/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KMIA/1970/1/18/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KMIA/1970/1/19/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KMIA/1970/1/20/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KMIA/1970/1/21/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KMIA/1970/1/22/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KMIA/1970/1/23/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KMIA/1970/1/24/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KMIA/1970/1/25/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KMIA/1970/1/26/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KMIA/1970/1/27/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KMIA/1970/1/28/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KMIA/1970/1/29/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KMIA/1970/1/30/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KMIA/1970/1/31/DailyHistory.html?format=1
+Successfully loaded
+
+
+Time to complete: 0:00:14.768000
+--------------------------------------------------------
+
+--------------------------------------------------------
+Loading missing dates for Atlanta, Georgia, 3030129 missing dates foundLoading URL: https://www.wunderground.com/history/airport/KATL/1970/1/3/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KATL/1970/1/4/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KATL/1970/1/5/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KATL/1970/1/6/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KATL/1970/1/7/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KATL/1970/1/8/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KATL/1970/1/9/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KATL/1970/1/10/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KATL/1970/1/11/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KATL/1970/1/12/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KATL/1970/1/13/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KATL/1970/1/14/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KATL/1970/1/15/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KATL/1970/1/16/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KATL/1970/1/17/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KATL/1970/1/18/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KATL/1970/1/19/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KATL/1970/1/20/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KATL/1970/1/21/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KATL/1970/1/22/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KATL/1970/1/23/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KATL/1970/1/24/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KATL/1970/1/25/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KATL/1970/1/26/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KATL/1970/1/27/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KATL/1970/1/28/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KATL/1970/1/29/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KATL/1970/1/30/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KATL/1970/1/31/DailyHistory.html?format=1
+Successfully loaded
+
+
+Time to complete: 0:00:15.836000
+--------------------------------------------------------
+
+--------------------------------------------------------
+Loading missing dates for St Louis, Missouri, 6310129 missing dates foundLoading URL: https://www.wunderground.com/history/airport/KSTL/1970/1/3/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KSTL/1970/1/4/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KSTL/1970/1/5/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KSTL/1970/1/6/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KSTL/1970/1/7/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KSTL/1970/1/8/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KSTL/1970/1/9/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KSTL/1970/1/10/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KSTL/1970/1/11/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KSTL/1970/1/12/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KSTL/1970/1/13/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KSTL/1970/1/14/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KSTL/1970/1/15/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KSTL/1970/1/16/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KSTL/1970/1/17/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KSTL/1970/1/18/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KSTL/1970/1/19/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KSTL/1970/1/20/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KSTL/1970/1/21/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KSTL/1970/1/22/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KSTL/1970/1/23/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KSTL/1970/1/24/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KSTL/1970/1/25/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KSTL/1970/1/26/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KSTL/1970/1/27/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KSTL/1970/1/28/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KSTL/1970/1/29/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KSTL/1970/1/30/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KSTL/1970/1/31/DailyHistory.html?format=1
+Successfully loaded
+
+
+Time to complete: 0:00:14.018000
+--------------------------------------------------------
+
+--------------------------------------------------------
+Loading missing dates for Minneapolis, Minnesota, 5540129 missing dates foundLoading URL: https://www.wunderground.com/history/airport/KMSP/1970/1/3/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KMSP/1970/1/4/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KMSP/1970/1/5/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KMSP/1970/1/6/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KMSP/1970/1/7/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KMSP/1970/1/8/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KMSP/1970/1/9/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KMSP/1970/1/10/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KMSP/1970/1/11/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KMSP/1970/1/12/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KMSP/1970/1/13/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KMSP/1970/1/14/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KMSP/1970/1/15/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KMSP/1970/1/16/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KMSP/1970/1/17/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KMSP/1970/1/18/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KMSP/1970/1/19/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KMSP/1970/1/20/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KMSP/1970/1/21/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KMSP/1970/1/22/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KMSP/1970/1/23/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KMSP/1970/1/24/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KMSP/1970/1/25/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KMSP/1970/1/26/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KMSP/1970/1/27/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KMSP/1970/1/28/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KMSP/1970/1/29/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KMSP/1970/1/30/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KMSP/1970/1/31/DailyHistory.html?format=1
+Successfully loaded
+
+
+Time to complete: 0:00:16.021000
+--------------------------------------------------------
+
+--------------------------------------------------------
+Loading missing dates for Chicago, Illinois, 6029029 missing dates foundLoading URL: https://www.wunderground.com/history/airport/KMDW/1970/1/3/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KMDW/1970/1/4/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KMDW/1970/1/5/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KMDW/1970/1/6/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KMDW/1970/1/7/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KMDW/1970/1/8/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KMDW/1970/1/9/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KMDW/1970/1/10/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KMDW/1970/1/11/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KMDW/1970/1/12/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KMDW/1970/1/13/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KMDW/1970/1/14/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KMDW/1970/1/15/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KMDW/1970/1/16/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KMDW/1970/1/17/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KMDW/1970/1/18/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KMDW/1970/1/19/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KMDW/1970/1/20/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KMDW/1970/1/21/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KMDW/1970/1/22/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KMDW/1970/1/23/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KMDW/1970/1/24/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KMDW/1970/1/25/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KMDW/1970/1/26/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KMDW/1970/1/27/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KMDW/1970/1/28/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KMDW/1970/1/29/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KMDW/1970/1/30/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KMDW/1970/1/31/DailyHistory.html?format=1
+Successfully loaded
+
+
+Time to complete: 0:00:15.028000
+--------------------------------------------------------
+
+--------------------------------------------------------
+Loading missing dates for Boston, Massachusetts, 210129 missing dates foundLoading URL: https://www.wunderground.com/history/airport/KBOS/1970/1/3/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KBOS/1970/1/4/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KBOS/1970/1/5/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KBOS/1970/1/6/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KBOS/1970/1/7/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KBOS/1970/1/8/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KBOS/1970/1/9/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KBOS/1970/1/10/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KBOS/1970/1/11/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KBOS/1970/1/12/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KBOS/1970/1/13/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KBOS/1970/1/14/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KBOS/1970/1/15/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KBOS/1970/1/16/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KBOS/1970/1/17/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KBOS/1970/1/18/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KBOS/1970/1/19/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KBOS/1970/1/20/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KBOS/1970/1/21/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KBOS/1970/1/22/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KBOS/1970/1/23/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KBOS/1970/1/24/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KBOS/1970/1/25/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KBOS/1970/1/26/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KBOS/1970/1/27/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KBOS/1970/1/28/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KBOS/1970/1/29/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KBOS/1970/1/30/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KBOS/1970/1/31/DailyHistory.html?format=1
+Successfully loaded
+
+
+Time to complete: 0:00:15.977000
+--------------------------------------------------------
+
+--------------------------------------------------------
+Loading missing dates for New York City, New York, 1000129 missing dates foundLoading URL: https://www.wunderground.com/history/airport/KNYC/1970/1/3/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KNYC/1970/1/4/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KNYC/1970/1/5/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KNYC/1970/1/6/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KNYC/1970/1/7/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KNYC/1970/1/8/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KNYC/1970/1/9/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KNYC/1970/1/10/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KNYC/1970/1/11/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KNYC/1970/1/12/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KNYC/1970/1/13/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KNYC/1970/1/14/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KNYC/1970/1/15/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KNYC/1970/1/16/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KNYC/1970/1/17/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KNYC/1970/1/18/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KNYC/1970/1/19/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KNYC/1970/1/20/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KNYC/1970/1/21/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KNYC/1970/1/22/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KNYC/1970/1/23/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KNYC/1970/1/24/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KNYC/1970/1/25/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KNYC/1970/1/26/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KNYC/1970/1/27/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KNYC/1970/1/28/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KNYC/1970/1/29/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KNYC/1970/1/30/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KNYC/1970/1/31/DailyHistory.html?format=1
+Successfully loaded
+
+
+Time to complete: 0:00:14.500000
+--------------------------------------------------------
+
+--------------------------------------------------------
+Loading missing dates for Washington, District of Columbia, 2000129 missing dates foundLoading URL: https://www.wunderground.com/history/airport/KDCA/1970/1/3/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KDCA/1970/1/4/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KDCA/1970/1/5/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KDCA/1970/1/6/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KDCA/1970/1/7/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KDCA/1970/1/8/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KDCA/1970/1/9/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KDCA/1970/1/10/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KDCA/1970/1/11/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KDCA/1970/1/12/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KDCA/1970/1/13/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KDCA/1970/1/14/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KDCA/1970/1/15/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KDCA/1970/1/16/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KDCA/1970/1/17/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KDCA/1970/1/18/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KDCA/1970/1/19/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KDCA/1970/1/20/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KDCA/1970/1/21/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KDCA/1970/1/22/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KDCA/1970/1/23/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KDCA/1970/1/24/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KDCA/1970/1/25/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KDCA/1970/1/26/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KDCA/1970/1/27/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KDCA/1970/1/28/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KDCA/1970/1/29/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KDCA/1970/1/30/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KDCA/1970/1/31/DailyHistory.html?format=1
+Successfully loaded
+
+
+Time to complete: 0:00:15.892000
+--------------------------------------------------------
+
+--------------------------------------------------------
+Loading missing dates for Tulsa, Oklahoma, 741040 missing dates found
+Time to complete: 0:00:00.006000
+--------------------------------------------------------
+
+--------------------------------------------------------
+Loading missing dates for Denver, Colorado, 80202
+--------------------------------------------------------
+Loading missing dates for Tulsa, Oklahoma, 741040 missing dates found
+Time to complete: 0:00:00.006000
+--------------------------------------------------------
+
+--------------------------------------------------------
+Loading missing dates for Seattle, Washington, 981010 missing dates found
+Time to complete: 0:00:00.007000
+--------------------------------------------------------
+
+--------------------------------------------------------
+Loading missing dates for San Francisco, California, 941010 missing dates found
+Time to complete: 0:00:00.008000
+--------------------------------------------------------
+
+--------------------------------------------------------
+Loading missing dates for Los Angeles, California, 900010 missing dates found
+Time to complete: 0:00:00.007000
+--------------------------------------------------------
+
+--------------------------------------------------------
+Loading missing dates for Boise, Idaho, 837010 missing dates found
+Time to complete: 0:00:00.006000
+--------------------------------------------------------
+
+--------------------------------------------------------
+Loading missing dates for Colorado Springs, Colorado, 802020 missing dates found
+Time to complete: 0:00:00.006000
+--------------------------------------------------------
+
+--------------------------------------------------------
+Loading missing dates for Dallas, Texas, 752010 missing dates found
+Time to complete: 0:00:00.005000
+--------------------------------------------------------
+
+--------------------------------------------------------
+Loading missing dates for New Orleans, Louisiana, 700630 missing dates found
+Time to complete: 0:00:00.008000
+--------------------------------------------------------
+
+--------------------------------------------------------
+Loading missing dates for Miami, Florida, 330100 missing dates found
+Time to complete: 0:00:00.006000
+--------------------------------------------------------
+
+--------------------------------------------------------
+Loading missing dates for Atlanta, Georgia, 303010 missing dates found
+Time to complete: 0:00:00.008000
+--------------------------------------------------------
+
+--------------------------------------------------------
+Loading missing dates for St Louis, Missouri, 631010 missing dates found
+Time to complete: 0:00:00.006000
+--------------------------------------------------------
+
+--------------------------------------------------------
+Loading missing dates for Minneapolis, Minnesota, 554010 missing dates found
+Time to complete: 0:00:00.007000
+--------------------------------------------------------
+
+--------------------------------------------------------
+Loading missing dates for Chicago, Illinois, 602900 missing dates found
+Time to complete: 0:00:00.008000
+--------------------------------------------------------
+
+--------------------------------------------------------
+Loading missing dates for Boston, Massachusetts, 21010 missing dates found
+Time to complete: 0:00:00.007000
+--------------------------------------------------------
+
+--------------------------------------------------------
+Loading missing dates for New York City, New York, 100010 missing dates found
+Time to complete: 0:00:00.006000
+--------------------------------------------------------
+
+--------------------------------------------------------
+Loading missing dates for Washington, District of Columbia, 200010 missing dates found
+Time to complete: 0:00:00.007000
+--------------------------------------------------------
+
+--------------------------------------------------------
+Loading missing dates for Tulsa, Oklahoma, 741040 missing dates found
+Time to complete: 0:00:00.006000
+--------------------------------------------------------
+
+--------------------------------------------------------
+Loading missing dates for Seattle, Washington, 981010 missing dates found
+Time to complete: 0:00:00.007000
+--------------------------------------------------------
+
+--------------------------------------------------------
+Loading missing dates for San Francisco, California, 941010 missing dates found
+Time to complete: 0:00:00.007000
+--------------------------------------------------------
+
+--------------------------------------------------------
+Loading missing dates for Los Angeles, California, 900010 missing dates found
+Time to complete: 0:00:00.008000
+--------------------------------------------------------
+
+--------------------------------------------------------
+Loading missing dates for Boise, Idaho, 837010 missing dates found
+Time to complete: 0:00:00.006000
+--------------------------------------------------------
+
+--------------------------------------------------------
+Loading missing dates for Colorado Springs, Colorado, 802020 missing dates found
+Time to complete: 0:00:00.007000
+--------------------------------------------------------
+
+--------------------------------------------------------
+Loading missing dates for Dallas, Texas, 752010 missing dates found
+Time to complete: 0:00:00.007000
+--------------------------------------------------------
+
+--------------------------------------------------------
+Loading missing dates for New Orleans, Louisiana, 700630 missing dates found
+Time to complete: 0:00:00.006000
+--------------------------------------------------------
+
+--------------------------------------------------------
+Loading missing dates for Miami, Florida, 330100 missing dates found
+Time to complete: 0:00:00.012000
+--------------------------------------------------------
+
+--------------------------------------------------------
+Loading missing dates for Atlanta, Georgia, 303010 missing dates found
+Time to complete: 0:00:00.007000
+--------------------------------------------------------
+
+--------------------------------------------------------
+Loading missing dates for St Louis, Missouri, 631010 missing dates found
+Time to complete: 0:00:00.007000
+--------------------------------------------------------
+
+--------------------------------------------------------
+Loading missing dates for Minneapolis, Minnesota, 554010 missing dates found
+Time to complete: 0:00:00.009000
+--------------------------------------------------------
+
+--------------------------------------------------------
+Loading missing dates for Chicago, Illinois, 602900 missing dates found
+Time to complete: 0:00:00.007000
+--------------------------------------------------------
+
+--------------------------------------------------------
+Loading missing dates for Boston, Massachusetts, 21010 missing dates found
+Time to complete: 0:00:00.009000
+--------------------------------------------------------
+
+--------------------------------------------------------
+Loading missing dates for New York City, New York, 100010 missing dates found
+Time to complete: 0:00:00.007000
+--------------------------------------------------------
+
+--------------------------------------------------------
+Loading missing dates for Washington, District of Columbia, 200010 missing dates found
+Time to complete: 0:00:00.006000
+--------------------------------------------------------
+
+--------------------------------------------------------
+Loading missing dates for Tulsa, Oklahoma, 7410417044 missing dates foundLoading URL: https://www.wunderground.com/history/airport/KTUL/1970/2/2/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KTUL/1970/2/3/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KTUL/1970/2/4/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KTUL/1970/2/5/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KTUL/1970/2/6/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KTUL/1970/2/7/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KTUL/1970/2/8/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KTUL/1970/2/9/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KTUL/1970/2/10/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KTUL/1970/2/11/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KTUL/1970/2/12/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KTUL/1970/2/13/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KTUL/1970/2/14/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KTUL/1970/2/15/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KTUL/1970/2/16/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KTUL/1970/2/17/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KTUL/1970/2/18/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KTUL/1970/2/19/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KTUL/1970/2/20/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KTUL/1970/2/21/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KTUL/1970/2/22/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KTUL/1970/2/23/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KTUL/1970/2/24/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KTUL/1970/2/25/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KTUL/1970/2/26/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KTUL/1970/2/27/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KTUL/1970/2/28/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KTUL/1970/3/1/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KTUL/1970/3/2/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KTUL/1970/3/3/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KTUL/1970/3/4/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KTUL/1970/3/5/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KTUL/1970/3/6/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KTUL/1970/3/7/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KTUL/1970/3/8/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KTUL/1970/3/9/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KTUL/1970/3/10/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KTUL/1970/3/11/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KTUL/1970/3/12/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KTUL/1970/3/13/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KTUL/1970/3/14/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KTUL/1970/3/15/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KTUL/1970/3/16/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KTUL/1970/3/17/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KTUL/1970/3/18/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KTUL/1970/3/19/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KTUL/1970/3/20/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KTUL/1970/3/21/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KTUL/1970/3/22/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KTUL/1970/3/23/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KTUL/1970/3/24/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KTUL/1970/3/25/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KTUL/1970/3/26/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KTUL/1970/3/27/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KTUL/1970/3/28/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KTUL/1970/3/29/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KTUL/1970/3/30/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KTUL/1970/3/31/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KTUL/1970/4/1/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KTUL/1970/4/2/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KTUL/1970/4/3/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KTUL/1970/4/4/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KTUL/1970/4/5/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KTUL/1970/4/6/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KTUL/1970/4/7/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KTUL/1970/4/8/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KTUL/1970/4/9/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KTUL/1970/4/10/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KTUL/1970/4/11/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KTUL/1970/4/12/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KTUL/1970/4/13/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KTUL/1970/4/14/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KTUL/1970/4/15/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KTUL/1970/4/16/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KTUL/1970/4/17/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KTUL/1970/4/18/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KTUL/1970/4/19/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KTUL/1970/4/20/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KTUL/1970/4/21/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KTUL/1970/4/22/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KTUL/1970/4/23/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KTUL/1970/4/24/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KTUL/1970/4/25/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KTUL/1970/4/26/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KTUL/1970/4/27/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KTUL/1970/4/28/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KTUL/1970/4/29/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KTUL/1970/4/30/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KTUL/1970/5/1/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KTUL/1970/5/2/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KTUL/1970/5/3/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KTUL/1970/5/4/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KTUL/1970/5/5/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KTUL/1970/5/6/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KTUL/1970/5/7/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KTUL/1970/5/8/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KTUL/1970/5/9/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KTUL/1970/5/10/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KTUL/1970/5/11/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KTUL/1970/5/12/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KTUL/1970/5/13/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KTUL/1970/5/14/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KTUL/1970/5/15/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KTUL/1970/5/16/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KTUL/1970/5/17/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KTUL/1970/5/18/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KTUL/1970/5/19/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KTUL/1970/5/20/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KTUL/1970/5/21/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KTUL/1970/5/22/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KTUL/1970/5/23/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KTUL/1970/5/24/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KTUL/1970/5/25/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KTUL/1970/5/26/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KTUL/1970/5/27/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KTUL/1970/5/28/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KTUL/1970/5/29/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KTUL/1970/5/30/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KTUL/1970/5/31/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KTUL/1970/6/1/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KTUL/1970/6/2/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KTUL/1970/6/3/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KTUL/1970/6/4/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KTUL/1970/6/5/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KTUL/1970/6/6/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KTUL/1970/6/7/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KTUL/1970/6/8/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KTUL/1970/6/9/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KTUL/1970/6/10/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KTUL/1970/6/11/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KTUL/1970/6/12/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KTUL/1970/6/13/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KTUL/1970/6/14/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KTUL/1970/6/15/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KTUL/1970/6/16/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KTUL/1970/6/17/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KTUL/1970/6/18/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KTUL/1970/6/19/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KTUL/1970/6/20/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KTUL/1970/6/21/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KTUL/1970/6/22/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KTUL/1970/6/23/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KTUL/1970/6/24/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KTUL/1970/6/25/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KTUL/1970/6/26/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KTUL/1970/6/27/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KTUL/1970/6/28/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KTUL/1970/6/29/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KTUL/1970/6/30/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KTUL/1970/7/1/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KTUL/1970/7/2/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KTUL/1970/7/3/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KTUL/1970/7/4/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KTUL/1970/7/5/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KTUL/1970/7/6/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KTUL/1970/7/7/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KTUL/1970/7/8/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KTUL/1970/7/9/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KTUL/1970/7/10/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KTUL/1970/7/11/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KTUL/1970/7/12/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KTUL/1970/7/13/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KTUL/1970/7/14/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KTUL/1970/7/15/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KTUL/1970/7/16/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KTUL/1970/7/17/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KTUL/1970/7/18/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KTUL/1970/7/19/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KTUL/1970/7/20/D

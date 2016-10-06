@@ -1,17 +1,17 @@
 City,State,Zip,Url
-Tulsa,Oklahoma,74104,https://www.wunderground.com/history/airport/KRVS/{year}/{month}/{day}/DailyHistory.html?format=1
-Seattle,Washington,98101,https://www.wunderground.com/history/airport/KBFI/{year}/{month}/{day}/DailyHistory.html?format=1
+Tulsa,Oklahoma,74104,https://www.wunderground.com/history/airport/KTUL/{year}/{month}/{day}/DailyHistory.html?format=1
+Seattle,Washington,98101,https://www.wunderground.com/history/airport/KSEA/{year}/{month}/{day}/DailyHistory.html?format=1
 San Francisco,California,94101,https://www.wunderground.com/history/airport/KSFO/{year}/{month}/{day}/DailyHistory.html?format=1
-Los Angeles,California,90001,https://www.wunderground.com/history/airport/KCQT/{year}/{month}/{day}/DailyHistory.html?format=1
+Los Angeles,California,90001,https://www.wunderground.com/history/airport/KLAX/{year}/{month}/{day}/DailyHistory.html?format=1
 Boise,Idaho,83701,https://www.wunderground.com/history/airport/KBOI/{year}/{month}/{day}/DailyHistory.html?format=1
-Denver,Colorado,80202,https://www.wunderground.com/history/airport/KAPA/{year}/{month}/{day}/DailyHistory.html?format=1
+Colorado Springs,Colorado,80202,https://www.wunderground.com/history/airport/KCOS/{year}/{month}/{day}/DailyHistory.html?format=1
 Dallas,Texas,75201,https://www.wunderground.com/history/airport/KDAL/{year}/{month}/{day}/DailyHistory.html?format=1
 New Orleans,Louisiana,70063,https://www.wunderground.com/history/airport/KMSY/{year}/{month}/{day}/DailyHistory.html?format=1
 Miami,Florida,33010,https://www.wunderground.com/history/airport/KMIA/{year}/{month}/{day}/DailyHistory.html?format=1
-Atlanta,Georgia,30301,https://www.wunderground.com/history/airport/KPDK/{year}/{month}/{day}/DailyHistory.html?format=1
+Atlanta,Georgia,30301,https://www.wunderground.com/history/airport/KATL/{year}/{month}/{day}/DailyHistory.html?format=1
 St Louis,Missouri,63101,https://www.wunderground.com/history/airport/KSTL/{year}/{month}/{day}/DailyHistory.html?format=1
-Minneapolis,Minnesota,55401,https://www.wunderground.com/history/airport/KMIC/{year}/{month}/{day}/DailyHistory.html?format=1
+Minneapolis,Minnesota,55401,https://www.wunderground.com/history/airport/KMSP/{year}/{month}/{day}/DailyHistory.html?format=1
 Chicago,Illinois,60290,https://www.wunderground.com/history/airport/KMDW/{year}/{month}/{day}/DailyHistory.html?format=1
-Boston,Massachusetts,02101,https://www.wunderground.com/history/airport/KBOS/{year}/{month}/{day}/DailyHistory.html?format=1
+Boston,Massachusetts,2101,https://www.wunderground.com/history/airport/KBOS/{year}/{month}/{day}/DailyHistory.html?format=1
 New York City,New York,10001,https://www.wunderground.com/history/airport/KNYC/{year}/{month}/{day}/DailyHistory.html?format=1
 Washington,District of Columbia,20001,https://www.wunderground.com/history/airport/KDCA/{year}/{month}/{day}/DailyHistory.html?format=1

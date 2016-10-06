@@ -118,7 +118,11 @@ def get_url(city, state, zip):
 	
 	return url
 	
-def find_and_add_missing_city_date_data_to_df(df, start_date, end_date, city, state, zip):
+def find_and_add_missing_city_date_data_to_df(df_in, start_date, end_date, city, state, zip):
+	print "Loading missing data for {city},{state},{zip}".format(city=city,state=state,zip=zip)
+
+	df = df_in.copy()
+	
 	starttime = datetime.datetime.today()
 	log = open('Logs/historical_weather_loading_log.txt', 'a')
 	log.write('\n--------------------------------------------------------\n')
@@ -146,11 +150,20 @@ def find_and_add_missing_city_date_data_to_df(df, start_date, end_date, city, st
 		
 		start_date = start_date + datetime.timedelta(1)
 
-	log.write("{num_missing} missing dates found\n".format(num_missing=len(missing_dates)))
-	print "{num_missing} missing dates found\n".format(num_missing=len(missing_dates))
+	log.write("{num_missing} missing dates found".format(num_missing=len(missing_dates)))
+	print "{num_missing} missing dates found".format(num_missing=len(missing_dates))
 		
 	if len(missing_dates) == 0:
-		raise Exception("No missing dates found!  Ya done it.")
+		print "No missing dates found!  Ya done it.\n"
+		
+		endtime = datetime.datetime.today()
+		elapsed_time = endtime - starttime
+		
+		log.write("\nTime to complete: {0}\n".format(str(elapsed_time)))
+		log.write('--------------------------------------------------------\n')    
+		log.close()
+			
+		return df
 	else:
 		all_missing_urls =[]
 		
@@ -170,7 +183,7 @@ def find_and_add_missing_city_date_data_to_df(df, start_date, end_date, city, st
 	log.write('--------------------------------------------------------\n')    
 	log.close()
 
-	print "DONE"
+	print "DONE\n"
 	return new_df
 	
 
