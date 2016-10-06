@@ -1,0 +1,918 @@
+,City,Conditions,DateUTC,Dew PointF,Events,Gust SpeedMPH,Humidity,PrecipitationIn,Sea Level PressureIn,State,TemperatureF,TimeCDT,TimePDT,Unnamed: 0,VisibilityMPH,Wind Direction,Wind SpeedMPH,WindDirDegrees,Zip
+0,Seattle,Clear,2016-09-15 07:53:00,51.1,,-,81,N/A,30.14,Washington,57.0,,12:53 AM,,10.0,South,8.1,170,98101.0
+1,Seattle,Clear,2016-09-15 08:53:00,51.1,,-,84,N/A,30.14,Washington,55.9,,1:53 AM,,10.0,SE,6.9,130,98101.0
+2,Seattle,Clear,2016-09-15 09:53:00,50.0,,-,83,N/A,30.16,Washington,55.0,,2:53 AM,,10.0,SE,6.9,140,98101.0
+3,Seattle,Clear,2016-09-15 10:53:00,50.0,,-,86,N/A,30.16,Washington,54.0,,3:53 AM,,10.0,SE,8.1,140,98101.0
+4,Seattle,Clear,2016-09-15 11:53:00,50.0,,-,86,N/A,30.17,Washington,54.0,,4:53 AM,,10.0,SE,8.1,130,98101.0
+5,Seattle,Mostly Cloudy,2016-09-15 12:49:00,48.2,,-,82,N/A,30.17,Washington,53.6,,5:49 AM,,10.0,SE,8.1,140,98101.0
+6,Seattle,Mostly Cloudy,2016-09-15 12:53:00,50.0,,-,89,N/A,30.17,Washington,53.1,,5:53 AM,,10.0,SE,8.1,140,98101.0
+7,Seattle,Overcast,2016-09-15 13:53:00,51.1,,-,84,N/A,30.18,Washington,55.9,,6:53 AM,,10.0,WSW,6.9,240,98101.0
+8,Seattle,Overcast,2016-09-15 14:53:00,51.1,,-,84,N/A,30.19,Washington,55.9,,7:53 AM,,10.0,SSE,3.5,160,98101.0
+9,Seattle,Overcast,2016-09-15 15:53:00,51.1,,-,84,N/A,30.19,Washington,55.9,,8:53 AM,,10.0,Variable,3.5,0,98101.0
+10,Seattle,Overcast,2016-09-15 16:53:00,51.1,,-,81,N/A,30.20,Washington,57.0,,9:53 AM,,10.0,East,3.5,100,98101.0
+11,Seattle,Overcast,2016-09-15 17:06:00,51.1,,-,81,N/A,30.19,Washington,57.0,,10:06 AM,,10.0,SE,3.5,140,98101.0
+12,Seattle,Overcast,2016-09-15 17:53:00,51.1,,-,78,N/A,30.19,Washington,57.9,,10:53 AM,,10.0,SE,4.6,130,98101.0
+13,Seattle,Mostly Cloudy,2016-09-15 18:53:00,52.0,,-,67,N/A,30.19,Washington,63.0,,11:53 AM,,10.0,West,5.8,260,98101.0
+14,Seattle,Scattered Clouds,2016-09-15 19:18:00,51.1,,-,65,N/A,30.18,Washington,63.0,,12:18 PM,,10.0,Calm,Calm,0,98101.0
+15,Seattle,Partly Cloudy,2016-09-15 19:53:00,51.1,,-,63,N/A,30.17,Washington,64.0,,12:53 PM,,10.0,Calm,Calm,0,98101.0
+16,Seattle,Clear,2016-09-15 20:53:00,52.0,,-,59,N/A,30.15,Washington,66.9,,1:53 PM,,10.0,Variable,4.6,0,98101.0
+17,Seattle,Clear,2016-09-15 21:53:00,52.0,,-,56,N/A,30.14,Washington,68.0,,2:53 PM,,10.0,Variable,5.8,0,98101.0
+18,Seattle,Clear,2016-09-15 22:53:00,51.1,,-,51,N/A,30.12,Washington,70.0,,3:53 PM,,10.0,NNW,5.8,330,98101.0
+19,Seattle,Clear,2016-09-15 23:53:00,51.1,,-,51,N/A,30.12,Washington,70.0,,4:53 PM,,10.0,NW,5.8,310,98101.0
+20,Seattle,Partly Cloudy,2016-09-16 00:53:00,50.0,,-,49,N/A,30.11,Washington,70.0,,5:53 PM,,10.0,Variable,4.6,0,98101.0
+21,Seattle,Clear,2016-09-16 01:53:00,50.0,,-,52,N/A,30.10,Washington,68.0,,6:53 PM,,10.0,Calm,Calm,0,98101.0
+22,Seattle,Partly Cloudy,2016-09-16 02:53:00,51.1,,-,59,N/A,30.11,Washington,66.0,,7:53 PM,,10.0,NNW,4.6,330,98101.0
+23,Seattle,Clear,2016-09-16 03:53:00,51.1,,-,63,N/A,30.11,Washington,64.0,,8:53 PM,,10.0,Calm,Calm,0,98101.0
+24,Seattle,Clear,2016-09-16 04:53:00,50.0,,-,65,N/A,30.12,Washington,62.1,,9:53 PM,,10.0,Calm,Calm,0,98101.0
+25,Seattle,Clear,2016-09-16 05:53:00,51.1,,-,70,N/A,30.11,Washington,61.0,,10:53 PM,,10.0,WNW,3.5,300,98101.0
+26,Seattle,Clear,2016-09-16 06:53:00,51.1,,-,72,N/A,30.13,Washington,60.1,,11:53 PM,,10.0,NW,4.6,320,98101.0
+0,Seattle,Clear,2016-09-16 07:53:00,52.0,,-,78,N/A,30.12,Washington,59.0,,12:53 AM,,10.0,Calm,Calm,0,98101.0
+1,Seattle,Clear,2016-09-16 08:53:00,51.1,,-,81,N/A,30.11,Washington,57.0,,1:53 AM,,10.0,Calm,Calm,0,98101.0
+2,Seattle,Clear,2016-09-16 09:53:00,50.0,,-,80,N/A,30.10,Washington,55.9,,2:53 AM,,10.0,Calm,Calm,0,98101.0
+3,Seattle,Clear,2016-09-16 10:53:00,51.1,,-,84,N/A,30.10,Washington,55.9,,3:53 AM,,10.0,Calm,Calm,0,98101.0
+4,Seattle,Clear,2016-09-16 11:53:00,51.1,,-,86,N/A,30.10,Washington,55.0,,4:53 AM,,10.0,Calm,Calm,0,98101.0
+5,Seattle,Scattered Clouds,2016-09-16 12:53:00,48.9,,-,86,N/A,30.10,Washington,53.1,,5:53 AM,,10.0,Calm,Calm,0,98101.0
+6,Seattle,Scattered Clouds,2016-09-16 13:44:00,50.0,,-,89,N/A,30.09,Washington,53.1,,6:44 AM,,10.0,Calm,Calm,0,98101.0
+7,Seattle,Scattered Clouds,2016-09-16 13:53:00,50.0,,-,86,N/A,30.09,Washington,54.0,,6:53 AM,,10.0,SE,3.5,140,98101.0
+8,Seattle,Scattered Clouds,2016-09-16 14:53:00,50.0,,-,86,N/A,30.09,Washington,54.0,,7:53 AM,,10.0,SSE,4.6,160,98101.0
+9,Seattle,Mostly Cloudy,2016-09-16 15:53:00,50.0,,-,75,N/A,30.08,Washington,57.9,,8:53 AM,,10.0,SE,4.6,130,98101.0
+10,Seattle,Overcast,2016-09-16 16:53:00,51.1,,-,72,N/A,30.08,Washington,60.1,,9:53 AM,,10.0,Calm,Calm,0,98101.0
+11,Seattle,Overcast,2016-09-16 17:53:00,52.0,,-,72,N/A,30.08,Washington,61.0,,10:53 AM,,10.0,Calm,Calm,0,98101.0
+12,Seattle,Haze,2016-09-16 18:53:00,53.1,,-,63,N/A,30.05,Washington,66.0,,11:53 AM,,10.0,Variable,5.8,0,98101.0
+13,Seattle,Mostly Cloudy,2016-09-16 19:07:00,53.1,,-,61,N/A,30.05,Washington,66.9,,12:07 PM,,10.0,Calm,Calm,0,98101.0
+14,Seattle,Mostly Cloudy,2016-09-16 19:53:00,52.0,,-,49,N/A,30.04,Washington,72.0,,12:53 PM,,10.0,SW,8.1,230,98101.0
+15,Seattle,Mostly Cloudy,2016-09-16 20:53:00,51.1,,-,48,N/A,30.02,Washington,72.0,,1:53 PM,,10.0,Variable,4.6,0,98101.0
+16,Seattle,Mostly Cloudy,2016-09-16 21:53:00,50.0,,-,44,N/A,30.00,Washington,73.0,,2:53 PM,,10.0,SSE,8.1,150,98101.0
+17,Seattle,Mostly Cloudy,2016-09-16 22:53:00,51.1,,-,43,N/A,29.99,Washington,75.0,,3:53 PM,,10.0,SW,5.8,220,98101.0
+18,Seattle,Mostly Cloudy,2016-09-16 23:53:00,53.1,,-,46,N/A,29.97,Washington,75.0,,4:53 PM,,10.0,Calm,Calm,0,98101.0
+19,Seattle,Mostly Cloudy,2016-09-17 00:53:00,53.1,,-,49,N/A,29.97,Washington,73.0,,5:53 PM,,10.0,Variable,3.5,0,98101.0
+20,Seattle,Mostly Cloudy,2016-09-17 01:53:00,52.0,,-,51,N/A,29.97,Washington,71.1,,6:53 PM,,10.0,West,4.6,270,98101.0
+21,Seattle,Scattered Clouds,2016-09-17 02:53:00,53.1,,-,61,N/A,29.97,Washington,66.9,,7:53 PM,,10.0,Calm,Calm,0,98101.0
+22,Seattle,Mostly Cloudy,2016-09-17 02:57:00,53.1,,-,61,N/A,29.97,Washington,66.9,,7:57 PM,,0.8,Calm,Calm,0,98101.0
+23,Seattle,Mostly Cloudy,2016-09-17 03:07:00,53.1,,-,61,N/A,29.96,Washington,66.9,,8:07 PM,,10.0,Calm,Calm,0,98101.0
+24,Seattle,Overcast,2016-09-17 03:53:00,53.1,,-,65,N/A,29.97,Washington,64.9,,8:53 PM,,10.0,Calm,Calm,0,98101.0
+25,Seattle,Overcast,2016-09-17 04:53:00,52.0,,-,63,N/A,29.97,Washington,64.9,,9:53 PM,,10.0,Variable,4.6,0,98101.0
+26,Seattle,Light Rain,2016-09-17 05:53:00,54.0,Rain,-,78,0.00,29.97,Washington,61.0,,10:53 PM,,10.0,Calm,Calm,0,98101.0
+27,Seattle,Overcast,2016-09-17 06:53:00,54.0,,-,75,0.00,29.97,Washington,62.1,,11:53 PM,,10.0,South,5.8,170,98101.0
+0,Seattle,Overcast,2016-09-17 07:53:00,53.1,,-,75,N/A,29.97,Washington,61.0,,12:53 AM,,10.0,SSE,5.8,150,98101.0
+1,Seattle,Overcast,2016-09-17 08:53:00,53.1,,-,78,N/A,29.97,Washington,60.1,,1:53 AM,,10.0,Variable,4.6,0,98101.0
+2,Seattle,Light Rain,2016-09-17 09:53:00,54.0,Rain,-,80,0.00,29.97,Washington,60.1,,2:53 AM,,10.0,SE,5.8,140,98101.0
+3,Seattle,Overcast,2016-09-17 10:53:00,54.0,,-,80,0.00,29.95,Washington,60.1,,3:53 AM,,10.0,SSE,9.2,160,98101.0
+4,Seattle,Overcast,2016-09-17 11:00:00,54.0,,-,80,N/A,29.95,Washington,60.1,,4:00 AM,,10.0,SSE,6.9,160,98101.0
+5,Seattle,Light Rain,2016-09-17 11:53:00,55.0,Rain,-,83,0.00,29.94,Washington,60.1,,4:53 AM,,10.0,SSE,9.2,150,98101.0
+6,Seattle,Light Rain,2016-09-17 12:53:00,55.0,Rain,-,87,0.01,29.92,Washington,59.0,,5:53 AM,,7.0,SSE,9.2,150,98101.0
+7,Seattle,Light Rain,2016-09-17 13:53:00,57.0,Rain,-,93,0.01,29.91,Washington,59.0,,6:53 AM,,10.0,SE,10.4,140,98101.0
+8,Seattle,Light Rain,2016-09-17 14:53:00,57.0,Rain,-,93,0.01,29.89,Washington,59.0,,7:53 AM,,10.0,SSE,9.2,150,98101.0
+9,Seattle,Light Rain,2016-09-17 15:23:00,57.0,Rain,-,93,0.00,29.89,Washington,59.0,,8:23 AM,,5.0,SSE,8.1,150,98101.0
+10,Seattle,Light Rain,2016-09-17 15:53:00,57.0,Rain,-,93,0.00,29.88,Washington,59.0,,8:53 AM,,4.0,SSE,11.5,150,98101.0
+11,Seattle,Light Rain,2016-09-17 16:20:00,57.0,Rain,-,93,0.01,29.87,Washington,59.0,,9:20 AM,,4.0,SSE,11.5,150,98101.0
+12,Seattle,Light Rain,2016-09-17 16:53:00,57.0,Rain,-,90,0.02,29.88,Washington,60.1,,9:53 AM,,10.0,South,15.0,180,98101.0
+13,Seattle,Light Rain,2016-09-17 16:56:00,57.0,Rain,21.9,90,0.00,29.88,Washington,60.1,,9:56 AM,,10.0,South,15.0,170,98101.0
+14,Seattle,Light Rain,2016-09-17 17:05:00,57.0,Rain,21.9,90,0.00,29.87,Washington,60.1,,10:05 AM,,10.0,South,15.0,170,98101.0
+15,Seattle,Overcast,2016-09-17 17:53:00,57.0,,21.9,87,0.00,29.87,Washington,61.0,,10:53 AM,,10.0,South,12.7,180,98101.0
+16,Seattle,Overcast,2016-09-17 18:53:00,57.0,,29.9,78,N/A,29.89,Washington,64.0,,11:53 AM,,10.0,South,18.4,190,98101.0
+17,Seattle,Overcast,2016-09-17 19:53:00,57.0,,28.8,78,N/A,29.88,Washington,64.0,,12:53 PM,,10.0,South,17.3,190,98101.0
+18,Seattle,Overcast,2016-09-17 20:53:00,57.0,,27.6,75,N/A,29.89,Washington,64.9,,1:53 PM,,10.0,South,17.3,180,98101.0
+19,Seattle,Overcast,2016-09-17 21:00:00,57.0,,32.2,75,N/A,29.89,Washington,64.9,,2:00 PM,,10.0,South,15.0,180,98101.0
+20,Seattle,Overcast,2016-09-17 21:07:00,57.0,,27.6,75,N/A,29.89,Washington,64.9,,2:07 PM,,10.0,South,15.0,180,98101.0
+21,Seattle,Light Rain,2016-09-17 21:53:00,57.9,Rain,26.5,80,0.00,29.88,Washington,64.0,,2:53 PM,,8.0,South,15.0,190,98101.0
+22,Seattle,Mostly Cloudy,2016-09-17 22:53:00,55.9,,25.3,68,0.00,29.88,Washington,66.9,,3:53 PM,,10.0,South,12.7,180,98101.0
+23,Seattle,Mostly Cloudy,2016-09-17 23:53:00,54.0,,25.3,63,N/A,29.90,Washington,66.9,,4:53 PM,,10.0,South,16.1,190,98101.0
+24,Seattle,Overcast,2016-09-18 00:53:00,53.1,,25.3,65,N/A,29.91,Washington,64.9,,5:53 PM,,10.0,South,12.7,190,98101.0
+25,Seattle,Light Rain,2016-09-18 01:53:00,55.0,Rain,21.9,75,0.00,29.93,Washington,63.0,,6:53 PM,,10.0,SSW,15.0,200,98101.0
+26,Seattle,Rain,2016-09-18 02:53:00,57.9,Rain,19.6,93,0.04,29.94,Washington,60.1,,7:53 PM,,6.0,South,9.2,190,98101.0
+27,Seattle,Overcast,2016-09-18 03:53:00,55.9,,-,86,0.00,29.95,Washington,60.1,,8:53 PM,,10.0,Variable,4.6,0,98101.0
+28,Seattle,Overcast,2016-09-18 04:53:00,55.9,,-,86,N/A,29.97,Washington,60.1,,9:53 PM,,10.0,WSW,3.5,250,98101.0
+29,Seattle,Overcast,2016-09-18 05:23:00,55.9,,-,86,N/A,29.98,Washington,60.1,,10:23 PM,,10.0,Calm,Calm,0,98101.0
+30,Seattle,Overcast,2016-09-18 05:53:00,55.9,,-,86,N/A,29.99,Washington,60.1,,10:53 PM,,4.0,SSW,3.5,200,98101.0
+31,Seattle,Light Rain,2016-09-18 06:53:00,57.0,Rain,-,93,0.00,30.00,Washington,59.0,,11:53 PM,,6.0,Calm,Calm,0,98101.0
+0,Seattle,Light Rain,2016-09-18 07:01:00,57.0,Rain,-,93,0.00,30.00,Washington,59.0,,12:01 AM,,5.0,Calm,Calm,0,98101.0
+1,Seattle,Overcast,2016-09-18 07:53:00,55.9,,-,86,0.00,30.00,Washington,60.1,,12:53 AM,,10.0,Calm,Calm,0,98101.0
+2,Seattle,Overcast,2016-09-18 08:53:00,55.9,,-,86,N/A,30.01,Washington,60.1,,1:53 AM,,10.0,Calm,Calm,0,98101.0
+3,Seattle,Overcast,2016-09-18 09:53:00,54.0,,-,87,N/A,30.03,Washington,57.9,,2:53 AM,,10.0,SSW,3.5,200,98101.0
+4,Seattle,Mostly Cloudy,2016-09-18 10:53:00,54.0,,-,87,N/A,30.04,Washington,57.9,,3:53 AM,,10.0,Calm,Calm,0,98101.0
+5,Seattle,Scattered Clouds,2016-09-18 11:53:00,53.1,,-,93,N/A,30.04,Washington,55.0,,4:53 AM,,10.0,Calm,Calm,0,98101.0
+6,Seattle,Partly Cloudy,2016-09-18 12:53:00,52.0,,-,89,N/A,30.04,Washington,55.0,,5:53 AM,,10.0,Calm,Calm,0,98101.0
+7,Seattle,Mostly Cloudy,2016-09-18 13:53:00,51.1,,-,93,N/A,30.05,Washington,53.1,,6:53 AM,,10.0,Calm,Calm,0,98101.0
+8,Seattle,Mostly Cloudy,2016-09-18 14:53:00,52.0,,-,93,N/A,30.06,Washington,54.0,,7:53 AM,,10.0,SE,3.5,130,98101.0
+9,Seattle,Mostly Cloudy,2016-09-18 15:53:00,55.0,,-,90,N/A,30.06,Washington,57.9,,8:53 AM,,10.0,SSE,4.6,160,98101.0
+10,Seattle,Mostly Cloudy,2016-09-18 16:53:00,52.0,,-,70,N/A,30.07,Washington,62.1,,9:53 AM,,10.0,SE,8.1,140,98101.0
+11,Seattle,Mostly Cloudy,2016-09-18 17:53:00,52.0,,-,67,N/A,30.07,Washington,63.0,,10:53 AM,,10.0,SSE,5.8,160,98101.0
+12,Seattle,Scattered Clouds,2016-09-18 18:53:00,53.1,,-,67,N/A,30.07,Washington,64.0,,11:53 AM,,10.0,SSW,9.2,200,98101.0
+13,Seattle,Scattered Clouds,2016-09-18 19:53:00,52.0,,-,65,N/A,30.07,Washington,64.0,,12:53 PM,,10.0,South,9.2,190,98101.0
+14,Seattle,Scattered Clouds,2016-09-18 20:53:00,52.0,,-,59,N/A,30.07,Washington,66.9,,1:53 PM,,10.0,South,6.9,180,98101.0
+15,Seattle,Mostly Cloudy,2016-09-18 21:53:00,51.1,,-,57,N/A,30.06,Washington,66.9,,2:53 PM,,10.0,SSW,6.9,210,98101.0
+16,Seattle,Mostly Cloudy,2016-09-18 22:53:00,50.0,,-,52,N/A,30.05,Washington,68.0,,3:53 PM,,10.0,SSW,8.1,200,98101.0
+17,Seattle,Scattered Clouds,2016-09-18 23:53:00,50.0,,-,54,N/A,30.04,Washington,66.9,,4:53 PM,,10.0,South,6.9,170,98101.0
+18,Seattle,Mostly Cloudy,2016-09-19 00:53:00,48.9,,-,49,N/A,30.04,Washington,69.1,,5:53 PM,,10.0,South,10.4,190,98101.0
+19,Seattle,Scattered Clouds,2016-09-19 01:53:00,48.0,,-,52,N/A,30.03,Washington,66.0,,6:53 PM,,10.0,SSW,6.9,200,98101.0
+20,Seattle,Scattered Clouds,2016-09-19 02:53:00,48.9,,-,58,N/A,30.04,Washington,64.0,,7:53 PM,,10.0,SSW,5.8,200,98101.0
+21,Seattle,Clear,2016-09-19 03:53:00,50.0,,-,65,N/A,30.05,Washington,62.1,,8:53 PM,,10.0,South,5.8,180,98101.0
+22,Seattle,Scattered Clouds,2016-09-19 04:53:00,51.1,,-,70,N/A,30.06,Washington,61.0,,9:53 PM,,10.0,South,9.2,190,98101.0
+23,Seattle,Overcast,2016-09-19 05:53:00,52.0,,-,75,N/A,30.07,Washington,60.1,,10:53 PM,,10.0,SSE,10.4,160,98101.0
+24,Seattle,Mostly Cloudy,2016-09-19 06:53:00,52.0,,-,75,N/A,30.06,Washington,60.1,,11:53 PM,,10.0,SSE,10.4,160,98101.0
+0,Seattle,Light Rain,2016-09-19 07:53:00,51.1,Rain,-,72,0.00,30.06,Washington,60.1,,12:53 AM,,10.0,SSE,11.5,150,98101.0
+1,Seattle,Overcast,2016-09-19 08:53:00,51.1,,-,72,0.00,30.06,Washington,60.1,,1:53 AM,,10.0,South,11.5,170,98101.0
+2,Seattle,Mostly Cloudy,2016-09-19 09:53:00,51.1,,-,72,N/A,30.06,Washington,60.1,,2:53 AM,,10.0,SSE,10.4,160,98101.0
+3,Seattle,Overcast,2016-09-19 10:00:00,51.1,,-,72,N/A,30.05,Washington,60.1,,3:00 AM,,10.0,SE,9.2,140,98101.0
+4,Seattle,Overcast,2016-09-19 10:53:00,50.0,,-,72,N/A,30.04,Washington,59.0,,3:53 AM,,10.0,SSE,6.9,150,98101.0
+5,Seattle,Mostly Cloudy,2016-09-19 11:53:00,48.9,,-,67,N/A,30.04,Washington,60.1,,4:53 AM,,10.0,South,8.1,170,98101.0
+6,Seattle,Mostly Cloudy,2016-09-19 12:53:00,48.9,,-,69,N/A,30.05,Washington,59.0,,5:53 AM,,10.0,South,6.9,180,98101.0
+7,Seattle,Overcast,2016-09-19 13:53:00,51.1,,-,81,0.01,30.04,Washington,57.0,,6:53 AM,,10.0,SSE,9.2,160,98101.0
+8,Seattle,Mostly Cloudy,2016-09-19 14:53:00,51.1,,-,78,N/A,30.05,Washington,57.9,,7:53 AM,,10.0,SSE,9.2,160,98101.0
+9,Seattle,Mostly Cloudy,2016-09-19 15:53:00,52.0,,-,81,N/A,30.05,Washington,57.9,,8:53 AM,,10.0,South,12.7,170,98101.0
+10,Seattle,Mostly Cloudy,2016-09-19 16:53:00,53.1,,21.9,72,N/A,30.07,Washington,62.1,,9:53 AM,,10.0,South,12.7,180,98101.0
+11,Seattle,Mostly Cloudy,2016-09-19 17:53:00,54.0,,19.6,75,0.00,30.08,Washington,62.1,,10:53 AM,,10.0,South,12.7,180,98101.0
+12,Seattle,Mostly Cloudy,2016-09-19 18:53:00,52.0,,23.0,65,N/A,30.08,Washington,64.0,,11:53 AM,,10.0,South,16.1,170,98101.0
+13,Seattle,Scattered Clouds,2016-09-19 19:53:00,51.1,,27.6,59,N/A,30.09,Washington,66.0,,12:53 PM,,10.0,South,16.1,170,98101.0
+14,Seattle,Scattered Clouds,2016-09-19 20:53:00,50.0,,23.0,54,N/A,30.08,Washington,66.9,,1:53 PM,,10.0,South,17.3,170,98101.0
+15,Seattle,Mostly Cloudy,2016-09-19 21:53:00,46.9,,19.6,47,N/A,30.07,Washington,68.0,,2:53 PM,,10.0,South,10.4,180,98101.0
+16,Seattle,Mostly Cloudy,2016-09-19 22:53:00,43.0,,19.6,38,N/A,30.08,Washington,70.0,,3:53 PM,,10.0,South,13.8,190,98101.0
+17,Seattle,Scattered Clouds,2016-09-19 23:53:00,43.0,,17.3,39,N/A,30.08,Washington,69.1,,4:53 PM,,10.0,WSW,8.1,240,98101.0
+18,Seattle,Scattered Clouds,2016-09-20 00:53:00,45.0,,-,48,N/A,30.09,Washington,64.9,,5:53 PM,,10.0,West,3.5,260,98101.0
+19,Seattle,Mostly Cloudy,2016-09-20 01:53:00,45.0,,-,50,N/A,30.11,Washington,64.0,,6:53 PM,,10.0,SW,3.5,220,98101.0
+20,Seattle,Clear,2016-09-20 02:53:00,46.0,,-,58,N/A,30.12,Washington,61.0,,7:53 PM,,10.0,SW,3.5,220,98101.0
+21,Seattle,Clear,2016-09-20 03:53:00,46.0,,-,60,N/A,30.13,Washington,60.1,,8:53 PM,,10.0,South,4.6,190,98101.0
+22,Seattle,Clear,2016-09-20 04:53:00,46.0,,-,62,N/A,30.14,Washington,59.0,,9:53 PM,,10.0,SSE,4.6,150,98101.0
+23,Seattle,Clear,2016-09-20 05:53:00,46.9,,-,72,N/A,30.14,Washington,55.9,,10:53 PM,,10.0,SSE,5.8,160,98101.0
+24,Seattle,Clear,2016-09-20 06:53:00,46.9,,-,67,N/A,30.15,Washington,57.9,,11:53 PM,,10.0,ESE,5.8,110,98101.0
+0,Seattle,Scattered Clouds,2016-09-20 07:53:00,46.9,,-,77,N/A,30.14,Washington,54.0,,12:53 AM,,10.0,SE,8.1,140,98101.0
+1,Seattle,Mostly Cloudy,2016-09-20 08:53:00,46.9,,-,80,N/A,30.15,Washington,53.1,,1:53 AM,,10.0,SE,6.9,140,98101.0
+2,Seattle,Mostly Cloudy,2016-09-20 09:53:00,46.0,,-,77,N/A,30.15,Washington,53.1,,2:53 AM,,10.0,SE,4.6,140,98101.0
+3,Seattle,Clear,2016-09-20 10:53:00,46.0,,-,83,N/A,30.14,Washington,51.1,,3:53 AM,,10.0,SSE,5.8,150,98101.0
+4,Seattle,Mostly Cloudy,2016-09-20 11:39:00,46.0,,-,80,N/A,30.14,Washington,52.0,,4:39 AM,,10.0,SSE,4.6,150,98101.0
+5,Seattle,Overcast,2016-09-20 11:53:00,46.0,,-,80,N/A,30.14,Washington,52.0,,4:53 AM,,10.0,SE,4.6,130,98101.0
+6,Seattle,Scattered Clouds,2016-09-20 12:49:00,46.4,,-,82,N/A,30.14,Washington,51.8,,5:49 AM,,10.0,Calm,Calm,0,98101.0
+7,Seattle,Scattered Clouds,2016-09-20 12:53:00,45.0,,-,80,N/A,30.14,Washington,51.1,,5:53 AM,,10.0,Calm,Calm,0,98101.0
+8,Seattle,Partly Cloudy,2016-09-20 13:53:00,45.0,,-,86,N/A,30.15,Washington,48.9,,6:53 AM,,10.0,Calm,Calm,0,98101.0
+9,Seattle,Partly Cloudy,2016-09-20 14:53:00,46.9,,-,86,N/A,30.15,Washington,51.1,,7:53 AM,,10.0,South,3.5,180,98101.0
+10,Seattle,Partly Cloudy,2016-09-20 15:53:00,46.9,,-,72,N/A,30.15,Washington,55.9,,8:53 AM,,10.0,Calm,Calm,0,98101.0
+11,Seattle,Scattered Clouds,2016-09-20 16:53:00,50.0,,-,72,N/A,30.15,Washington,59.0,,9:53 AM,,10.0,NE,4.6,40,98101.0
+12,Seattle,Scattered Clouds,2016-09-20 17:53:00,50.0,,-,69,N/A,30.15,Washington,60.1,,10:53 AM,,10.0,Variable,4.6,0,98101.0
+13,Seattle,Scattered Clouds,2016-09-20 18:53:00,50.0,,-,65,N/A,30.13,Washington,62.1,,11:53 AM,,10.0,Variable,5.8,0,98101.0
+14,Seattle,Scattered Clouds,2016-09-20 19:53:00,48.9,,-,58,N/A,30.12,Washington,64.0,,12:53 PM,,10.0,WNW,6.9,290,98101.0
+15,Seattle,Scattered Clouds,2016-09-20 20:11:00,48.0,,-,56,N/A,30.12,Washington,64.0,,1:11 PM,,10.0,West,6.9,280,98101.0
+16,Seattle,Scattered Clouds,2016-09-20 20:18:00,48.0,,-,56,N/A,30.12,Washington,64.0,,1:18 PM,,10.0,NW,9.2,310,98101.0
+17,Seattle,Scattered Clouds,2016-09-20 20:53:00,46.9,,-,52,N/A,30.12,Washington,64.9,,1:53 PM,,10.0,NW,13.8,310,98101.0
+18,Seattle,Scattered Clouds,2016-09-20 21:53:00,46.0,,-,50,N/A,30.10,Washington,64.9,,2:53 PM,,10.0,NW,13.8,310,98101.0
+19,Seattle,Scattered Clouds,2016-09-20 22:53:00,46.9,,-,50,N/A,30.09,Washington,66.0,,3:53 PM,,10.0,WNW,11.5,300,98101.0
+20,Seattle,Partly Cloudy,2016-09-20 23:53:00,48.0,,-,54,N/A,30.09,Washington,64.9,,4:53 PM,,10.0,NW,11.5,310,98101.0
+21,Seattle,Scattered Clouds,2016-09-21 00:53:00,46.9,,-,54,N/A,30.09,Washington,64.0,,5:53 PM,,10.0,NW,8.1,310,98101.0
+22,Seattle,Clear,2016-09-21 01:53:00,46.9,,-,58,N/A,30.09,Washington,62.1,,6:53 PM,,10.0,NW,5.8,310,98101.0
+23,Seattle,Partly Cloudy,2016-09-21 02:53:00,46.9,,-,60,N/A,30.09,Washington,61.0,,7:53 PM,,10.0,NNW,4.6,340,98101.0
+24,Seattle,Clear,2016-09-21 03:53:00,46.9,,-,62,N/A,30.10,Washington,60.1,,8:53 PM,,10.0,North,4.6,350,98101.0
+25,Seattle,Partly Cloudy,2016-09-21 04:53:00,46.9,,-,64,N/A,30.11,Washington,59.0,,9:53 PM,,10.0,Variable,3.5,0,98101.0
+26,Seattle,Clear,2016-09-21 05:53:00,46.9,,-,67,N/A,30.10,Washington,57.9,,10:53 PM,,10.0,NNW,3.5,330,98101.0
+27,Seattle,Clear,2016-09-21 06:53:00,48.0,,-,75,N/A,30.10,Washington,55.9,,11:53 PM,,10.0,Calm,Calm,0,98101.0
+0,Seattle,Clear,2016-09-21 07:53:00,46.0,,-,67,N/A,30.10,Washington,57.0,,12:53 AM,,10.0,North,3.5,350,98101.0
+1,Seattle,Clear,2016-09-21 08:53:00,46.9,,-,77,N/A,30.10,Washington,54.0,,1:53 AM,,10.0,Calm,Calm,0,98101.0
+2,Seattle,Clear,2016-09-21 09:53:00,46.9,,-,80,N/A,30.09,Washington,53.1,,2:53 AM,,10.0,Calm,Calm,0,98101.0
+3,Seattle,Clear,2016-09-21 10:53:00,46.9,,-,77,N/A,30.09,Washington,54.0,,3:53 AM,,10.0,Calm,Calm,0,98101.0
+4,Seattle,Clear,2016-09-21 11:53:00,46.9,,-,80,N/A,30.09,Washington,53.1,,4:53 AM,,10.0,Calm,Calm,0,98101.0
+5,Seattle,Partly Cloudy,2016-09-21 12:53:00,46.9,,-,83,N/A,30.09,Washington,52.0,,5:53 AM,,10.0,Calm,Calm,0,98101.0
+6,Seattle,Mostly Cloudy,2016-09-21 13:53:00,48.9,,-,83,N/A,30.10,Washington,54.0,,6:53 AM,,10.0,Variable,3.5,0,98101.0
+7,Seattle,Mostly Cloudy,2016-09-21 14:53:00,48.0,,-,80,N/A,30.10,Washington,54.0,,7:53 AM,,10.0,Variable,4.6,0,98101.0
+8,Seattle,Mostly Cloudy,2016-09-21 15:04:00,48.0,,-,80,N/A,30.11,Washington,54.0,,8:04 AM,,10.0,Variable,5.8,0,98101.0
+9,Seattle,Mostly Cloudy,2016-09-21 15:31:00,48.9,,-,83,N/A,30.10,Washington,54.0,,8:31 AM,,10.0,Variable,3.5,0,98101.0
+10,Seattle,Scattered Clouds,2016-09-21 15:53:00,48.9,,-,80,N/A,30.10,Washington,55.0,,8:53 AM,,10.0,ENE,3.5,60,98101.0
+11,Seattle,Scattered Clouds,2016-09-21 16:53:00,48.9,,-,72,N/A,30.09,Washington,57.9,,9:53 AM,,10.0,Variable,4.6,0,98101.0
+12,Seattle,Scattered Clouds,2016-09-21 17:53:00,48.9,,-,64,N/A,30.08,Washington,61.0,,10:53 AM,,10.0,NNW,9.2,330,98101.0
+13,Seattle,Partly Cloudy,2016-09-21 18:53:00,48.9,,-,62,N/A,30.06,Washington,62.1,,11:53 AM,,10.0,NNE,9.2,20,98101.0
+14,Seattle,Partly Cloudy,2016-09-21 19:53:00,48.9,,-,60,N/A,30.04,Washington,63.0,,12:53 PM,,10.0,ENE,6.9,70,98101.0
+15,Seattle,Partly Cloudy,2016-09-21 20:53:00,46.9,,-,49,N/A,30.02,Washington,66.9,,1:53 PM,,10.0,NW,8.1,320,98101.0
+16,Seattle,Partly Cloudy,2016-09-21 21:53:00,48.9,,17.3,52,N/A,30.00,Washington,66.9,,2:53 PM,,10.0,NW,9.2,310,98101.0
+17,Seattle,Partly Cloudy,2016-09-21 22:53:00,45.0,,-,45,N/A,29.99,Washington,66.9,,3:53 PM,,10.0,WNW,9.2,300,98101.0
+18,Seattle,Scattered Clouds,2016-09-21 23:53:00,48.0,,-,52,N/A,29.98,Washington,66.0,,4:53 PM,,10.0,WNW,9.2,290,98101.0
+19,Seattle,Clear,2016-09-21 23:57:00,48.0,,-,51,N/A,29.97,Washington,66.9,,4:57 PM,,0.5,NW,5.8,310,98101.0
+20,Seattle,Scattered Clouds,2016-09-22 00:04:00,48.0,,-,51,N/A,29.97,Washington,66.9,,5:04 PM,,10.0,WNW,10.4,300,98101.0
+21,Seattle,Scattered Clouds,2016-09-22 00:53:00,46.9,,-,52,N/A,29.96,Washington,64.9,,5:53 PM,,10.0,NW,6.9,310,98101.0
+22,Seattle,Scattered Clouds,2016-09-22 01:53:00,46.9,,-,52,N/A,29.96,Washington,64.9,,6:53 PM,,10.0,NW,5.8,320,98101.0
+23,Seattle,Clear,2016-09-22 02:53:00,46.9,,-,56,N/A,29.96,Washington,63.0,,7:53 PM,,10.0,North,3.5,350,98101.0
+24,Seattle,Clear,2016-09-22 03:53:00,46.9,,-,60,N/A,29.96,Washington,61.0,,8:53 PM,,10.0,Calm,Calm,0,98101.0
+25,Seattle,Scattered Clouds,2016-09-22 04:53:00,46.9,,-,64,N/A,29.96,Washington,59.0,,9:53 PM,,10.0,Calm,Calm,0,98101.0
+26,Seattle,Partly Cloudy,2016-09-22 05:53:00,46.9,,-,67,N/A,29.95,Washington,57.9,,10:53 PM,,10.0,Calm,Calm,0,98101.0
+27,Seattle,Partly Cloudy,2016-09-22 06:53:00,46.0,,-,67,N/A,29.96,Washington,57.0,,11:53 PM,,10.0,Calm,Calm,0,98101.0
+0,Seattle,Partly Cloudy,2016-09-22 07:53:00,46.9,,-,72,N/A,29.96,Washington,55.9,,12:53 AM,,10.0,Calm,Calm,0,98101.0
+1,Seattle,Clear,2016-09-22 08:53:00,46.0,,-,80,N/A,29.96,Washington,52.0,,1:53 AM,,10.0,SE,3.5,140,98101.0
+2,Seattle,Clear,2016-09-22 09:53:00,46.9,,-,80,N/A,29.96,Washington,53.1,,2:53 AM,,10.0,Calm,Calm,0,98101.0
+3,Seattle,Clear,2016-09-22 10:53:00,45.0,,-,86,N/A,29.97,Washington,48.9,,3:53 AM,,10.0,SE,4.6,140,98101.0
+4,Seattle,Clear,2016-09-22 11:53:00,45.0,,-,83,N/A,29.99,Washington,50.0,,4:53 AM,,10.0,SSE,4.6,160,98101.0
+5,Seattle,Clear,2016-09-22 12:53:00,44.1,,-,83,N/A,29.99,Washington,48.9,,5:53 AM,,10.0,SE,8.1,140,98101.0
+6,Seattle,Clear,2016-09-22 13:53:00,44.1,,-,83,N/A,30.01,Washington,48.9,,6:53 AM,,10.0,SSE,6.9,150,98101.0
+7,Seattle,Clear,2016-09-22 14:53:00,45.0,,-,83,N/A,30.02,Washington,50.0,,7:53 AM,,10.0,SE,5.8,140,98101.0
+8,Seattle,Clear,2016-09-22 15:53:00,46.0,,-,72,N/A,30.03,Washington,55.0,,8:53 AM,,10.0,SE,5.8,130,98101.0
+9,Seattle,Partly Cloudy,2016-09-22 16:53:00,48.0,,-,67,N/A,30.05,Washington,59.0,,9:53 AM,,10.0,South,5.8,170,98101.0
+10,Seattle,Clear,2016-09-22 17:53:00,48.9,,-,64,N/A,30.05,Washington,61.0,,10:53 AM,,10.0,WSW,4.6,240,98101.0
+11,Seattle,Clear,2016-09-22 18:53:00,50.0,,-,65,N/A,30.05,Washington,62.1,,11:53 AM,,10.0,North,-9999.0,0,98101.0
+12,Seattle,Scattered Clouds,2016-09-22 19:53:00,50.0,,-,69,N/A,30.06,Washington,60.1,,12:53 PM,,10.0,SSW,11.5,200,98101.0
+13,Seattle,Partly Cloudy,2016-09-22 20:53:00,50.0,,-,60,N/A,30.05,Washington,64.0,,1:53 PM,,10.0,South,8.1,190,98101.0
+14,Seattle,Partly Cloudy,2016-09-22 21:53:00,50.0,,-,56,N/A,30.05,Washington,66.0,,2:53 PM,,10.0,SW,8.1,230,98101.0
+15,Seattle,Partly Cloudy,2016-09-22 22:53:00,48.9,,16.1,54,N/A,30.06,Washington,66.0,,3:53 PM,,10.0,South,6.9,170,98101.0
+16,Seattle,Scattered Clouds,2016-09-22 23:53:00,48.0,,-,52,N/A,30.06,Washington,66.0,,4:53 PM,,10.0,Variable,6.9,0,98101.0
+17,Seattle,Scattered Clouds,2016-09-23 00:53:00,48.0,,-,54,N/A,30.05,Washington,64.9,,5:53 PM,,10.0,SSW,8.1,210,98101.0
+18,Seattle,Partly Cloudy,2016-09-23 01:53:00,48.0,,-,60,N/A,30.05,Washington,62.1,,6:53 PM,,10.0,SW,4.6,230,98101.0
+19,Seattle,Clear,2016-09-23 02:53:00,48.0,,-,62,N/A,30.05,Washington,61.0,,7:53 PM,,10.0,South,5.8,170,98101.0
+20,Seattle,Clear,2016-09-23 03:53:00,46.9,,-,67,N/A,30.06,Washington,57.9,,8:53 PM,,10.0,SSE,6.9,150,98101.0
+21,Seattle,Clear,2016-09-23 04:53:00,46.9,,-,69,N/A,30.08,Washington,57.0,,9:53 PM,,10.0,SE,11.5,140,98101.0
+22,Seattle,Clear,2016-09-23 05:53:00,46.9,,-,69,N/A,30.07,Washington,57.0,,10:53 PM,,10.0,SSE,10.4,150,98101.0
+23,Seattle,Clear,2016-09-23 06:53:00,46.9,,-,72,N/A,30.06,Washington,55.9,,11:53 PM,,10.0,SE,9.2,140,98101.0
+0,Seattle,Partly Cloudy,2016-09-23 07:53:00,46.9,,-,74,N/A,30.07,Washington,55.0,,12:53 AM,,10.0,SE,6.9,140,98101.0
+1,Seattle,Clear,2016-09-23 08:53:00,46.9,,-,74,N/A,30.08,Washington,55.0,,1:53 AM,,10.0,SE,9.2,140,98101.0
+2,Seattle,Clear,2016-09-23 09:53:00,46.9,,-,77,N/A,30.06,Washington,54.0,,2:53 AM,,10.0,SSE,9.2,150,98101.0
+3,Seattle,Clear,2016-09-23 10:53:00,46.9,,-,77,N/A,30.06,Washington,54.0,,3:53 AM,,10.0,SE,9.2,140,98101.0
+4,Seattle,Mostly Cloudy,2016-09-23 11:53:00,46.9,,-,74,N/A,30.06,Washington,55.0,,4:53 AM,,10.0,SE,8.1,140,98101.0
+5,Seattle,Overcast,2016-09-23 12:53:00,46.9,,-,74,N/A,30.05,Washington,55.0,,5:53 AM,,10.0,SE,9.2,140,98101.0
+6,Seattle,Overcast,2016-09-23 13:53:00,46.9,,-,74,0.00,30.03,Washington,55.0,,6:53 AM,,10.0,SE,6.9,140,98101.0
+7,Seattle,Overcast,2016-09-23 14:53:00,48.0,,-,75,0.00,30.02,Washington,55.9,,7:53 AM,,10.0,SSE,5.8,150,98101.0
+8,Seattle,Overcast,2016-09-23 15:53:00,48.9,,-,72,0.00,30.01,Washington,57.9,,8:53 AM,,10.0,SSE,3.5,150,98101.0
+9,Seattle,Overcast,2016-09-23 16:53:00,48.0,,-,70,N/A,30.02,Washington,57.9,,9:53 AM,,10.0,SSW,4.6,210,98101.0
+10,Seattle,Overcast,2016-09-23 17:53:00,46.9,,-,72,0.00,30.01,Washington,55.9,,10:53 AM,,10.0,South,11.5,170,98101.0
+11,Seattle,Light Rain,2016-09-23 18:53:00,48.0,Rain,-,67,0.00,30.01,Washington,59.0,,11:53 AM,,10.0,South,10.4,180,98101.0
+12,Seattle,Haze,2016-09-23 19:53:00,48.9,,-,77,0.00,30.02,Washington,55.9,,12:53 PM,,6.0,SE,10.4,140,98101.0
+13,Seattle,Overcast,2016-09-23 20:31:00,50.0,,-,77,N/A,30.01,Washington,57.0,,1:31 PM,,10.0,SSE,10.4,150,98101.0
+14,Seattle,Overcast,2016-09-23 20:53:00,51.1,,-,78,N/A,30.01,Washington,57.9,,1:53 PM,,10.0,SSE,8.1,150,98101.0
+15,Seattle,Overcast,2016-09-23 21:53:00,51.1,,-,70,N/A,30.01,Washington,61.0,,2:53 PM,,10.0,South,9.2,170,98101.0
+16,Seattle,Overcast,2016-09-23 22:53:00,50.0,,-,65,N/A,30.03,Washington,62.1,,3:53 PM,,10.0,South,11.5,170,98101.0
+17,Seattle,Scattered Clouds,2016-09-23 23:29:00,51.1,,26.5,63,N/A,30.02,Washington,64.0,,4:29 PM,,10.0,South,18.4,180,98101.0
+18,Seattle,Mostly Cloudy,2016-09-23 23:53:00,51.1,,28.8,65,N/A,30.03,Washington,63.0,,4:53 PM,,10.0,South,17.3,180,98101.0
+19,Seattle,Scattered Clouds,2016-09-24 00:53:00,51.1,,20.7,67,N/A,30.04,Washington,62.1,,5:53 PM,,10.0,South,11.5,190,98101.0
+20,Seattle,Scattered Clouds,2016-09-24 01:53:00,50.0,,20.7,67,N/A,30.08,Washington,61.0,,6:53 PM,,10.0,South,9.2,190,98101.0
+21,Seattle,Clear,2016-09-24 02:53:00,50.0,,-,72,N/A,30.10,Washington,59.0,,7:53 PM,,10.0,South,10.4,170,98101.0
+22,Seattle,Scattered Clouds,2016-09-24 03:53:00,50.0,,-,72,N/A,30.14,Washington,59.0,,8:53 PM,,10.0,SSE,9.2,160,98101.0
+23,Seattle,Scattered Clouds,2016-09-24 04:53:00,48.9,,-,72,N/A,30.17,Washington,57.9,,9:53 PM,,10.0,SSE,8.1,160,98101.0
+24,Seattle,Overcast,2016-09-24 05:23:00,50.0,,-,72,N/A,30.18,Washington,59.0,,10:23 PM,,10.0,SSE,6.9,160,98101.0
+25,Seattle,Overcast,2016-09-24 05:53:00,51.1,,-,75,N/A,30.19,Washington,59.0,,10:53 PM,,10.0,South,8.1,180,98101.0
+26,Seattle,Overcast,2016-09-24 06:53:00,51.1,,-,78,N/A,30.22,Washington,57.9,,11:53 PM,,10.0,SSE,8.1,150,98101.0
+0,Seattle,Overcast,2016-09-24 07:53:00,51.1,,-,78,N/A,30.24,Washington,57.9,,12:53 AM,,10.0,South,4.6,170,98101.0
+1,Seattle,Overcast,2016-09-24 08:12:00,51.1,,-,81,N/A,30.23,Washington,57.0,,1:12 AM,,10.0,SSE,9.2,160,98101.0
+2,Seattle,Overcast,2016-09-24 08:53:00,51.1,,-,81,N/A,30.25,Washington,57.0,,1:53 AM,,10.0,South,4.6,180,98101.0
+3,Seattle,Overcast,2016-09-24 09:53:00,50.0,,-,77,N/A,30.27,Washington,57.0,,2:53 AM,,10.0,SSE,5.8,150,98101.0
+4,Seattle,Overcast,2016-09-24 10:53:00,50.0,,-,80,N/A,30.30,Washington,55.9,,3:53 AM,,10.0,SSW,3.5,200,98101.0
+5,Seattle,Overcast,2016-09-24 11:53:00,50.0,,-,80,N/A,30.30,Washington,55.9,,4:53 AM,,10.0,SSE,5.8,160,98101.0
+6,Seattle,Overcast,2016-09-24 12:53:00,50.0,,-,80,N/A,30.32,Washington,55.9,,5:53 AM,,10.0,Calm,Calm,0,98101.0
+7,Seattle,Mostly Cloudy,2016-09-24 13:53:00,50.0,,-,80,N/A,30.34,Washington,55.9,,6:53 AM,,10.0,SE,4.6,130,98101.0
+8,Seattle,Mostly Cloudy,2016-09-24 14:53:00,50.0,,-,80,N/A,30.35,Washington,55.9,,7:53 AM,,10.0,SE,5.8,140,98101.0
+9,Seattle,Mostly Cloudy,2016-09-24 15:53:00,50.0,,-,77,N/A,30.37,Washington,57.0,,8:53 AM,,10.0,Calm,Calm,0,98101.0
+10,Seattle,Mostly Cloudy,2016-09-24 16:53:00,48.9,,-,69,N/A,30.38,Washington,59.0,,9:53 AM,,10.0,Calm,Calm,0,98101.0
+11,Seattle,Scattered Clouds,2016-09-24 17:53:00,48.9,,-,62,N/A,30.39,Washington,62.1,,10:53 AM,,10.0,Variable,4.6,0,98101.0
+12,Seattle,Scattered Clouds,2016-09-24 18:53:00,48.0,,-,56,N/A,30.39,Washington,64.0,,11:53 AM,,10.0,Variable,4.6,0,98101.0
+13,Seattle,Mostly Cloudy,2016-09-24 19:53:00,48.0,,-,56,N/A,30.37,Washington,64.0,,12:53 PM,,10.0,SSW,3.5,210,98101.0
+14,Seattle,Mostly Cloudy,2016-09-24 20:53:00,48.0,,-,54,N/A,30.37,Washington,64.9,,1:53 PM,,10.0,Variable,4.6,0,98101.0
+15,Seattle,Mostly Cloudy,2016-09-24 21:53:00,46.9,,-,50,N/A,30.33,Washington,66.0,,2:53 PM,,10.0,Calm,Calm,0,98101.0
+16,Seattle,Mostly Cloudy,2016-09-24 22:53:00,46.0,,-,48,N/A,30.33,Washington,66.0,,3:53 PM,,10.0,Variable,6.9,0,98101.0
+17,Seattle,Mostly Cloudy,2016-09-24 23:53:00,45.0,,-,48,N/A,30.34,Washington,64.9,,4:53 PM,,10.0,West,5.8,270,98101.0
+18,Seattle,Overcast,2016-09-25 00:53:00,44.1,,-,47,0.00,30.33,Washington,64.9,,5:53 PM,,10.0,WSW,3.5,250,98101.0
+19,Seattle,Overcast,2016-09-25 01:53:00,44.1,,-,47,N/A,30.33,Washington,64.9,,6:53 PM,,10.0,Calm,Calm,0,98101.0
+20,Seattle,Overcast,2016-09-25 02:53:00,46.0,,-,52,N/A,30.34,Washington,64.0,,7:53 PM,,10.0,Calm,Calm,0,98101.0
+21,Seattle,Overcast,2016-09-25 03:53:00,46.9,,-,54,N/A,30.35,Washington,64.0,,8:53 PM,,10.0,Calm,Calm,0,98101.0
+22,Seattle,Overcast,2016-09-25 04:53:00,48.0,,-,56,N/A,30.36,Washington,64.0,,9:53 PM,,10.0,Calm,Calm,0,98101.0
+23,Seattle,Overcast,2016-09-25 05:53:00,46.9,,-,56,N/A,30.37,Washington,63.0,,10:53 PM,,10.0,Calm,Calm,0,98101.0
+24,Seattle,Overcast,2016-09-25 06:53:00,48.0,,-,58,N/A,30.38,Washington,63.0,,11:53 PM,,10.0,Calm,Calm,0,98101.0
+0,Seattle,Overcast,2016-09-25 07:53:00,48.0,,-,60,N/A,30.39,Washington,62.1,,12:53 AM,,10.0,NNW,3.5,340,98101.0
+1,Seattle,Overcast,2016-09-25 08:53:00,48.9,,-,64,N/A,30.39,Washington,61.0,,1:53 AM,,10.0,Calm,Calm,0,98101.0
+2,Seattle,Overcast,2016-09-25 09:53:00,50.0,,-,67,N/A,30.38,Washington,61.0,,2:53 AM,,10.0,Calm,Calm,0,98101.0
+3,Seattle,Overcast,2016-09-25 10:53:00,50.0,,-,67,N/A,30.37,Washington,61.0,,3:53 AM,,10.0,Calm,Calm,0,98101.0
+4,Seattle,Overcast,2016-09-25 11:53:00,50.0,,-,69,N/A,30.37,Washington,60.1,,4:53 AM,,10.0,Calm,Calm,0,98101.0
+5,Seattle,Overcast,2016-09-25 12:53:00,52.0,,-,78,N/A,30.38,Washington,59.0,,5:53 AM,,10.0,Calm,Calm,0,98101.0
+6,Seattle,Overcast,2016-09-25 13:53:00,52.0,,-,75,N/A,30.38,Washington,60.1,,6:53 AM,,10.0,Calm,Calm,0,98101.0
+7,Seattle,Overcast,2016-09-25 14:53:00,52.0,,-,75,N/A,30.39,Washington,60.1,,7:53 AM,,10.0,Calm,Calm,0,98101.0
+8,Seattle,Overcast,2016-09-25 15:53:00,52.0,,-,67,N/A,30.39,Washington,63.0,,8:53 AM,,10.0,Calm,Calm,0,98101.0
+9,Seattle,Overcast,2016-09-25 16:53:00,53.1,,-,67,N/A,30.40,Washington,64.0,,9:53 AM,,10.0,NW,3.5,310,98101.0
+10,Seattle,Overcast,2016-09-25 17:53:00,53.1,,-,63,N/A,30.40,Washington,66.0,,10:53 AM,,10.0,NW,5.8,320,98101.0
+11,Seattle,Mostly Cloudy,2016-09-25 18:53:00,52.0,,-,54,N/A,30.39,Washington,69.1,,11:53 AM,,10.0,Variable,4.6,0,98101.0
+12,Seattle,Partly Cloudy,2016-09-25 19:53:00,48.9,,-,44,N/A,30.38,Washington,72.0,,12:53 PM,,10.0,Variable,4.6,0,98101.0
+13,Seattle,Scattered Clouds,2016-09-25 20:53:00,48.9,,-,41,N/A,30.37,Washington,73.9,,1:53 PM,,10.0,NW,6.9,320,98101.0
+14,Seattle,Scattered Clouds,2016-09-25 21:53:00,46.0,,-,37,N/A,30.35,Washington,73.9,,2:53 PM,,10.0,NW,10.4,310,98101.0
+15,Seattle,Scattered Clouds,2016-09-25 22:53:00,46.0,,-,36,N/A,30.33,Washington,75.0,,3:53 PM,,10.0,NNW,5.8,330,98101.0
+16,Seattle,Scattered Clouds,2016-09-25 23:53:00,48.0,,-,40,N/A,30.30,Washington,73.9,,4:53 PM,,10.0,NW,6.9,310,98101.0
+17,Seattle,Clear,2016-09-26 00:53:00,48.0,,-,41,N/A,30.28,Washington,73.0,,5:53 PM,,10.0,NW,5.8,310,98101.0
+18,Seattle,Mostly Cloudy,2016-09-26 01:53:00,46.9,,-,42,N/A,30.27,Washington,71.1,,6:53 PM,,10.0,Variable,5.8,0,98101.0
+19,Seattle,Mostly Cloudy,2016-09-26 02:53:00,48.9,,-,52,N/A,30.27,Washington,66.9,,7:53 PM,,10.0,NW,4.6,310,98101.0
+20,Seattle,Clear,2016-09-26 03:53:00,50.0,,-,63,N/A,30.27,Washington,63.0,,8:53 PM,,10.0,WNW,5.8,300,98101.0
+21,Seattle,Clear,2016-09-26 04:53:00,50.0,,-,63,N/A,30.25,Washington,63.0,,9:53 PM,,10.0,NW,4.6,310,98101.0
+22,Seattle,Clear,2016-09-26 05:53:00,48.9,,-,60,N/A,30.25,Washington,63.0,,10:53 PM,,10.0,Calm,Calm,0,98101.0
+23,Seattle,Clear,2016-09-26 06:53:00,48.9,,-,62,N/A,30.24,Washington,62.1,,11:53 PM,,10.0,NNW,3.5,340,98101.0
+0,Seattle,Clear,2016-09-26 07:53:00,50.0,,-,67,N/A,30.22,Washington,61.0,,12:53 AM,,10.0,Variable,3.5,0,98101.0
+1,Seattle,Clear,2016-09-26 08:53:00,50.0,,-,69,N/A,30.21,Washington,60.1,,1:53 AM,,10.0,Calm,Calm,0,98101.0
+2,Seattle,Clear,2016-09-26 09:53:00,50.0,,-,72,N/A,30.19,Washington,59.0,,2:53 AM,,10.0,North,4.6,350,98101.0
+3,Seattle,Clear,2016-09-26 10:53:00,51.1,,-,75,N/A,30.17,Washington,59.0,,3:53 AM,,10.0,Variable,3.5,0,98101.0
+4,Seattle,Clear,2016-09-26 11:53:00,51.1,,-,75,N/A,30.15,Washington,59.0,,4:53 AM,,10.0,NNW,3.5,340,98101.0
+5,Seattle,Clear,2016-09-26 12:53:00,51.1,,-,78,N/A,30.14,Washington,57.9,,5:53 AM,,10.0,Variable,3.5,0,98101.0
+6,Seattle,Partly Cloudy,2016-09-26 13:53:00,51.1,,-,78,N/A,30.13,Washington,57.9,,6:53 AM,,10.0,Variable,3.5,0,98101.0
+7,Seattle,Partly Cloudy,2016-09-26 14:53:00,51.1,,-,78,N/A,30.13,Washington,57.9,,7:53 AM,,10.0,NNE,3.5,30,98101.0
+8,Seattle,Partly Cloudy,2016-09-26 15:53:00,53.1,,-,75,N/A,30.12,Washington,61.0,,8:53 AM,,10.0,Calm,Calm,0,98101.0
+9,Seattle,Clear,2016-09-26 16:53:00,54.0,,-,70,N/A,30.10,Washington,64.0,,9:53 AM,,10.0,Variable,3.5,0,98101.0
+10,Seattle,Clear,2016-09-26 17:53:00,53.1,,-,67,N/A,30.09,Washington,64.0,,10:53 AM,,10.0,NW,5.8,310,98101.0
+11,Seattle,Clear,2016-09-26 18:53:00,53.1,,-,63,N/A,30.08,Washington,66.0,,11:53 AM,,10.0,WNW,5.8,300,98101.0
+12,Seattle,Clear,2016-09-26 19:53:00,54.0,,-,57,N/A,30.06,Washington,70.0,,12:53 PM,,10.0,West,3.5,280,98101.0
+13,Seattle,Clear,2016-09-26 20:53:00,54.0,,-,51,N/A,30.04,Washington,73.0,,1:53 PM,,10.0,WNW,5.8,300,98101.0
+14,Seattle,Clear,2016-09-26 21:53:00,54.0,,-,50,N/A,30.02,Washington,73.9,,2:53 PM,,10.0,Calm,Calm,0,98101.0
+15,Seattle,Partly Cloudy,2016-09-26 22:53:00,54.0,,-,48,N/A,30.02,Washington,75.0,,3:53 PM,,10.0,Variable,4.6,0,98101.0
+16,Seattle,Partly Cloudy,2016-09-26 23:53:00,54.0,,-,46,N/A,30.01,Washington,75.9,,4:53 PM,,10.0,Variable,6.9,0,98101.0
+17,Seattle,Clear,2016-09-27 00:53:00,54.0,,-,46,N/A,30.00,Washington,75.9,,5:53 PM,,10.0,NW,4.6,310,98101.0
+18,Seattle,Partly Cloudy,2016-09-27 01:53:00,54.0,,-,53,N/A,30.00,Washington,72.0,,6:53 PM,,10.0,NW,3.5,310,98101.0
+19,Seattle,Clear,2016-09-27 02:53:00,54.0,,-,58,N/A,30.01,Washington,69.1,,7:53 PM,,10.0,WNW,3.5,300,98101.0
+20,Seattle,Partly Cloudy,2016-09-27 03:53:00,55.0,,-,61,N/A,30.04,Washington,69.1,,8:53 PM,,10.0,North,4.6,360,98101.0
+21,Seattle,Partly Cloudy,2016-09-27 04:53:00,55.9,,-,68,N/A,30.06,Washington,66.9,,9:53 PM,,10.0,Calm,Calm,0,98101.0
+22,Seattle,Scattered Clouds,2016-09-27 05:53:00,55.9,,-,68,N/A,30.07,Washington,66.9,,10:53 PM,,10.0,Calm,Calm,0,98101.0
+23,Seattle,Scattered Clouds,2016-09-27 06:53:00,55.9,,-,73,N/A,30.08,Washington,64.9,,11:53 PM,,10.0,ENE,4.6,60,98101.0
+0,Seattle,Scattered Clouds,2016-09-27 07:53:00,55.9,,-,75,N/A,30.09,Washington,64.0,,12:53 AM,,10.0,Variable,3.5,0,98101.0
+1,Seattle,Overcast,2016-09-27 08:53:00,55.9,,-,73,N/A,30.11,Washington,64.9,,1:53 AM,,10.0,NE,3.5,50,98101.0
+2,Seattle,Overcast,2016-09-27 09:53:00,55.9,,-,73,N/A,30.12,Washington,64.9,,2:53 AM,,10.0,ENE,3.5,60,98101.0
+3,Seattle,Mostly Cloudy,2016-09-27 10:36:00,55.0,,-,73,N/A,30.12,Washington,64.0,,3:36 AM,,10.0,ENE,5.8,60,98101.0
+4,Seattle,Overcast,2016-09-27 10:53:00,55.0,,-,73,N/A,30.13,Washington,64.0,,3:53 AM,,10.0,ENE,5.8,70,98101.0
+5,Seattle,Overcast,2016-09-27 11:31:00,55.0,,-,73,N/A,30.13,Washington,64.0,,4:31 AM,,10.0,ENE,4.6,70,98101.0
+6,Seattle,Overcast,2016-09-27 11:53:00,55.0,,-,73,N/A,30.13,Washington,64.0,,4:53 AM,,10.0,Calm,Calm,0,98101.0
+7,Seattle,Light Rain,2016-09-27 12:53:00,55.9,Rain,-,75,0.00,30.15,Washington,64.0,,5:53 AM,,10.0,Calm,Calm,0,98101.0
+8,Seattle,Overcast,2016-09-27 13:21:00,55.0,,-,75,0.00,30.15,Washington,63.0,,6:21 AM,,10.0,WNW,5.8,300,98101.0
+9,Seattle,Overcast,2016-09-27 13:53:00,54.0,,-,75,0.00,30.15,Washington,62.1,,6:53 AM,,10.0,NW,10.4,320,98101.0
+10,Seattle,Overcast,2016-09-27 14:53:00,54.0,,-,75,N/A,30.17,Washington,62.1,,7:53 AM,,10.0,WNW,11.5,300,98101.0
+11,Seattle,Mostly Cloudy,2016-09-27 15:53:00,51.1,,-,67,N/A,30.18,Washington,62.1,,8:53 AM,,10.0,North,6.9,350,98101.0
+12,Seattle,Mostly Cloudy,2016-09-27 16:53:00,45.0,,-,52,N/A,30.19,Washington,63.0,,9:53 AM,,10.0,Variable,4.6,0,98101.0
+13,Seattle,Haze,2016-09-27 17:38:00,43.0,,-,43,N/A,30.20,Washington,66.0,,10:38 AM,,0.8,Variable,3.5,0,98101.0
+14,Seattle,Scattered Clouds,2016-09-27 17:53:00,42.1,,-,40,N/A,30.19,Washington,66.9,,10:53 AM,,10.0,NNE,8.1,20,98101.0
+15,Seattle,Scattered Clouds,2016-09-27 17:55:00,42.1,,-,40,N/A,30.20,Washington,66.9,,10:55 AM,,0.2,Variable,6.9,0,98101.0
+16,Seattle,Scattered Clouds,2016-09-27 17:59:00,43.0,,-,42,N/A,30.20,Washington,66.9,,10:59 AM,,10.0,North,12.7,360,98101.0
+17,Seattle,Scattered Clouds,2016-09-27 18:53:00,43.0,,-,42,N/A,30.19,Washington,66.9,,11:53 AM,,10.0,Variable,4.6,0,98101.0
+18,Seattle,Scattered Clouds,2016-09-27 19:53:00,45.0,,17.3,47,N/A,30.19,Washington,66.0,,12:53 PM,,10.0,WNW,11.5,300,98101.0
+19,Seattle,Scattered Clouds,2016-09-27 20:53:00,45.0,,-,45,N/A,30.18,Washington,66.9,,1:53 PM,,10.0,WNW,10.4,300,98101.0
+20,Seattle,Clear,2016-09-27 21:53:00,42.1,,-,39,N/A,30.17,Washington,68.0,,2:53 PM,,10.0,NW,9.2,310,98101.0
+21,Seattle,Clear,2016-09-27 22:53:00,43.0,,18.4,40,N/A,30.16,Washington,68.0,,3:53 PM,,10.0,NW,9.2,320,98101.0
+22,Seattle,Scattered Clouds,2016-09-27 23:53:00,41.0,,-,37,N/A,30.15,Washington,68.0,,4:53 PM,,10.0,NNW,8.1,330,98101.0
+23,Seattle,Scattered Clouds,2016-09-28 00:53:00,39.9,,18.4,40,N/A,30.15,Washington,64.9,,5:53 PM,,10.0,NW,9.2,320,98101.0
+24,Seattle,Scattered Clouds,2016-09-28 01:53:00,39.9,,-,43,N/A,30.14,Washington,63.0,,6:53 PM,,10.0,Variable,4.6,0,98101.0
+25,Seattle,Scattered Clouds,2016-09-28 02:53:00,41.0,,-,48,N/A,30.14,Washington,61.0,,7:53 PM,,10.0,Variable,4.6,0,98101.0
+26,Seattle,Clear,2016-09-28 03:53:00,43.0,,-,55,N/A,30.14,Washington,59.0,,8:53 PM,,10.0,NNW,3.5,340,98101.0
+27,Seattle,Clear,2016-09-28 04:53:00,44.1,,-,60,N/A,30.14,Washington,57.9,,9:53 PM,,10.0,NNW,3.5,340,98101.0
+28,Seattle,Clear,2016-09-28 05:53:00,45.0,,-,64,N/A,30.14,Washington,57.0,,10:53 PM,,10.0,NNW,4.6,340,98101.0
+29,Seattle,Clear,2016-09-28 06:53:00,45.0,,-,64,N/A,30.13,Washington,57.0,,11:53 PM,,10.0,Variable,3.5,0,98101.0
+0,Seattle,Clear,2016-09-28 07:53:00,46.0,,-,67,N/A,30.13,Washington,57.0,,12:53 AM,,10.0,North,3.5,360,98101.0
+1,Seattle,Clear,2016-09-28 08:53:00,46.9,,-,72,N/A,30.12,Washington,55.9,,1:53 AM,,10.0,Calm,Calm,0,98101.0
+2,Seattle,Clear,2016-09-28 09:53:00,45.0,,-,64,N/A,30.12,Washington,57.0,,2:53 AM,,10.0,Variable,3.5,0,98101.0
+3,Seattle,Clear,2016-09-28 10:53:00,45.0,,-,64,N/A,30.12,Washington,57.0,,3:53 AM,,10.0,Variable,3.5,0,98101.0
+4,Seattle,Mostly Cloudy,2016-09-28 11:53:00,46.0,,-,69,N/A,30.12,Washington,55.9,,4:53 AM,,10.0,Variable,3.5,0,98101.0
+5,Seattle,Mostly Cloudy,2016-09-28 12:53:00,46.9,,-,74,N/A,30.11,Washington,55.0,,5:53 AM,,10.0,NE,3.5,50,98101.0
+6,Seattle,Mostly Cloudy,2016-09-28 13:53:00,48.0,,-,77,N/A,30.12,Washington,55.0,,6:53 AM,,10.0,Calm,Calm,0,98101.0
+7,Seattle,Mostly Cloudy,2016-09-28 14:53:00,48.0,,-,77,N/A,30.12,Washington,55.0,,7:53 AM,,10.0,Variable,3.5,0,98101.0
+8,Seattle,Mostly Cloudy,2016-09-28 15:00:00,48.0,,-,77,N/A,30.12,Washington,55.0,,8:00 AM,,10.0,Variable,3.5,0,98101.0
+9,Seattle,Mostly Cloudy,2016-09-28 15:53:00,48.9,,-,74,N/A,30.12,Washington,57.0,,8:53 AM,,10.0,North,5.8,350,98101.0
+10,Seattle,Overcast,2016-09-28 16:53:00,48.9,,-,69,N/A,30.12,Washington,59.0,,9:53 AM,,10.0,North,15.0,360,98101.0
+11,Seattle,Mostly Cloudy,2016-09-28 17:53:00,51.1,,-,75,N/A,30.12,Washington,59.0,,10:53 AM,,10.0,North,10.4,10,98101.0
+12,Seattle,Mostly Cloudy,2016-09-28 18:53:00,51.1,,-,70,N/A,30.11,Washington,61.0,,11:53 AM,,10.0,ENE,8.1,60,98101.0
+13,Seattle,Clear,2016-09-28 19:00:00,52.0,,-,72,N/A,30.11,Washington,61.0,,12:00 PM,,10.0,Variable,5.8,0,98101.0
+14,Seattle,Mostly Cloudy,2016-09-28 19:05:00,51.1,,-,70,N/A,30.11,Washington,61.0,,12:05 PM,,10.0,Variable,6.9,0,98101.0
+15,Seattle,Scattered Clouds,2016-09-28 19:28:00,52.0,,-,70,N/A,30.10,Washington,62.1,,12:28 PM,,10.0,NNE,13.8,30,98101.0
+16,Seattle,Partly Cloudy,2016-09-28 19:53:00,51.1,,-,65,N/A,30.10,Washington,63.0,,12:53 PM,,10.0,NNE,13.8,30,98101.0
+17,Seattle,Partly Cloudy,2016-09-28 20:53:00,50.0,,-,63,N/A,30.09,Washington,63.0,,1:53 PM,,10.0,ENE,8.1,60,98101.0
+18,Seattle,Clear,2016-09-28 21:53:00,51.1,,-,59,N/A,30.07,Washington,66.0,,2:53 PM,,10.0,Variable,5.8,0,98101.0
+19,Seattle,Clear,2016-09-28 22:53:00,50.0,,-,56,N/A,30.06,Washington,66.0,,3:53 PM,,10.0,Variable,4.6,0,98101.0
+20,Seattle,Partly Cloudy,2016-09-28 23:53:00,50.0,,-,54,N/A,30.05,Washington,66.9,,4:53 PM,,10.0,NE,6.9,50,98101.0
+21,Seattle,Clear,2016-09-29 00:53:00,48.9,,-,52,N/A,30.04,Washington,66.9,,5:53 PM,,10.0,Variable,4.6,0,98101.0
+22,Seattle,Clear,2016-09-29 01:53:00,46.0,,-,50,N/A,30.04,Washington,64.9,,6:53 PM,,10.0,Calm,Calm,0,98101.0
+23,Seattle,Clear,2016-09-29 02:53:00,45.0,,-,52,N/A,30.04,Washington,63.0,,7:53 PM,,10.0,Calm,Calm,0,98101.0
+24,Seattle,Clear,2016-09-29 03:53:00,46.0,,-,60,N/A,30.04,Washington,60.1,,8:53 PM,,10.0,Calm,Calm,0,98101.0
+25,Seattle,Clear,2016-09-29 04:53:00,48.0,,-,70,N/A,30.04,Washington,57.9,,9:53 PM,,10.0,Calm,Calm,0,98101.0
+26,Seattle,Clear,2016-09-29 05:53:00,48.9,,-,74,N/A,30.05,Washington,57.0,,10:53 PM,,10.0,Calm,Calm,0,98101.0
+27,Seattle,Clear,2016-09-29 06:53:00,48.0,,-,75,N/A,30.04,Washington,55.9,,11:53 PM,,10.0,North,3.5,350,98101.0
+0,Seattle,Clear,2016-09-29 07:53:00,48.0,,-,77,N/A,30.04,Washington,55.0,,12:53 AM,,10.0,Calm,Calm,0,98101.0
+1,Seattle,Clear,2016-09-29 08:53:00,46.9,,-,74,N/A,30.05,Washington,55.0,,1:53 AM,,10.0,Calm,Calm,0,98101.0
+2,Seattle,Clear,2016-09-29 09:53:00,45.0,,-,74,N/A,30.05,Washington,53.1,,2:53 AM,,10.0,Calm,Calm,0,98101.0
+3,Seattle,Clear,2016-09-29 10:53:00,44.1,,-,80,N/A,30.06,Washington,50.0,,3:53 AM,,10.0,Calm,Calm,0,98101.0
+4,Seattle,Clear,2016-09-29 11:53:00,43.0,,-,77,N/A,30.06,Washington,50.0,,4:53 AM,,10.0,Calm,Calm,0,98101.0
+5,Seattle,Clear,2016-09-29 12:53:00,43.0,,-,71,N/A,30.06,Washington,52.0,,5:53 AM,,10.0,Calm,Calm,0,98101.0
+6,Seattle,Scattered Clouds,2016-09-29 13:53:00,46.0,,-,80,N/A,30.06,Washington,52.0,,6:53 AM,,10.0,Calm,Calm,0,98101.0
+7,Seattle,Scattered Clouds,2016-09-29 14:53:00,46.9,,-,80,N/A,30.08,Washington,53.1,,7:53 AM,,10.0,Calm,Calm,0,98101.0
+8,Seattle,Scattered Clouds,2016-09-29 15:53:00,48.9,,-,80,N/A,30.09,Washington,55.0,,8:53 AM,,10.0,Calm,Calm,0,98101.0
+9,Seattle,Mostly Cloudy,2016-09-29 16:53:00,50.0,,-,77,N/A,30.09,Washington,57.0,,9:53 AM,,10.0,ENE,4.6,60,98101.0
+10,Seattle,Mostly Cloudy,2016-09-29 17:53:00,50.0,,-,75,N/A,30.09,Washington,57.9,,10:53 AM,,10.0,Calm,Calm,0,98101.0
+11,Seattle,Overcast,2016-09-29 18:53:00,50.0,,-,67,N/A,30.08,Washington,61.0,,11:53 AM,,10.0,NW,4.6,320,98101.0
+12,Seattle,Mostly Cloudy,2016-09-29 19:53:00,46.0,,-,52,N/A,30.08,Washington,64.0,,12:53 PM,,10.0,NW,10.4,310,98101.0
+13,Seattle,Mostly Cloudy,2016-09-29 20:53:00,45.0,,-,52,N/A,30.08,Washington,63.0,,1:53 PM,,10.0,Variable,5.8,0,98101.0
+14,Seattle,Mostly Cloudy,2016-09-29 21:53:00,37.9,,-,38,N/A,30.07,Washington,64.0,,2:53 PM,,10.0,Variable,5.8,0,98101.0
+15,Seattle,Mostly Cloudy,2016-09-29 22:53:00,41.0,,-,42,N/A,30.06,Washington,64.9,,3:53 PM,,10.0,Variable,4.6,0,98101.0
+16,Seattle,Mostly Cloudy,2016-09-29 23:53:00,39.0,,-,39,N/A,30.06,Washington,64.9,,4:53 PM,,10.0,Variable,3.5,0,98101.0
+17,Seattle,Mostly Cloudy,2016-09-30 00:53:00,37.9,,-,38,N/A,30.06,Washington,64.0,,5:53 PM,,10.0,Calm,Calm,0,98101.0
+18,Seattle,Mostly Cloudy,2016-09-30 01:53:00,39.9,,-,44,N/A,30.06,Washington,62.1,,6:53 PM,,10.0,Calm,Calm,0,98101.0
+19,Seattle,Mostly Cloudy,2016-09-30 02:53:00,41.0,,-,46,N/A,30.06,Washington,62.1,,7:53 PM,,10.0,Calm,Calm,0,98101.0
+20,Seattle,Clear,2016-09-30 03:53:00,44.1,,-,58,N/A,30.06,Washington,59.0,,8:53 PM,,10.0,Calm,Calm,0,98101.0
+21,Seattle,Clear,2016-09-30 04:53:00,39.0,,-,46,N/A,30.06,Washington,60.1,,9:53 PM,,10.0,Variable,3.5,0,98101.0
+22,Seattle,Mostly Cloudy,2016-09-30 05:53:00,39.0,,-,48,N/A,30.06,Washington,59.0,,10:53 PM,,10.0,Calm,Calm,0,98101.0
+23,Seattle,Mostly Cloudy,2016-09-30 06:53:00,43.0,,-,59,N/A,30.06,Washington,57.0,,11:53 PM,,10.0,Calm,Calm,0,98101.0
+0,Seattle,Clear,2016-09-30 07:53:00,45.0,,-,72,N/A,30.05,Washington,54.0,,12:53 AM,,10.0,Calm,Calm,0,98101.0
+1,Seattle,Mostly Cloudy,2016-09-30 08:53:00,46.0,,-,72,N/A,30.06,Washington,55.0,,1:53 AM,,10.0,Calm,Calm,0,98101.0
+2,Seattle,Partly Cloudy,2016-09-30 09:53:00,46.0,,-,80,N/A,30.07,Washington,52.0,,2:53 AM,,10.0,SSE,4.6,150,98101.0
+3,Seattle,Clear,2016-09-30 10:53:00,45.0,,-,83,N/A,30.06,Washington,50.0,,3:53 AM,,10.0,SE,3.5,140,98101.0
+4,Seattle,Clear,2016-09-30 11:53:00,45.0,,-,86,N/A,30.06,Washington,48.9,,4:53 AM,,10.0,SE,3.5,130,98101.0
+5,Seattle,Partly Cloudy,2016-09-30 12:53:00,45.0,,-,89,N/A,30.05,Washington,48.0,,5:53 AM,,10.0,SSE,3.5,150,98101.0
+6,Seattle,Scattered Clouds,2016-09-30 13:53:00,44.1,,-,93,N/A,30.05,Washington,46.0,,6:53 AM,,10.0,SSE,6.9,150,98101.0
+7,Seattle,Mostly Cloudy,2016-09-30 14:27:00,45.0,,-,96,N/A,30.06,Washington,46.0,,7:27 AM,,10.0,SSE,8.1,150,98101.0
+8,Seattle,Mostly Cloudy,2016-09-30 14:53:00,46.9,,-,96,N/A,30.06,Washington,48.0,,7:53 AM,,10.0,SE,6.9,140,98101.0
+9,Seattle,Overcast,2016-09-30 15:02:00,48.0,,-,97,N/A,30.06,Washington,48.9,,8:02 AM,,8.0,SE,6.9,140,98101.0
+10,Seattle,Overcast,2016-09-30 15:53:00,48.9,,-,96,N/A,30.06,Washington,50.0,,8:53 AM,,6.0,SE,4.6,140,98101.0
+11,Seattle,Overcast,2016-09-30 16:53:00,48.9,,-,96,N/A,30.06,Washington,50.0,,9:53 AM,,5.0,SE,3.5,140,98101.0
+12,Seattle,Overcast,2016-09-30 17:53:00,48.0,,-,86,N/A,30.04,Washington,52.0,,10:53 AM,,6.0,SE,4.6,130,98101.0
+13,Seattle,Mostly Cloudy,2016-09-30 18:03:00,48.0,,-,86,N/A,30.04,Washington,52.0,,11:03 AM,,8.0,East,3.5,80,98101.0
+14,Seattle,Haze,2016-09-30 18:40:00,48.0,,-,75,N/A,30.03,Washington,55.9,,11:40 AM,,6.0,Calm,Calm,0,98101.0
+15,Seattle,Haze,2016-09-30 18:53:00,48.9,,-,74,N/A,30.03,Washington,57.0,,11:53 AM,,6.0,Calm,Calm,0,98101.0
+16,Seattle,Haze,2016-09-30 19:53:00,48.0,,-,60,N/A,30.00,Washington,62.1,,12:53 PM,,10.0,Calm,Calm,0,98101.0
+17,Seattle,Partly Cloudy,2016-09-30 20:53:00,48.9,,-,60,N/A,29.98,Washington,63.0,,1:53 PM,,10.0,North,5.8,350,98101.0
+18,Seattle,Clear,2016-09-30 21:53:00,46.0,,-,52,N/A,29.97,Washington,64.0,,2:53 PM,,10.0,WNW,5.8,300,98101.0
+19,Seattle,Partly Cloudy,2016-09-30 22:53:00,44.1,,-,45,N/A,29.96,Washington,66.0,,3:53 PM,,10.0,West,6.9,260,98101.0
+20,Seattle,Clear,2016-09-30 23:53:00,45.0,,-,48,N/A,29.96,Washington,64.9,,4:53 PM,,10.0,SSW,5.8,200,98101.0
+21,Seattle,Clear,2016-10-01 00:53:00,44.1,,-,48,N/A,29.96,Washington,64.0,,5:53 PM,,10.0,SSW,6.9,200,98101.0
+22,Seattle,Partly Cloudy,2016-10-01 01:53:00,41.0,,-,46,N/A,29.96,Washington,62.1,,6:53 PM,,10.0,Variable,3.5,0,98101.0
+23,Seattle,Scattered Clouds,2016-10-01 02:53:00,42.1,,-,53,N/A,29.95,Washington,59.0,,7:53 PM,,10.0,South,3.5,170,98101.0
+24,Seattle,Clear,2016-10-01 03:53:00,43.0,,-,59,N/A,29.95,Washington,57.0,,8:53 PM,,10.0,SSE,4.6,150,98101.0
+25,Seattle,Clear,2016-10-01 04:53:00,43.0,,-,58,N/A,29.97,Washington,57.9,,9:53 PM,,10.0,SSE,6.9,150,98101.0
+26,Seattle,Scattered Clouds,2016-10-01 05:53:00,43.0,,-,62,N/A,29.97,Washington,55.9,,10:53 PM,,10.0,Variable,3.5,0,98101.0
+27,Seattle,Overcast,2016-10-01 06:53:00,45.0,,-,67,N/A,29.98,Washington,55.9,,11:53 PM,,10.0,SE,6.9,130,98101.0
+0,Seattle,Light Rain,2016-10-01 07:53:00,50.0,Rain,-,86,0.00,29.99,Washington,54.0,,12:53 AM,,10.0,South,5.8,170,98101.0
+1,Seattle,Overcast,2016-10-01 08:53:00,51.1,,-,90,0.02,29.98,Washington,54.0,,1:53 AM,,10.0,SE,3.5,130,98101.0
+2,Seattle,Overcast,2016-10-01 09:53:00,51.1,,-,90,N/A,29.97,Washington,54.0,,2:53 AM,,10.0,ESE,3.5,120,98101.0
+3,Seattle,Light Rain,2016-10-01 10:53:00,50.0,Rain,-,89,0.01,29.96,Washington,53.1,,3:53 AM,,10.0,Calm,Calm,0,98101.0
+4,Seattle,Overcast,2016-10-01 11:53:00,50.0,,-,89,0.01,29.94,Washington,53.1,,4:53 AM,,10.0,South,3.5,170,98101.0
+5,Seattle,Overcast,2016-10-01 12:53:00,48.9,,-,89,N/A,29.94,Washington,52.0,,5:53 AM,,10.0,Variable,5.8,0,98101.0
+6,Seattle,Mostly Cloudy,2016-10-01 13:53:00,48.9,,-,92,N/A,29.94,Washington,51.1,,6:53 AM,,10.0,South,4.6,170,98101.0
+7,Seattle,Scattered Clouds,2016-10-01 14:53:00,48.9,,-,96,N/A,29.93,Washington,50.0,,7:53 AM,,10.0,SSE,4.6,150,98101.0
+8,Seattle,Mostly Cloudy,2016-10-01 15:53:00,50.0,,-,89,N/A,29.94,Washington,53.1,,8:53 AM,,10.0,SE,8.1,140,98101.0
+9,Seattle,Mostly Cloudy,2016-10-01 16:53:00,50.0,,-,80,N/A,29.94,Washington,55.9,,9:53 AM,,10.0,SSE,8.1,160,98101.0
+10,Seattle,Mostly Cloudy,2016-10-01 17:53:00,46.9,,-,64,N/A,29.93,Washington,59.0,,10:53 AM,,10.0,SSE,5.8,160,98101.0
+11,Seattle,Light Rain,2016-10-01 18:53:00,48.0,Rain,-,64,0.00,29.94,Washington,60.1,,11:53 AM,,10.0,Variable,6.9,0,98101.0
+12,Seattle,Light Rain,2016-10-01 19:53:00,48.9,Rain,21.9,72,0.00,29.96,Washington,57.9,,12:53 PM,,8.0,SSW,8.1,200,98101.0
+13,Seattle,Light Rain,2016-10-01 20:53:00,51.1,Rain,-,81,0.03,29.96,Washington,57.0,,1:53 PM,,10.0,South,8.1,170,98101.0
+14,Seattle,Mostly Cloudy,2016-10-01 21:53:00,50.0,,19.6,67,0.00,29.96,Washington,61.0,,2:53 PM,,10.0,South,8.1,190,98101.0
+15,Seattle,Mostly Cloudy,2016-10-01 22:53:00,46.9,,21.9,58,0.00,29.97,Washington,62.1,,3:53 PM,,10.0,South,11.5,180,98101.0
+16,Seattle,Mostly Cloudy,2016-10-01 23:53:00,46.9,,16.1,58,N/A,29.98,Washington,62.1,,4:53 PM,,10.0,South,8.1,190,98101.0
+17,Seattle,Rain,2016-10-02 00:53:00,48.9,Rain,26.5,77,0.02,29.99,Washington,55.9,,5:53 PM,,5.0,South,11.5,180,98101.0
+18,Seattle,Overcast,2016-10-02 01:53:00,50.0,,-,83,0.00,29.99,Washington,55.0,,6:53 PM,,10.0,SSE,3.5,150,98101.0
+19,Seattle,Mostly Cloudy,2016-10-02 02:53:00,50.0,,-,83,N/A,30.00,Washington,55.0,,7:53 PM,,10.0,Calm,Calm,0,98101.0
+20,Seattle,Light Rain,2016-10-02 03:53:00,51.1,Rain,-,90,0.01,30.00,Washington,54.0,,8:53 PM,,10.0,Calm,Calm,0,98101.0
+21,Seattle,Mostly Cloudy,2016-10-02 04:53:00,52.0,,-,93,0.00,29.99,Washington,54.0,,9:53 PM,,10.0,Calm,Calm,0,98101.0
+22,Seattle,Mostly Cloudy,2016-10-02 05:53:00,52.0,,-,96,0.00,29.98,Washington,53.1,,10:53 PM,,10.0,Calm,Calm,0,98101.0
+23,Seattle,Partly Cloudy,2016-10-02 06:53:00,50.0,,-,96,N/A,29.97,Washington,51.1,,11:53 PM,,10.0,Calm,Calm,0,98101.0
+0,Tulsa,Clear,2016-09-15 05:53:00,66.9,,-,93,,30.11,Oklahoma,69.1,12:53 AM,,0.0,10.0,Calm,Calm,0,74104.0
+1,Tulsa,Clear,2016-09-15 06:53:00,66.9,,-,93,,30.1,Oklahoma,69.1,1:53 AM,,1.0,10.0,East,3.5,80,74104.0
+2,Tulsa,Clear,2016-09-15 07:53:00,66.9,,-,93,,30.09,Oklahoma,69.1,2:53 AM,,2.0,8.0,Calm,Calm,0,74104.0
+3,Tulsa,Clear,2016-09-15 08:53:00,66.0,,-,93,,30.09,Oklahoma,68.0,3:53 AM,,3.0,7.0,Calm,Calm,0,74104.0
+4,Tulsa,Clear,2016-09-15 09:53:00,66.0,,-,93,,30.09,Oklahoma,68.0,4:53 AM,,4.0,7.0,Calm,Calm,0,74104.0
+5,Tulsa,Clear,2016-09-15 10:53:00,66.0,,-,97,,30.09,Oklahoma,66.9,5:53 AM,,5.0,6.0,Calm,Calm,0,74104.0
+6,Tulsa,Scattered Clouds,2016-09-15 11:53:00,66.0,,-,93,,30.1,Oklahoma,68.0,6:53 AM,,6.0,8.0,Calm,Calm,0,74104.0
+7,Tulsa,Clear,2016-09-15 12:53:00,66.9,,-,93,,30.12,Oklahoma,69.1,7:53 AM,,7.0,8.0,Calm,Calm,0,74104.0
+8,Tulsa,Clear,2016-09-15 13:53:00,69.1,,-,87,,30.11,Oklahoma,73.0,8:53 AM,,8.0,10.0,SE,3.5,140,74104.0
+9,Tulsa,Mostly Cloudy,2016-09-15 14:53:00,69.1,,-,79,,30.12,Oklahoma,75.9,9:53 AM,,9.0,10.0,ESE,3.5,120,74104.0
+10,Tulsa,Mostly Cloudy,2016-09-15 15:53:00,70.0,,-,74,,30.11,Oklahoma,79.0,10:53 AM,,10.0,10.0,SSE,3.5,150,74104.0
+11,Tulsa,Mostly Cloudy,2016-09-15 16:53:00,71.1,,-,67,,30.1,Oklahoma,82.9,11:53 AM,,11.0,10.0,South,4.6,180,74104.0
+12,Tulsa,Partly Cloudy,2016-09-15 17:53:00,71.1,,-,63,,30.07,Oklahoma,84.9,12:53 PM,,12.0,10.0,Variable,3.5,0,74104.0
+13,Tulsa,Partly Cloudy,2016-09-15 18:53:00,71.1,,-,61,,30.04,Oklahoma,86.0,1:53 PM,,13.0,10.0,SSE,8.1,150,74104.0
+14,Tulsa,Thunderstorm,2016-09-15 19:22:00,71.1,Thunderstorm,-,59,,30.01,Oklahoma,87.1,2:22 PM,,14.0,10.0,South,6.9,170,74104.0
+15,Tulsa,Partly Cloudy,2016-09-15 19:50:00,71.6,Thunderstorm,19.6,62,,30.0,Oklahoma,86.0,2:50 PM,,15.0,10.0,SSE,12.7,150,74104.0
+16,Tulsa,Partly Cloudy,2016-09-15 19:53:00,72.0,Thunderstorm,19.6,65,,30.01,Oklahoma,84.9,2:53 PM,,16.0,10.0,South,13.8,170,74104.0
+17,Tulsa,Mostly Cloudy,2016-09-15 20:22:00,69.1,,-,63,,30.0,Oklahoma,82.9,3:22 PM,,17.0,10.0,SSE,9.2,160,74104.0
+18,Tulsa,Scattered Clouds,2016-09-15 20:29:00,70.0,Thunderstorm,-,67,,30.0,Oklahoma,82.0,3:29 PM,,18.0,10.0,SSE,10.4,150,74104.0
+19,Tulsa,Thunderstorm,2016-09-15 20:41:00,71.1,Thunderstorm,-,72,,30.0,Oklahoma,81.0,3:41 PM,,19.0,10.0,SE,9.2,140,74104.0
+20,Tulsa,Scattered Clouds,2016-09-15 20:53:00,69.1,Thunderstorm,-,67,,30.01,Oklahoma,81.0,3:53 PM,,20.0,10.0,SE,9.2,140,74104.0
+21,Tulsa,Light Rain,2016-09-15 21:42:00,72.0,Rain,-,84,0.0,29.99,Oklahoma,77.0,4:42 PM,,21.0,10.0,SSW,3.5,210,74104.0
+22,Tulsa,Light Rain,2016-09-15 21:53:00,73.0,Rain,-,82,0.0,30.0,Oklahoma,79.0,4:53 PM,,22.0,10.0,SSE,4.6,160,74104.0
+23,Tulsa,Clear,2016-09-15 22:53:00,72.0,,-,81,0.0,29.99,Oklahoma,78.1,5:53 PM,,23.0,10.0,SSW,3.5,200,74104.0
+24,Tulsa,Clear,2016-09-15 23:53:00,70.0,,-,76,,29.96,Oklahoma,78.1,6:53 PM,,24.0,10.0,South,10.4,170,74104.0
+25,Tulsa,Clear,2016-09-16 00:53:00,70.0,,-,84,,29.99,Oklahoma,75.0,7:53 PM,,25.0,10.0,Calm,Calm,0,74104.0
+26,Tulsa,Clear,2016-09-16 01:53:00,70.0,,-,90,,30.0,Oklahoma,73.0,8:53 PM,,26.0,10.0,Calm,Calm,0,74104.0
+27,Tulsa,Clear,2016-09-16 02:53:00,69.1,,-,91,,30.0,Oklahoma,72.0,9:53 PM,,27.0,10.0,Calm,Calm,0,74104.0
+28,Tulsa,Clear,2016-09-16 03:53:00,69.1,,-,85,,29.99,Oklahoma,73.9,10:53 PM,,28.0,10.0,Calm,Calm,0,74104.0
+29,Tulsa,Clear,2016-09-16 04:53:00,69.1,,-,93,,30.0,Oklahoma,71.1,11:53 PM,,29.0,10.0,Calm,Calm,0,74104.0
+30,Tulsa,Clear,2016-09-16 05:53:00,68.0,,-,90,,29.99,Oklahoma,71.1,12:53 AM,,0.0,8.0,Calm,Calm,0,74104.0
+31,Tulsa,Clear,2016-09-16 06:53:00,68.0,,-,93,,29.97,Oklahoma,70.0,1:53 AM,,1.0,6.0,Calm,Calm,0,74104.0
+32,Tulsa,Clear,2016-09-16 07:53:00,68.0,,-,93,,29.98,Oklahoma,70.0,2:53 AM,,2.0,5.0,Calm,Calm,0,74104.0
+33,Tulsa,Clear,2016-09-16 08:53:00,66.9,,-,93,,29.97,Oklahoma,69.1,3:53 AM,,3.0,5.0,Calm,Calm,0,74104.0
+34,Tulsa,Clear,2016-09-16 09:45:00,66.9,,-,93,,29.96,Oklahoma,69.1,4:45 AM,,4.0,2.0,Calm,Calm,0,74104.0
+35,Tulsa,Clear,2016-09-16 09:53:00,66.9,,-,93,,29.97,Oklahoma,69.1,4:53 AM,,5.0,4.0,Calm,Calm,0,74104.0
+36,Tulsa,Clear,2016-09-16 10:53:00,68.0,,-,93,,29.97,Oklahoma,70.0,5:53 AM,,6.0,6.0,Calm,Calm,0,74104.0
+37,Tulsa,Clear,2016-09-16 11:53:00,69.1,,-,87,,29.98,Oklahoma,73.0,6:53 AM,,7.0,10.0,South,4.6,170,74104.0
+38,Tulsa,Clear,2016-09-16 12:53:00,70.0,,-,87,,29.99,Oklahoma,73.9,7:53 AM,,8.0,10.0,South,4.6,170,74104.0
+39,Tulsa,Clear,2016-09-16 13:53:00,70.0,,-,82,,29.98,Oklahoma,75.9,8:53 AM,,9.0,10.0,South,5.8,170,74104.0
+40,Tulsa,Clear,2016-09-16 14:53:00,71.1,,-,77,,29.98,Oklahoma,79.0,9:53 AM,,10.0,10.0,South,6.9,190,74104.0
+41,Tulsa,Mostly Cloudy,2016-09-16 15:53:00,71.1,,-,79,,30.0,Oklahoma,78.1,10:53 AM,,11.0,10.0,SSW,8.1,200,74104.0
+42,Tulsa,Light Rain,2016-09-16 16:17:00,72.0,Rain-Thunderstorm,-,87,0.0,29.98,Oklahoma,75.9,11:17 AM,,12.0,7.0,Variable,5.8,0,74104.0
+43,Tulsa,Rain,2016-09-16 16:34:00,72.0,Rain,-,90,0.02,29.97,Oklahoma,75.0,11:34 AM,,13.0,5.0,SW,5.8,220,74104.0
+44,Tulsa,Light Rain,2016-09-16 16:53:00,72.0,Rain,-,90,0.05,29.98,Oklahoma,75.0,11:53 AM,,14.0,6.0,WSW,5.8,240,74104.0
+45,Tulsa,Light Rain,2016-09-16 17:06:00,72.0,Rain,-,87,0.0,29.97,Oklahoma,75.9,12:06 PM,,15.0,7.0,WSW,3.5,240,74104.0
+46,Tulsa,Mostly Cloudy,2016-09-16 17:53:00,71.1,,-,82,0.0,29.98,Oklahoma,77.0,12:53 PM,,16.0,10.0,Variable,4.6,0,74104.0
+47,Tulsa,Overcast,2016-09-16 18:53:00,69.1,,-,69,0.0,29.97,Oklahoma,80.1,1:53 PM,,17.0,10.0,Variable,4.6,0,74104.0
+48,Tulsa,Overcast,2016-09-16 19:53:00,66.0,,-,64,,29.96,Oklahoma,79.0,2:53 PM,,18.0,10.0,NNE,4.6,20,74104.0
+49,Tulsa,Light Rain,2016-09-16 20:53:00,68.0,Rain,18.4,82,0.0,29.95,Oklahoma,73.9,3:53 PM,,19.0,10.0,North,9.2,350,74104.0
+50,Tulsa,Overcast,2016-09-16 21:53:00,66.9,,19.6,81,0.0,29.96,Oklahoma,73.0,4:53 PM,,20.0,10.0,North,13.8,10,74104.0
+51,Tulsa,Overcast,2016-09-16 22:32:00,66.9,,21.9,81,0.0,29.96,Oklahoma,73.0,5:32 PM,,21.0,10.0,NE,16.1,40,74104.0
+52,Tulsa,Mostly Cloudy,2016-09-16 22:51:00,66.2,,23.0,78,0.0,29.96,Oklahoma,73.4,5:51 PM,,22.0,10.0,NE,13.8,40,74104.0
+53,Tulsa,Mostly Cloudy,2016-09-16 22:53:00,66.0,,-,73,0.0,29.97,Oklahoma,75.0,5:53 PM,,23.0,10.0,NE,10.4,50,74104.0
+54,Tulsa,Mostly Cloudy,2016-09-16 23:53:00,63.0,,-,75,,29.99,Oklahoma,71.1,6:53 PM,,24.0,10.0,ENE,13.8,60,74104.0
+55,Tulsa,Clear,2016-09-17 00:53:00,63.0,,-,81,,29.99,Oklahoma,69.1,7:53 PM,,25.0,10.0,ENE,8.1,70,74104.0
+56,Tulsa,Clear,2016-09-17 01:53:00,62.1,,-,81,,30.0,Oklahoma,68.0,8:53 PM,,26.0,10.0,ESE,5.8,110,74104.0
+57,Tulsa,Clear,2016-09-17 02:53:00,62.1,,-,87,,30.01,Oklahoma,66.0,9:53 PM,,27.0,10.0,Calm,Calm,0,74104.0
+58,Tulsa,Clear,2016-09-17 03:53:00,62.1,,-,93,,30.01,Oklahoma,64.0,10:53 PM,,28.0,10.0,Calm,Calm,0,74104.0
+59,Tulsa,Clear,2016-09-17 04:53:00,62.1,,-,93,,30.01,Oklahoma,64.0,11:53 PM,,29.0,10.0,Calm,Calm,0,74104.0
+60,Tulsa,Clear,2016-09-17 05:53:00,61.0,,-,93,,30.03,Oklahoma,63.0,12:53 AM,,0.0,10.0,Calm,Calm,0,74104.0
+61,Tulsa,Clear,2016-09-17 06:53:00,62.1,,-,90,,30.04,Oklahoma,64.9,1:53 AM,,1.0,10.0,Calm,Calm,0,74104.0
+62,Tulsa,Clear,2016-09-17 07:53:00,62.1,,-,93,,30.03,Oklahoma,64.0,2:53 AM,,2.0,10.0,NNE,5.8,30,74104.0
+63,Tulsa,Clear,2016-09-17 08:53:00,62.1,,-,93,,30.03,Oklahoma,64.0,3:53 AM,,3.0,10.0,Calm,Calm,0,74104.0
+64,Tulsa,Partly Cloudy,2016-09-17 09:48:00,60.8,,-,94,,30.01,Oklahoma,62.6,4:48 AM,,4.0,10.0,Calm,Calm,0,74104.0
+65,Tulsa,Partly Cloudy,2016-09-17 09:53:00,61.0,,-,93,,30.03,Oklahoma,63.0,4:53 AM,,5.0,10.0,Calm,Calm,0,74104.0
+66,Tulsa,Mostly Cloudy,2016-09-17 10:53:00,61.0,,-,93,,30.04,Oklahoma,63.0,5:53 AM,,6.0,10.0,North,3.5,10,74104.0
+67,Tulsa,Overcast,2016-09-17 11:14:00,62.1,,-,93,,30.02,Oklahoma,64.0,6:14 AM,,7.0,7.0,NNE,3.5,20,74104.0
+68,Tulsa,Overcast,2016-09-17 11:53:00,63.0,,-,96,,30.05,Oklahoma,64.0,6:53 AM,,8.0,5.0,NNE,5.8,20,74104.0
+69,Tulsa,Overcast,2016-09-17 12:53:00,62.1,,-,93,,30.08,Oklahoma,64.0,7:53 AM,,9.0,8.0,NNE,4.6,30,74104.0
+70,Tulsa,Mostly Cloudy,2016-09-17 13:43:00,63.0,,-,90,,30.06,Oklahoma,66.0,8:43 AM,,10.0,8.0,NNE,6.9,30,74104.0
+71,Tulsa,Scattered Clouds,2016-09-17 13:53:00,64.0,,-,90,,30.08,Oklahoma,66.9,8:53 AM,,11.0,10.0,NNE,5.8,30,74104.0
+72,Tulsa,Clear,2016-09-17 14:53:00,64.0,,-,76,,30.09,Oklahoma,72.0,9:53 AM,,12.0,10.0,North,5.8,360,74104.0
+73,Tulsa,Clear,2016-09-17 15:53:00,64.0,,-,64,,30.09,Oklahoma,77.0,10:53 AM,,13.0,10.0,Calm,Calm,0,74104.0
+74,Tulsa,Clear,2016-09-17 16:53:00,63.0,,-,54,,30.08,Oklahoma,81.0,11:53 AM,,14.0,10.0,Calm,Calm,0,74104.0
+75,Tulsa,Clear,2016-09-17 17:53:00,61.0,,-,47,,30.07,Oklahoma,82.9,12:53 PM,,15.0,10.0,Calm,Calm,0,74104.0
+76,Tulsa,Clear,2016-09-17 18:53:00,63.0,,-,48,,30.05,Oklahoma,84.9,1:53 PM,,16.0,10.0,NNE,6.9,30,74104.0
+77,Tulsa,Clear,2016-09-17 19:53:00,64.0,,-,46,,30.02,Oklahoma,87.1,2:53 PM,,17.0,10.0,Variable,4.6,0,74104.0
+78,Tulsa,Clear,2016-09-17 20:53:00,64.9,,-,48,,30.0,Oklahoma,87.1,3:53 PM,,18.0,10.0,Variable,3.5,0,74104.0
+79,Tulsa,Scattered Clouds,2016-09-17 21:53:00,64.0,,-,48,,29.99,Oklahoma,86.0,4:53 PM,,19.0,10.0,ESE,3.5,120,74104.0
+80,Tulsa,Partly Cloudy,2016-09-17 22:53:00,68.0,,-,65,,29.98,Oklahoma,81.0,5:53 PM,,20.0,10.0,Calm,Calm,0,74104.0
+81,Tulsa,Clear,2016-09-17 23:53:00,66.0,,-,62,,30.0,Oklahoma,80.1,6:53 PM,,21.0,10.0,North,4.6,360,74104.0
+82,Tulsa,Light Rain,2016-09-18 00:53:00,66.9,Rain,-,74,0.0,30.03,Oklahoma,75.9,7:53 PM,,22.0,10.0,NW,3.5,310,74104.0
+83,Tulsa,Partly Cloudy,2016-09-18 01:53:00,70.0,,-,90,0.01,30.0,Oklahoma,73.0,8:53 PM,,23.0,10.0,Calm,Calm,0,74104.0
+84,Tulsa,Clear,2016-09-18 02:53:00,68.0,,-,76,,30.01,Oklahoma,75.9,9:53 PM,,24.0,10.0,South,4.6,170,74104.0
+85,Tulsa,Clear,2016-09-18 03:53:00,68.0,,-,93,,30.02,Oklahoma,70.0,10:53 PM,,25.0,10.0,Calm,Calm,0,74104.0
+86,Tulsa,Clear,2016-09-18 04:53:00,66.0,,-,93,,30.03,Oklahoma,68.0,11:53 PM,,26.0,10.0,Calm,Calm,0,74104.0
+87,Tulsa,Clear,2016-09-18 05:53:00,64.9,,-,93,,30.01,Oklahoma,66.9,12:53 AM,,0.0,9.0,Calm,Calm,0,74104.0
+88,Tulsa,Clear,2016-09-18 06:53:00,64.9,,-,93,,29.99,Oklahoma,66.9,1:53 AM,,1.0,7.0,Calm,Calm,0,74104.0
+89,Tulsa,Clear,2016-09-18 07:53:00,64.9,,-,93,,29.98,Oklahoma,66.9,2:53 AM,,2.0,9.0,Calm,Calm,0,74104.0
+90,Tulsa,Clear,2016-09-18 08:53:00,64.9,,-,93,,29.97,Oklahoma,66.9,3:53 AM,,3.0,7.0,Calm,Calm,0,74104.0
+91,Tulsa,Partly Cloudy,2016-09-18 09:53:00,66.0,,-,93,,29.98,Oklahoma,68.0,4:53 AM,,4.0,10.0,SW,6.9,230,74104.0
+92,Tulsa,Light Rain,2016-09-18 10:53:00,66.0,Rain,18.4,87,0.0,29.96,Oklahoma,70.0,5:53 AM,,5.0,10.0,NNE,8.1,20,74104.0
+93,Tulsa,Light Rain,2016-09-18 11:12:00,66.0,Rain,-,84,0.0,29.93,Oklahoma,71.1,6:12 AM,,6.0,10.0,ENE,8.1,60,74104.0
+94,Tulsa,Clear,2016-09-18 11:53:00,66.0,,-,87,0.0,29.95,Oklahoma,70.0,6:53 AM,,7.0,10.0,North,4.6,10,74104.0
+95,Tulsa,Clear,2016-09-18 12:53:00,66.0,,-,93,,29.98,Oklahoma,68.0,7:53 AM,,8.0,10.0,Calm,Calm,0,74104.0
+96,Tulsa,Clear,2016-09-18 13:53:00,66.9,,-,84,,30.01,Oklahoma,72.0,8:53 AM,,9.0,10.0,Calm,Calm,0,74104.0
+97,Tulsa,Clear,2016-09-18 14:53:00,64.0,,-,64,,30.01,Oklahoma,77.0,9:53 AM,,10.0,10.0,Calm,Calm,0,74104.0
+98,Tulsa,Clear,2016-09-18 15:53:00,62.1,,-,56,,30.02,Oklahoma,79.0,10:53 AM,,11.0,10.0,South,5.8,190,74104.0
+99,Tulsa,Clear,2016-09-18 16:53:00,62.1,,-,49,,30.01,Oklahoma,82.9,11:53 AM,,12.0,10.0,SSW,6.9,200,74104.0
+100,Tulsa,Clear,2016-09-18 17:53:00,63.0,,-,48,,29.98,Oklahoma,84.9,12:53 PM,,13.0,10.0,South,6.9,170,74104.0
+101,Tulsa,Partly Cloudy,2016-09-18 18:53:00,64.0,,-,45,,29.96,Oklahoma,88.0,1:53 PM,,14.0,10.0,Variable,6.9,0,74104.0
+102,Tulsa,Clear,2016-09-18 19:53:00,62.1,,-,39,,29.94,Oklahoma,90.0,2:53 PM,,15.0,10.0,South,5.8,170,74104.0
+103,Tulsa,Mostly Cloudy,2016-09-18 20:53:00,63.0,,-,39,,29.92,Oklahoma,91.0,3:53 PM,,16.0,10.0,SSW,8.1,210,74104.0
+104,Tulsa,Clear,2016-09-18 21:53:00,63.0,,-,39,,29.91,Oklahoma,91.0,4:53 PM,,17.0,10.0,Calm,Calm,0,74104.0
+105,Tulsa,Clear,2016-09-18 22:53:00,64.0,,-,42,,29.9,Oklahoma,90.0,5:53 PM,,18.0,10.0,SW,4.6,220,74104.0
+106,Tulsa,Clear,2016-09-18 23:53:00,66.9,,-,64,,29.91,Oklahoma,80.1,6:53 PM,,19.0,10.0,SSW,3.5,210,74104.0
+107,Tulsa,Clear,2016-09-19 00:53:00,68.0,,-,74,,29.92,Oklahoma,77.0,7:53 PM,,20.0,10.0,Calm,Calm,0,74104.0
+108,Tulsa,Clear,2016-09-19 01:53:00,68.0,,-,82,,29.94,Oklahoma,73.9,8:53 PM,,21.0,10.0,Calm,Calm,0,74104.0
+109,Tulsa,Clear,2016-09-19 02:53:00,68.0,,-,84,,29.97,Oklahoma,73.0,9:53 PM,,22.0,10.0,Calm,Calm,0,74104.0
+110,Tulsa,Clear,2016-09-19 03:53:00,68.0,,-,84,,29.97,Oklahoma,73.0,10:53 PM,,23.0,10.0,Calm,Calm,0,74104.0
+111,Tulsa,Overcast,2016-09-19 04:53:00,66.9,,-,68,,29.98,Oklahoma,78.1,11:53 PM,,24.0,10.0,Calm,Calm,0,74104.0
+112,Tulsa,Partly Cloudy,2016-09-19 05:53:00,68.0,,-,87,,29.99,Oklahoma,72.0,12:53 AM,,0.0,10.0,Calm,Calm,0,74104.0
+113,Tulsa,Scattered Clouds,2016-09-19 06:53:00,68.0,,-,87,,29.98,Oklahoma,72.0,1:53 AM,,1.0,10.0,SE,3.5,140,74104.0
+114,Tulsa,Clear,2016-09-19 07:53:00,69.1,,-,82,,29.98,Oklahoma,75.0,2:53 AM,,2.0,10.0,South,4.6,170,74104.0
+115,Tulsa,Clear,2016-09-19 08:53:00,68.0,,-,90,,29.99,Oklahoma,71.1,3:53 AM,,3.0,10.0,Calm,Calm,0,74104.0
+116,Tulsa,Clear,2016-09-19 09:53:00,68.0,,-,84,,29.99,Oklahoma,73.0,4:53 AM,,4.0,10.0,South,4.6,170,74104.0
+117,Tulsa,Clear,2016-09-19 10:53:00,66.9,,-,93,,30.0,Oklahoma,69.1,5:53 AM,,5.0,10.0,Calm,Calm,0,74104.0
+118,Tulsa,Clear,2016-09-19 11:53:00,68.0,,-,87,,30.01,Oklahoma,72.0,6:53 AM,,6.0,10.0,Variable,3.5,0,74104.0
+119,Tulsa,Clear,2016-09-19 12:53:00,69.1,,-,87,,30.03,Oklahoma,73.0,7:53 AM,,7.0,10.0,South,3.5,170,74104.0
+120,Tulsa,Clear,2016-09-19 13:53:00,70.0,,-,79,,30.04,Oklahoma,77.0,8:53 AM,,8.0,10.0,South,8.1,170,74104.0
+121,Tulsa,Clear,2016-09-19 14:53:00,71.1,,-,72,,30.04,Oklahoma,81.0,9:53 AM,,9.0,10.0,South,8.1,180,74104.0
+122,Tulsa,Clear,2016-09-19 15:53:00,72.0,,-,63,,30.04,Oklahoma,86.0,10:53 AM,,10.0,10.0,South,8.1,180,74104.0
+123,Tulsa,Clear,2016-09-19 16:53:00,73.0,,-,57,,30.02,Oklahoma,90.0,11:53 AM,,11.0,10.0,South,8.1,170,74104.0
+124,Tulsa,Clear,2016-09-19 17:53:00,72.0,,-,50,,30.01,Oklahoma,93.0,12:53 PM,,12.0,10.0,South,6.9,180,74104.0
+125,Tulsa,Clear,2016-09-19 18:53:00,71.1,,-,46,,30.0,Oklahoma,95.0,1:53 PM,,13.0,10.0,SSW,4.6,200,74104.0
+126,Tulsa,Clear,2016-09-19 19:53:00,70.0,,-,43,,29.98,Oklahoma,96.1,2:53 PM,,14.0,10.0,SW,5.8,230,74104.0
+127,Tulsa,Clear,2016-09-19 20:53:00,70.0,,-,41,,29.97,Oklahoma,97.0,3:53 PM,,15.0,10.0,Variable,4.6,0,74104.0
+128,Tulsa,Clear,2016-09-19 21:53:00,73.9,,-,61,,29.97,Oklahoma,89.1,4:53 PM,,16.0,10.0,Calm,Calm,0,74104.0
+129,Tulsa,Clear,2016-09-19 22:53:00,71.1,,-,49,,29.97,Oklahoma,93.0,5:53 PM,,17.0,10.0,ESE,9.2,120,74104.0
+130,Tulsa,Clear,2016-09-19 23:53:00,70.0,,-,48,,29.98,Oklahoma,91.9,6:53 PM,,18.0,10.0,SE,9.2,130,74104.0
+131,Tulsa,Clear,2016-09-20 00:53:00,70.0,,-,53,,29.99,Oklahoma,89.1,7:53 PM,,19.0,10.0,SSE,3.5,150,74104.0
+132,Tulsa,Clear,2016-09-20 01:53:00,72.0,,-,61,,30.0,Oklahoma,87.1,8:53 PM,,20.0,10.0,SSE,4.6,160,74104.0
+133,Tulsa,Clear,2016-09-20 02:53:00,73.0,,-,77,,30.02,Oklahoma,81.0,9:53 PM,,21.0,10.0,South,3.5,170,74104.0
+134,Tulsa,Clear,2016-09-20 03:53:00,73.0,,-,72,,30.04,Oklahoma,82.9,10:53 PM,,22.0,10.0,South,4.6,180,74104.0
+135,Tulsa,Clear,2016-09-20 04:53:00,73.0,,-,72,,30.05,Oklahoma,82.9,11:53 PM,,23.0,10.0,South,4.6,170,74104.0
+136,Tulsa,Clear,2016-09-20 05:53:00,73.0,,-,74,,30.05,Oklahoma,82.0,12:53 AM,,0.0,10.0,South,5.8,170,74104.0
+137,Tulsa,Clear,2016-09-20 06:53:00,73.9,,-,79,,30.06,Oklahoma,81.0,1:53 AM,,1.0,10.0,SSE,4.6,160,74104.0
+138,Tulsa,Clear,2016-09-20 07:53:00,73.9,,-,81,,30.06,Oklahoma,80.1,2:53 AM,,2.0,10.0,South,3.5,170,74104.0
+139,Tulsa,Clear,2016-09-20 08:53:00,73.9,,-,90,,30.06,Oklahoma,77.0,3:53 AM,,3.0,10.0,South,3.5,170,74104.0
+140,Tulsa,Clear,2016-09-20 09:53:00,72.0,,-,93,,30.08,Oklahoma,73.9,4:53 AM,,4.0,3.0,Calm,Calm,0,74104.0
+141,Tulsa,Clear,2016-09-20 10:18:00,72.0,,-,93,,30.08,Oklahoma,73.9,5:18 AM,,5.0,2.5,Calm,Calm,0,74104.0
+142,Tulsa,Clear,2016-09-20 10:28:00,72.0,,-,93,,30.08,Oklahoma,73.9,5:28 AM,,6.0,6.0,Calm,Calm,0,74104.0
+143,Tulsa,Clear,2016-09-20 10:53:00,73.9,,-,90,,30.1,Oklahoma,77.0,5:53 AM,,7.0,9.0,SSE,3.5,150,74104.0
+144,Tulsa,Clear,2016-09-20 11:53:00,73.0,,-,94,,30.09,Oklahoma,75.0,6:53 AM,,8.0,4.0,Calm,Calm,0,74104.0
+145,Tulsa,Clear,2016-09-20 12:12:00,72.0,,-,93,,30.09,Oklahoma,73.9,7:12 AM,,9.0,1.8,Calm,Calm,0,74104.0
+146,Tulsa,Clear,2016-09-20 12:29:00,73.0,,-,94,,30.09,Oklahoma,75.0,7:29 AM,,10.0,4.0,Calm,Calm,0,74104.0
+147,Tulsa,Clear,2016-09-20 12:53:00,73.9,,-,90,,30.11,Oklahoma,77.0,7:53 AM,,11.0,6.0,South,3.5,170,74104.0
+148,Tulsa,Clear,2016-09-20 14:53:00,75.0,,-,74,,30.12,Oklahoma,84.0,9:53 AM,,12.0,10.0,South,6.9,180,74104.0
+149,Tulsa,Clear,2016-09-20 15:53:00,75.0,,-,67,,30.12,Oklahoma,87.1,10:53 AM,,13.0,10.0,Variable,3.5,0,74104.0
+150,Tulsa,Clear,2016-09-20 16:53:00,73.9,,-,57,,30.1,Oklahoma,91.0,11:53 AM,,14.0,10.0,SSW,8.1,200,74104.0
+151,Tulsa,Clear,2016-09-20 17:53:00,72.0,,-,49,,30.08,Oklahoma,93.9,12:53 PM,,15.0,10.0,South,8.1,190,74104.0
+152,Tulsa,Clear,2016-09-20 18:53:00,70.0,,-,44,,30.06,Oklahoma,95.0,1:53 PM,,16.0,10.0,South,6.9,190,74104.0
+153,Tulsa,Partly Cloudy,2016-09-20 19:53:00,69.1,,-,39,,30.03,Oklahoma,98.1,2:53 PM,,17.0,10.0,Variable,4.6,0,74104.0
+154,Tulsa,Clear,2016-09-20 20:53:00,66.9,,-,38,,30.02,Oklahoma,96.1,3:53 PM,,18.0,10.0,South,6.9,180,74104.0
+155,Tulsa,Clear,2016-09-20 21:53:00,66.9,,-,37,,30.01,Oklahoma,97.0,4:53 PM,,19.0,10.0,South,6.9,170,74104.0
+156,Tulsa,Clear,2016-09-20 22:53:00,68.0,,-,40,,30.01,Oklahoma,96.1,5:53 PM,,20.0,10.0,South,6.9,170,74104.0
+157,Tulsa,Partly Cloudy,2016-09-20 23:53:00,68.0,,-,44,,30.01,Oklahoma,93.0,6:53 PM,,21.0,10.0,South,5.8,170,74104.0
+158,Tulsa,Clear,2016-09-21 00:53:00,70.0,,-,52,,30.01,Oklahoma,90.0,7:53 PM,,22.0,10.0,SSE,4.6,150,74104.0
+159,Tulsa,Clear,2016-09-21 01:53:00,71.1,,-,59,,30.03,Oklahoma,87.1,8:53 PM,,23.0,10.0,SSE,5.8,150,74104.0
+160,Tulsa,Clear,2016-09-21 02:53:00,71.1,,-,61,,30.06,Oklahoma,86.0,9:53 PM,,24.0,10.0,SSE,5.8,160,74104.0
+161,Tulsa,Clear,2016-09-21 03:53:00,71.1,,-,65,,30.06,Oklahoma,84.0,10:53 PM,,25.0,10.0,South,4.6,170,74104.0
+162,Tulsa,Clear,2016-09-21 04:53:00,71.1,,-,67,,30.06,Oklahoma,82.9,11:53 PM,,26.0,10.0,South,6.9,170,74104.0
+163,Tulsa,Clear,2016-09-21 05:53:00,71.1,,-,69,,30.06,Oklahoma,82.0,12:53 AM,,0.0,10.0,South,4.6,170,74104.0
+164,Tulsa,Clear,2016-09-21 06:53:00,72.0,,-,76,,30.06,Oklahoma,80.1,1:53 AM,,1.0,10.0,Variable,3.5,0,74104.0
+165,Tulsa,Clear,2016-09-21 07:53:00,71.1,,-,87,,30.06,Oklahoma,75.0,2:53 AM,,2.0,10.0,Calm,Calm,0,74104.0
+166,Tulsa,Clear,2016-09-21 08:53:00,72.0,,-,84,,30.07,Oklahoma,77.0,3:53 AM,,3.0,10.0,Calm,Calm,0,74104.0
+167,Tulsa,Clear,2016-09-21 09:53:00,71.1,,-,93,,30.07,Oklahoma,73.0,4:53 AM,,4.0,6.0,Calm,Calm,0,74104.0
+168,Tulsa,Clear,2016-09-21 10:53:00,72.0,,-,87,,30.08,Oklahoma,75.9,5:53 AM,,5.0,9.0,South,4.6,180,74104.0
+169,Tulsa,Clear,2016-09-21 11:53:00,71.1,,-,87,,30.08,Oklahoma,75.0,6:53 AM,,6.0,8.0,SSE,3.5,160,74104.0
+170,Tulsa,Clear,2016-09-21 12:30:00,69.1,,-,93,,30.08,Oklahoma,71.1,7:30 AM,,7.0,2.5,Calm,Calm,0,74104.0
+171,Tulsa,Clear,2016-09-21 12:42:00,70.0,,-,93,,30.08,Oklahoma,72.0,7:42 AM,,8.0,3.0,Calm,Calm,0,74104.0
+172,Tulsa,Clear,2016-09-21 12:53:00,70.0,,-,90,,30.09,Oklahoma,73.0,7:53 AM,,9.0,4.0,South,3.5,170,74104.0
+173,Tulsa,Clear,2016-09-21 13:53:00,70.0,,-,79,,30.1,Oklahoma,77.0,8:53 AM,,10.0,10.0,South,6.9,170,74104.0
+174,Tulsa,Clear,2016-09-21 14:53:00,69.1,,-,67,,30.1,Oklahoma,81.0,9:53 AM,,11.0,10.0,South,10.4,190,74104.0
+175,Tulsa,Clear,2016-09-21 15:53:00,66.9,,-,55,,30.1,Oklahoma,84.9,10:53 AM,,12.0,10.0,South,11.5,180,74104.0
+176,Tulsa,Clear,2016-09-21 16:53:00,66.9,,-,51,,30.09,Oklahoma,87.1,11:53 AM,,13.0,10.0,SW,9.2,220,74104.0
+177,Tulsa,Clear,2016-09-21 17:53:00,66.0,,-,45,,30.07,Oklahoma,90.0,12:53 PM,,14.0,10.0,SSE,9.2,160,74104.0
+178,Tulsa,Clear,2016-09-21 18:53:00,64.0,,-,42,,30.06,Oklahoma,90.0,1:53 PM,,15.0,10.0,SSW,4.6,210,74104.0
+179,Tulsa,Clear,2016-09-21 19:53:00,64.0,,-,38,,30.03,Oklahoma,93.0,2:53 PM,,16.0,10.0,South,9.2,170,74104.0
+180,Tulsa,Clear,2016-09-21 20:53:00,63.0,,-,38,,30.02,Oklahoma,91.9,3:53 PM,,17.0,10.0,Variable,3.5,0,74104.0
+181,Tulsa,Clear,2016-09-21 21:53:00,62.1,,-,36,,30.01,Oklahoma,93.0,4:53 PM,,18.0,10.0,SSE,9.2,150,74104.0
+182,Tulsa,Clear,2016-09-21 22:53:00,62.1,,-,37,,30.0,Oklahoma,91.9,5:53 PM,,19.0,10.0,South,9.2,170,74104.0
+183,Tulsa,Clear,2016-09-21 23:53:00,61.0,,-,39,,30.01,Oklahoma,89.1,6:53 PM,,20.0,10.0,South,6.9,170,74104.0
+184,Tulsa,Clear,2016-09-22 00:53:00,62.1,,-,46,,30.02,Oklahoma,84.9,7:53 PM,,21.0,10.0,SSE,4.6,160,74104.0
+185,Tulsa,Clear,2016-09-22 01:53:00,64.0,,-,53,,30.02,Oklahoma,82.9,8:53 PM,,22.0,10.0,SSE,3.5,160,74104.0
+186,Tulsa,Clear,2016-09-22 02:53:00,66.0,,-,81,,30.04,Oklahoma,72.0,9:53 PM,,23.0,10.0,Calm,Calm,0,74104.0
+187,Tulsa,Clear,2016-09-22 03:53:00,66.0,,-,87,,30.02,Oklahoma,70.0,10:53 PM,,24.0,10.0,Calm,Calm,0,74104.0
+188,Tulsa,Clear,2016-09-22 04:53:00,66.0,,-,84,,30.02,Oklahoma,71.1,11:53 PM,,25.0,10.0,South,3.5,180,74104.0
+189,Tulsa,Clear,2016-09-22 05:53:00,64.9,,-,87,,30.02,Oklahoma,69.1,12:53 AM,,0.0,10.0,Calm,Calm,0,74104.0
+190,Tulsa,Clear,2016-09-22 06:53:00,64.9,,-,90,,30.02,Oklahoma,68.0,1:53 AM,,1.0,10.0,Calm,Calm,0,74104.0
+191,Tulsa,Clear,2016-09-22 07:53:00,64.9,,-,93,,30.01,Oklahoma,66.9,2:53 AM,,2.0,8.0,Calm,Calm,0,74104.0
+192,Tulsa,Clear,2016-09-22 08:53:00,66.0,,-,97,,30.02,Oklahoma,66.9,3:53 AM,,3.0,7.0,Calm,Calm,0,74104.0
+193,Tulsa,Clear,2016-09-22 09:53:00,64.0,,-,93,,30.02,Oklahoma,66.0,4:53 AM,,4.0,5.0,Calm,Calm,0,74104.0
+194,Tulsa,Clear,2016-09-22 10:53:00,64.9,,-,96,,30.02,Oklahoma,66.0,5:53 AM,,5.0,4.0,Calm,Calm,0,74104.0
+195,Tulsa,Clear,2016-09-22 11:53:00,64.0,,-,93,,30.03,Oklahoma,66.0,6:53 AM,,6.0,4.0,Calm,Calm,0,74104.0
+196,Tulsa,Clear,2016-09-22 12:09:00,64.0,,-,97,,30.02,Oklahoma,64.9,7:09 AM,,7.0,2.0,Calm,Calm,0,74104.0
+197,Tulsa,Clear,2016-09-22 12:23:00,64.0,,-,97,,30.03,Oklahoma,64.9,7:23 AM,,8.0,10.0,Calm,Calm,0,74104.0
+198,Tulsa,Clear,2016-09-22 12:53:00,64.9,,-,93,,30.04,Oklahoma,66.9,7:53 AM,,9.0,10.0,Calm,Calm,0,74104.0
+199,Tulsa,Clear,2016-09-22 13:53:00,66.0,,-,79,,30.05,Oklahoma,73.0,8:53 AM,,10.0,10.0,SW,3.5,220,74104.0
+200,Tulsa,Clear,2016-09-22 14:53:00,64.0,,-,58,,30.05,Oklahoma,80.1,9:53 AM,,11.0,10.0,South,9.2,190,74104.0
+201,Tulsa,Clear,2016-09-22 15:53:00,63.0,,-,48,,30.05,Oklahoma,84.9,10:53 AM,,12.0,10.0,South,9.2,180,74104.0
+202,Tulsa,Clear,2016-09-22 16:53:00,63.0,,-,43,,30.04,Oklahoma,88.0,11:53 AM,,13.0,10.0,South,11.5,190,74104.0
+203,Tulsa,Clear,2016-09-22 17:53:00,63.0,,-,40,,30.02,Oklahoma,90.0,12:53 PM,,14.0,10.0,SW,10.4,230,74104.0
+204,Tulsa,Clear,2016-09-22 18:53:00,61.0,,-,35,,30.0,Oklahoma,91.9,1:53 PM,,15.0,10.0,South,6.9,180,74104.0
+205,Tulsa,Clear,2016-09-22 19:53:00,61.0,,-,34,,29.98,Oklahoma,93.0,2:53 PM,,16.0,10.0,SSW,9.2,200,74104.0
+206,Tulsa,Clear,2016-09-22 20:53:00,61.0,,16.1,34,,29.96,Oklahoma,93.0,3:53 PM,,17.0,10.0,SSW,6.9,200,74104.0
+207,Tulsa,Clear,2016-09-22 21:53:00,60.1,,-,34,,29.94,Oklahoma,91.9,4:53 PM,,18.0,10.0,Variable,6.9,0,74104.0
+208,Tulsa,Clear,2016-09-22 22:53:00,55.9,,-,30,,29.94,Oklahoma,91.9,5:53 PM,,19.0,10.0,South,9.2,170,74104.0
+209,Tulsa,Clear,2016-09-22 23:53:00,57.0,,-,34,,29.94,Oklahoma,89.1,6:53 PM,,20.0,10.0,South,8.1,170,74104.0
+210,Tulsa,Clear,2016-09-23 00:53:00,61.0,,-,44,,29.95,Oklahoma,84.9,7:53 PM,,21.0,10.0,SSE,6.9,150,74104.0
+211,Tulsa,Clear,2016-09-23 01:53:00,63.0,,-,52,,29.96,Oklahoma,82.0,8:53 PM,,22.0,10.0,SSE,5.8,160,74104.0
+212,Tulsa,Clear,2016-09-23 02:53:00,64.0,,-,67,,29.97,Oklahoma,75.9,9:53 PM,,23.0,10.0,South,5.8,180,74104.0
+213,Tulsa,Clear,2016-09-23 03:53:00,64.0,,-,71,,29.98,Oklahoma,73.9,10:53 PM,,24.0,10.0,SSW,3.5,200,74104.0
+214,Tulsa,Clear,2016-09-23 04:53:00,64.0,,-,73,,29.99,Oklahoma,73.0,11:53 PM,,25.0,10.0,Calm,Calm,0,74104.0
+215,Tulsa,Clear,2016-09-23 05:53:00,64.0,,-,84,,29.99,Oklahoma,69.1,12:53 AM,,0.0,10.0,Calm,Calm,0,74104.0
+216,Tulsa,Clear,2016-09-23 06:53:00,64.0,,-,87,,29.99,Oklahoma,68.0,1:53 AM,,1.0,10.0,Calm,Calm,0,74104.0
+217,Tulsa,Clear,2016-09-23 07:53:00,64.9,,-,90,,30.0,Oklahoma,68.0,2:53 AM,,2.0,10.0,Calm,Calm,0,74104.0
+218,Tulsa,Clear,2016-09-23 08:53:00,64.0,,-,90,,29.99,Oklahoma,66.9,3:53 AM,,3.0,8.0,Calm,Calm,0,74104.0
+219,Tulsa,Clear,2016-09-23 09:53:00,63.0,,-,90,,30.01,Oklahoma,66.0,4:53 AM,,4.0,7.0,Calm,Calm,0,74104.0
+220,Tulsa,Clear,2016-09-23 10:53:00,63.0,,-,93,,30.02,Oklahoma,64.9,5:53 AM,,5.0,6.0,Calm,Calm,0,74104.0
+221,Tulsa,Clear,2016-09-23 11:53:00,63.0,,-,90,,30.03,Oklahoma,66.0,6:53 AM,,6.0,8.0,Calm,Calm,0,74104.0
+222,Tulsa,Clear,2016-09-23 12:53:00,64.9,,-,93,,30.04,Oklahoma,66.9,7:53 AM,,7.0,6.0,Calm,Calm,0,74104.0
+223,Tulsa,Clear,2016-09-23 13:53:00,66.0,,-,79,,30.04,Oklahoma,73.0,8:53 AM,,8.0,10.0,South,5.8,180,74104.0
+224,Tulsa,Clear,2016-09-23 14:53:00,64.9,,-,62,,30.05,Oklahoma,79.0,9:53 AM,,9.0,10.0,South,6.9,180,74104.0
+225,Tulsa,Clear,2016-09-23 15:53:00,66.0,,-,55,,30.05,Oklahoma,84.0,10:53 AM,,10.0,10.0,South,5.8,190,74104.0
+226,Tulsa,Clear,2016-09-23 16:53:00,68.0,,-,53,,30.03,Oklahoma,87.1,11:53 AM,,11.0,10.0,South,8.1,180,74104.0
+227,Tulsa,Scattered Clouds,2016-09-23 17:53:00,64.0,,18.4,43,,30.01,Oklahoma,89.1,12:53 PM,,12.0,10.0,South,11.5,170,74104.0
+228,Tulsa,Scattered Clouds,2016-09-23 18:53:00,64.9,,18.4,39,,29.99,Oklahoma,93.0,1:53 PM,,13.0,10.0,SSE,11.5,160,74104.0
+229,Tulsa,Scattered Clouds,2016-09-23 19:53:00,62.1,,-,38,,29.95,Oklahoma,91.0,2:53 PM,,14.0,10.0,SSE,9.2,150,74104.0
+230,Tulsa,Mostly Cloudy,2016-09-23 20:53:00,64.9,,17.3,41,,29.94,Oklahoma,91.9,3:53 PM,,15.0,10.0,South,11.5,170,74104.0
+231,Tulsa,Scattered Clouds,2016-09-23 21:53:00,66.0,,-,42,,29.93,Oklahoma,91.9,4:53 PM,,16.0,10.0,South,13.8,170,74104.0
+232,Tulsa,Scattered Clouds,2016-09-23 22:53:00,66.0,,19.6,45,,29.93,Oklahoma,90.0,5:53 PM,,17.0,10.0,SSE,10.4,160,74104.0
+233,Tulsa,Clear,2016-09-23 23:53:00,66.9,,-,48,,29.93,Oklahoma,89.1,6:53 PM,,18.0,10.0,SSE,6.9,160,74104.0
+234,Tulsa,Clear,2016-09-24 00:53:00,66.0,,-,49,,29.94,Oklahoma,87.1,7:53 PM,,19.0,10.0,SSE,6.9,160,74104.0
+235,Tulsa,Partly Cloudy,2016-09-24 01:53:00,66.0,,-,55,,29.96,Oklahoma,84.0,8:53 PM,,20.0,10.0,SSE,3.5,150,74104.0
+236,Tulsa,Clear,2016-09-24 02:53:00,68.0,,-,62,,29.96,Oklahoma,82.0,9:53 PM,,21.0,10.0,Variable,3.5,0,74104.0
+237,Tulsa,Clear,2016-09-24 03:53:00,68.0,,-,65,,29.96,Oklahoma,81.0,10:53 PM,,22.0,10.0,SSE,5.8,160,74104.0
+238,Tulsa,Clear,2016-09-24 04:53:00,69.1,,-,69,,29.97,Oklahoma,80.1,11:53 PM,,23.0,10.0,SSE,5.8,160,74104.0
+239,Tulsa,Clear,2016-09-24 05:53:00,69.1,,-,72,,29.97,Oklahoma,79.0,12:53 AM,,0.0,10.0,South,4.6,170,74104.0
+240,Tulsa,Clear,2016-09-24 06:53:00,69.1,,-,74,,29.97,Oklahoma,78.1,1:53 AM,,1.0,10.0,South,5.8,180,74104.0
+241,Tulsa,Clear,2016-09-24 07:53:00,69.1,,-,76,,29.98,Oklahoma,77.0,2:53 AM,,2.0,10.0,South,3.5,190,74104.0
+242,Tulsa,Clear,2016-09-24 08:53:00,70.0,,-,82,,29.98,Oklahoma,75.9,3:53 AM,,3.0,10.0,South,4.6,170,74104.0
+243,Tulsa,Clear,2016-09-24 09:53:00,70.0,,-,82,,29.99,Oklahoma,75.9,4:53 AM,,4.0,10.0,South,4.6,170,74104.0
+244,Tulsa,Clear,2016-09-24 10:53:00,70.0,,-,84,,30.0,Oklahoma,75.0,5:53 AM,,5.0,10.0,SSE,5.8,160,74104.0
+245,Tulsa,Clear,2016-09-24 11:53:00,69.1,,-,82,,30.01,Oklahoma,75.0,6:53 AM,,6.0,10.0,South,4.6,180,74104.0
+246,Tulsa,Clear,2016-09-24 12:53:00,70.0,,-,82,,30.03,Oklahoma,75.9,7:53 AM,,7.0,10.0,SSE,5.8,160,74104.0
+247,Tulsa,Clear,2016-09-24 13:53:00,70.0,,-,76,,30.03,Oklahoma,78.1,8:53 AM,,8.0,10.0,South,6.9,170,74104.0
+248,Tulsa,Partly Cloudy,2016-09-24 14:53:00,71.1,,-,67,,30.03,Oklahoma,82.9,9:53 AM,,9.0,10.0,South,9.2,180,74104.0
+249,Tulsa,Partly Cloudy,2016-09-24 15:53:00,70.0,,-,59,,30.03,Oklahoma,86.0,10:53 AM,,10.0,10.0,SSW,12.7,200,74104.0
+250,Tulsa,Partly Cloudy,2016-09-24 16:53:00,69.1,,20.7,52,,30.02,Oklahoma,89.1,11:53 AM,,11.0,10.0,South,15.0,170,74104.0
+251,Tulsa,Scattered Clouds,2016-09-24 17:53:00,68.0,,21.9,48,,30.01,Oklahoma,90.0,12:53 PM,,12.0,10.0,South,16.1,190,74104.0
+252,Tulsa,Mostly Cloudy,2016-09-24 18:53:00,68.0,,21.9,45,,29.98,Oklahoma,91.9,1:53 PM,,13.0,10.0,South,12.7,170,74104.0
+253,Tulsa,Mostly Cloudy,2016-09-24 19:53:00,66.9,,23.0,44,,29.95,Oklahoma,91.9,2:53 PM,,14.0,10.0,South,13.8,180,74104.0
+254,Tulsa,Scattered Clouds,2016-09-24 20:53:00,66.0,,24.2,42,,29.92,Oklahoma,91.9,3:53 PM,,15.0,10.0,South,18.4,170,74104.0
+255,Tulsa,Clear,2016-09-24 21:53:00,66.0,,24.2,44,,29.9,Oklahoma,91.0,4:53 PM,,16.0,10.0,South,17.3,170,74104.0
+256,Tulsa,Clear,2016-09-24 22:53:00,64.9,,23.0,42,,29.89,Oklahoma,91.0,5:53 PM,,17.0,10.0,South,11.5,170,74104.0
+257,Tulsa,Clear,2016-09-24 23:53:00,64.9,,18.4,45,,29.92,Oklahoma,89.1,6:53 PM,,18.0,10.0,SSE,9.2,160,74104.0
+258,Tulsa,Clear,2016-09-25 00:53:00,66.9,,-,53,,29.95,Oklahoma,86.0,7:53 PM,,19.0,10.0,South,5.8,170,74104.0
+259,Tulsa,Partly Cloudy,2016-09-25 01:53:00,66.9,,-,56,,29.98,Oklahoma,84.0,8:53 PM,,20.0,10.0,South,5.8,170,74104.0
+260,Tulsa,Scattered Clouds,2016-09-25 02:53:00,66.0,,-,55,,29.98,Oklahoma,84.0,9:53 PM,,21.0,10.0,SSE,4.6,160,74104.0
+261,Tulsa,Overcast,2016-09-25 03:53:00,66.0,,-,69,,30.01,Oklahoma,77.0,10:53 PM,,22.0,10.0,NNW,9.2,340,74104.0
+262,Tulsa,Overcast,2016-09-25 04:53:00,66.0,,-,76,,30.02,Oklahoma,73.9,11:53 PM,,23.0,10.0,North,5.8,10,74104.0
+263,Tulsa,Clear,2016-09-25 05:53:00,66.0,,-,79,,30.01,Oklahoma,73.0,12:53 AM,,0.0,10.0,NNE,5.8,30,74104.0
+264,Tulsa,Clear,2016-09-25 06:53:00,64.9,,-,76,,30.01,Oklahoma,73.0,1:53 AM,,1.0,10.0,NE,6.9,50,74104.0
+265,Tulsa,Scattered Clouds,2016-09-25 07:53:00,64.9,,-,76,,30.01,Oklahoma,73.0,2:53 AM,,2.0,10.0,ENE,4.6,60,74104.0
+266,Tulsa,Mostly Cloudy,2016-09-25 08:53:00,64.9,,-,76,,30.01,Oklahoma,73.0,3:53 AM,,3.0,10.0,Calm,Calm,0,74104.0
+267,Tulsa,Partly Cloudy,2016-09-25 09:53:00,66.0,,-,87,,30.02,Oklahoma,70.0,4:53 AM,,4.0,10.0,Calm,Calm,0,74104.0
+268,Tulsa,Clear,2016-09-25 10:53:00,66.0,,-,87,,30.04,Oklahoma,70.0,5:53 AM,,5.0,10.0,WSW,3.5,250,74104.0
+269,Tulsa,Light Rain,2016-09-25 11:53:00,66.9,Rain,-,87,0.0,30.06,Oklahoma,71.1,6:53 AM,,6.0,10.0,Calm,Calm,0,74104.0
+270,Tulsa,Light Rain,2016-09-25 12:53:00,66.9,Rain,-,87,0.0,30.07,Oklahoma,71.1,7:53 AM,,7.0,10.0,North,3.5,350,74104.0
+271,Tulsa,Partly Cloudy,2016-09-25 13:53:00,66.9,,-,81,0.0,30.07,Oklahoma,73.0,8:53 AM,,8.0,10.0,NNE,4.6,20,74104.0
+272,Tulsa,Mostly Cloudy,2016-09-25 14:53:00,66.9,,-,76,,30.08,Oklahoma,75.0,9:53 AM,,9.0,10.0,Calm,Calm,0,74104.0
+273,Tulsa,Overcast,2016-09-25 15:53:00,66.9,,-,74,,30.11,Oklahoma,75.9,10:53 AM,,10.0,10.0,North,4.6,350,74104.0
+274,Tulsa,Overcast,2016-09-25 16:53:00,66.9,,-,74,,30.12,Oklahoma,75.9,11:53 AM,,11.0,10.0,NNE,3.5,20,74104.0
+275,Tulsa,Overcast,2016-09-25 17:53:00,68.0,,-,76,0.0,30.11,Oklahoma,75.9,12:53 PM,,12.0,10.0,NNE,8.1,20,74104.0
+276,Tulsa,Overcast,2016-09-25 18:11:00,68.0,,-,82,,30.1,Oklahoma,73.9,1:11 PM,,13.0,10.0,NW,5.8,320,74104.0
+277,Tulsa,Light Rain,2016-09-25 18:23:00,69.1,Rain,-,87,0.0,30.1,Oklahoma,73.0,1:23 PM,,14.0,7.0,NNW,5.8,340,74104.0
+278,Tulsa,Overcast,2016-09-25 18:53:00,69.1,,-,91,0.0,30.11,Oklahoma,72.0,1:53 PM,,15.0,10.0,North,3.5,360,74104.0
+279,Tulsa,Rain,2016-09-25 19:15:00,69.1,Rain,-,91,0.04,30.09,Oklahoma,72.0,2:15 PM,,16.0,2.5,North,8.1,360,74104.0
+280,Tulsa,Rain,2016-09-25 19:25:00,69.1,Rain,-,91,0.06,30.09,Oklahoma,72.0,2:25 PM,,17.0,3.0,North,5.8,350,74104.0
+281,Tulsa,Heavy Rain,2016-09-25 19:31:00,69.1,Rain,-,91,0.1,30.09,Oklahoma,72.0,2:31 PM,,18.0,1.8,North,3.5,10,74104.0
+282,Tulsa,Heavy Rain,2016-09-25 19:53:00,68.0,Rain,19.6,90,0.21,30.11,Oklahoma,71.1,2:53 PM,,19.0,1.5,North,9.2,350,74104.0
+283,Tulsa,Heavy Rain,2016-09-25 20:02:00,66.0,Rain,-,93,0.04,30.09,Oklahoma,68.0,3:02 PM,,20.0,1.5,North,10.4,360,74104.0
+284,Tulsa,Rain,2016-09-25 20:10:00,64.9,Rain,20.7,90,0.06,30.09,Oklahoma,68.0,3:10 PM,,21.0,2.0,North,8.1,350,74104.0
+285,Tulsa,Rain,2016-09-25 20:20:00,64.9,Rain,-,90,0.08,30.1,Oklahoma,68.0,3:20 PM,,22.0,4.0,North,9.2,360,74104.0
+286,Tulsa,Light Rain,2016-09-25 20:37:00,64.0,Rain,20.7,90,0.09,30.1,Oklahoma,66.9,3:37 PM,,23.0,4.0,North,10.4,10,74104.0
+287,Tulsa,Rain,2016-09-25 20:45:00,64.0,Rain,21.9,90,0.11,30.1,Oklahoma,66.9,3:45 PM,,24.0,4.0,North,12.7,10,74104.0
+288,Tulsa,Light Rain,2016-09-25 20:53:00,64.0,Rain,21.9,90,0.12,30.12,Oklahoma,66.9,3:53 PM,,25.0,5.0,North,8.1,10,74104.0
+289,Tulsa,Rain,2016-09-25 21:21:00,64.0,Rain,-,90,0.04,30.11,Oklahoma,66.9,4:21 PM,,26.0,3.0,North,8.1,10,74104.0
+290,Tulsa,Rain,2016-09-25 21:37:00,64.9,Rain,-,93,0.07,30.11,Oklahoma,66.9,4:37 PM,,27.0,3.0,NNE,6.9,20,74104.0
+291,Tulsa,Heavy Rain,2016-09-25 21:44:00,64.9,Rain,-,93,0.1,30.11,Oklahoma,66.9,4:44 PM,,28.0,1.8,NNE,6.9,20,74104.0
+292,Tulsa,Rain,2016-09-25 21:53:00,64.0,Rain,-,90,0.12,30.12,Oklahoma,66.9,4:53 PM,,29.0,2.5,NNE,11.5,20,74104.0
+293,Tulsa,Heavy Rain,2016-09-25 22:06:00,64.0,Rain,-,93,0.04,30.11,Oklahoma,66.0,5:06 PM,,30.0,1.8,North,6.9,360,74104.0
+294,Tulsa,Rain,2016-09-25 22:12:00,64.0,Rain,-,93,0.05,30.11,Oklahoma,66.0,5:12 PM,,31.0,3.0,North,6.9,360,74104.0
+295,Tulsa,Light Rain,2016-09-25 22:35:00,64.0,Rain,-,93,0.08,30.13,Oklahoma,66.0,5:35 PM,,32.0,6.0,North,8.1,360,74104.0
+296,Tulsa,Light Rain,2016-09-25 22:45:00,64.0,Rain,-,93,0.09,30.13,Oklahoma,66.0,5:45 PM,,33.0,9.0,North,5.8,360,74104.0
+297,Tulsa,Light Rain,2016-09-25 22:53:00,64.0,Rain,-,93,0.09,30.15,Oklahoma,66.0,5:53 PM,,34.0,10.0,North,8.1,350,74104.0
+298,Tulsa,Light Rain,2016-09-25 23:53:00,61.0,Rain,-,93,0.01,30.17,Oklahoma,63.0,6:53 PM,,35.0,10.0,North,6.9,360,74104.0
+299,Tulsa,Light Rain,2016-09-26 00:11:00,60.1,Rain,-,90,0.0,30.15,Oklahoma,63.0,7:11 PM,,36.0,10.0,Variable,6.9,0,74104.0
+300,Tulsa,Overcast,2016-09-26 00:53:00,57.0,,-,81,0.0,30.18,Oklahoma,63.0,7:53 PM,,37.0,10.0,North,10.4,360,74104.0
+301,Tulsa,Overcast,2016-09-26 01:53:00,57.9,,-,84,,30.19,Oklahoma,63.0,8:53 PM,,38.0,10.0,North,4.6,10,74104.0
+302,Tulsa,Mostly Cloudy,2016-09-26 02:53:00,57.9,,-,84,,30.21,Oklahoma,63.0,9:53 PM,,39.0,10.0,North,8.1,10,74104.0
+303,Tulsa,Mostly Cloudy,2016-09-26 03:34:00,57.0,,-,75,,30.2,Oklahoma,64.9,10:34 PM,,40.0,10.0,North,5.8,360,74104.0
+304,Tulsa,Overcast,2016-09-26 03:42:00,57.0,,-,75,,30.2,Oklahoma,64.9,10:42 PM,,41.0,10.0,North,6.9,350,74104.0
+305,Tulsa,Overcast,2016-09-26 03:53:00,57.0,,-,78,,30.21,Oklahoma,64.0,10:53 PM,,42.0,10.0,North,6.9,10,74104.0
+306,Tulsa,Mostly Cloudy,2016-09-26 04:53:00,57.9,,-,80,,30.22,Oklahoma,64.0,11:53 PM,,43.0,10.0,North,8.1,10,74104.0
+307,Tulsa,Scattered Clouds,2016-09-26 05:53:00,57.9,,-,80,,30.22,Oklahoma,64.0,12:53 AM,,0.0,10.0,North,5.8,10,74104.0
+308,Tulsa,Scattered Clouds,2016-09-26 06:53:00,57.9,,-,80,,30.22,Oklahoma,64.0,1:53 AM,,1.0,10.0,North,5.8,10,74104.0
+309,Tulsa,Clear,2016-09-26 07:53:00,57.9,,-,80,,30.23,Oklahoma,64.0,2:53 AM,,2.0,10.0,NNE,4.6,20,74104.0
+310,Tulsa,Clear,2016-09-26 08:53:00,57.0,,-,81,,30.23,Oklahoma,63.0,3:53 AM,,3.0,10.0,Calm,Calm,0,74104.0
+311,Tulsa,Clear,2016-09-26 09:53:00,57.0,,-,87,,30.23,Oklahoma,61.0,4:53 AM,,4.0,10.0,Calm,Calm,0,74104.0
+312,Tulsa,Clear,2016-09-26 10:53:00,57.0,,-,97,,30.25,Oklahoma,57.9,5:53 AM,,5.0,10.0,Calm,Calm,0,74104.0
+313,Tulsa,Clear,2016-09-26 11:53:00,57.0,,-,90,,30.26,Oklahoma,60.1,6:53 AM,,6.0,10.0,North,3.5,360,74104.0
+314,Tulsa,Clear,2016-09-26 12:53:00,55.9,,-,86,,30.27,Oklahoma,60.1,7:53 AM,,7.0,10.0,North,5.8,360,74104.0
+315,Tulsa,Clear,2016-09-26 13:53:00,55.0,,-,78,,30.28,Oklahoma,62.1,8:53 AM,,8.0,10.0,North,11.5,10,74104.0
+316,Tulsa,Unknown,2016-09-26 14:53:00,55.0,,-,68,,30.3,Oklahoma,66.0,9:53 AM,,9.0,10.0,NNE,10.4,20,74104.0
+317,Tulsa,Clear,2016-09-26 15:53:00,51.1,,-,51,,30.3,Oklahoma,70.0,10:53 AM,,10.0,10.0,NNE,10.4,20,74104.0
+318,Tulsa,Clear,2016-09-26 16:53:00,46.9,,-,39,,30.28,Oklahoma,73.0,11:53 AM,,11.0,10.0,North,9.2,10,74104.0
+319,Tulsa,Clear,2016-09-26 17:53:00,41.0,,20.7,29,,30.27,Oklahoma,75.0,12:53 PM,,12.0,10.0,North,9.2,360,74104.0
+320,Tulsa,Clear,2016-09-26 18:53:00,39.0,,17.3,26,,30.25,Oklahoma,75.9,1:53 PM,,13.0,10.0,North,12.7,360,74104.0
+321,Tulsa,Clear,2016-09-26 19:53:00,39.0,,18.4,26,,30.22,Oklahoma,75.9,2:53 PM,,14.0,10.0,NE,11.5,40,74104.0
+322,Tulsa,Clear,2016-09-26 20:53:00,37.9,,-,24,,30.2,Oklahoma,77.0,3:53 PM,,15.0,10.0,NNE,11.5,30,74104.0
+323,Tulsa,Clear,2016-09-26 21:53:00,39.0,,-,26,,30.19,Oklahoma,75.9,4:53 PM,,16.0,10.0,North,8.1,360,74104.0
+324,Tulsa,Clear,2016-09-26 22:53:00,37.9,,-,26,,30.18,Oklahoma,75.0,5:53 PM,,17.0,10.0,North,4.6,10,74104.0
+325,Tulsa,Clear,2016-09-26 23:53:00,44.1,,-,45,,30.17,Oklahoma,66.0,6:53 PM,,18.0,10.0,North,3.5,360,74104.0
+326,Tulsa,Clear,2016-09-27 00:53:00,48.9,,-,67,,30.19,Oklahoma,60.1,7:53 PM,,19.0,10.0,Calm,Calm,0,74104.0
+327,Tulsa,Clear,2016-09-27 01:53:00,48.9,,-,74,,30.2,Oklahoma,57.0,8:53 PM,,20.0,10.0,Calm,Calm,0,74104.0
+328,Tulsa,Clear,2016-09-27 02:53:00,48.9,,-,77,,30.2,Oklahoma,55.9,9:53 PM,,21.0,10.0,Calm,Calm,0,74104.0
+329,Tulsa,Clear,2016-09-27 03:53:00,48.9,,-,80,,30.2,Oklahoma,55.0,10:53 PM,,22.0,10.0,Calm,Calm,0,74104.0
+330,Tulsa,Clear,2016-09-27 04:53:00,50.0,,-,86,,30.21,Oklahoma,54.0,11:53 PM,,23.0,10.0,Calm,Calm,0,74104.0
+331,Tulsa,Clear,2016-09-27 05:53:00,48.9,,-,86,,30.19,Oklahoma,53.1,12:53 AM,,0.0,10.0,Calm,Calm,0,74104.0
+332,Tulsa,Clear,2016-09-27 06:22:00,48.9,,-,89,,30.16,Oklahoma,52.0,1:22 AM,,1.0,1.8,Calm,Calm,0,74104.0
+333,Tulsa,Clear,2016-09-27 06:27:00,48.9,,-,89,,30.16,Oklahoma,52.0,1:27 AM,,2.0,3.0,Calm,Calm,0,74104.0
+334,Tulsa,Clear,2016-09-27 06:53:00,48.9,,-,89,,30.18,Oklahoma,52.0,1:53 AM,,3.0,4.0,Calm,Calm,0,74104.0
+335,Tulsa,Clear,2016-09-27 07:02:00,48.9,,-,89,,30.15,Oklahoma,52.0,2:02 AM,,4.0,2.0,Calm,Calm,0,74104.0
+336,Tulsa,Clear,2016-09-27 07:24:00,48.0,,-,89,,30.15,Oklahoma,51.1,2:24 AM,,5.0,3.0,Calm,Calm,0,74104.0
+337,Tulsa,Clear,2016-09-27 07:38:00,48.9,,-,92,,30.15,Oklahoma,51.1,2:38 AM,,6.0,2.0,Calm,Calm,0,74104.0
+338,Tulsa,Clear,2016-09-27 07:53:00,48.9,,-,92,,30.17,Oklahoma,51.1,2:53 AM,,7.0,1.2,Calm,Calm,0,74104.0
+339,Tulsa,Clear,2016-09-27 08:01:00,48.0,,-,89,,30.15,Oklahoma,51.1,3:01 AM,,8.0,3.0,Calm,Calm,0,74104.0
+340,Tulsa,Clear,2016-09-27 08:17:00,48.9,,-,92,,30.15,Oklahoma,51.1,3:17 AM,,9.0,1.8,Calm,Calm,0,74104.0
+341,Tulsa,Clear,2016-09-27 08:30:00,48.0,,-,89,,30.14,Oklahoma,51.1,3:30 AM,,10.0,3.0,Calm,Calm,0,74104.0
+342,Tulsa,Clear,2016-09-27 08:37:00,48.0,,-,89,,30.14,Oklahoma,51.1,3:37 AM,,11.0,1.8,Calm,Calm,0,74104.0
+343,Tulsa,Clear,2016-09-27 08:53:00,48.0,,-,93,,30.16,Oklahoma,50.0,3:53 AM,,12.0,1.5,Calm,Calm,0,74104.0
+344,Tulsa,Clear,2016-09-27 09:45:00,48.0,,-,93,,30.13,Oklahoma,50.0,4:45 AM,,13.0,3.0,Calm,Calm,0,74104.0
+345,Tulsa,Clear,2016-09-27 09:50:00,48.2,,-,94,,30.13,Oklahoma,50.0,4:50 AM,,14.0,1.8,Calm,Calm,0,74104.0
+346,Tulsa,Clear,2016-09-27 09:53:00,48.0,,-,93,,30.15,Oklahoma,50.0,4:53 AM,,15.0,1.8,Calm,Calm,0,74104.0
+347,Tulsa,Clear,2016-09-27 09:59:00,48.0,,-,93,,30.13,Oklahoma,50.0,4:59 AM,,16.0,3.0,SW,3.5,220,74104.0
+348,Tulsa,Clear,2016-09-27 10:04:00,48.0,,-,93,,30.13,Oklahoma,50.0,5:04 AM,,17.0,1.8,Calm,Calm,0,74104.0
+349,Tulsa,Clear,2016-09-27 10:14:00,46.9,,-,93,,30.13,Oklahoma,48.9,5:14 AM,,18.0,3.0,Calm,Calm,0,74104.0
+350,Tulsa,Clear,2016-09-27 10:53:00,46.9,,-,93,,30.16,Oklahoma,48.9,5:53 AM,,19.0,8.0,Calm,Calm,0,74104.0
+351,Tulsa,Clear,2016-09-27 11:53:00,46.0,,-,90,,30.17,Oklahoma,48.9,6:53 AM,,20.0,8.0,Calm,Calm,0,74104.0
+352,Tulsa,Clear,2016-09-27 12:53:00,48.0,,-,89,,30.17,Oklahoma,51.1,7:53 AM,,21.0,10.0,Calm,Calm,0,74104.0
+353,Tulsa,Clear,2016-09-27 13:53:00,50.0,,-,75,,30.17,Oklahoma,57.9,8:53 AM,,22.0,10.0,Calm,Calm,0,74104.0
+354,Tulsa,Clear,2016-09-27 14:53:00,48.9,,-,56,,30.17,Oklahoma,64.9,9:53 AM,,23.0,10.0,SW,4.6,230,74104.0
+355,Tulsa,Clear,2016-09-27 15:53:00,46.0,,-,40,,30.15,Oklahoma,72.0,10:53 AM,,24.0,10.0,SW,5.8,220,74104.0
+356,Tulsa,Clear,2016-09-27 16:53:00,44.1,,-,33,,30.12,Oklahoma,75.0,11:53 AM,,25.0,10.0,SW,4.6,220,74104.0
+357,Tulsa,Clear,2016-09-27 17:53:00,46.0,,-,32,,30.09,Oklahoma,78.1,12:53 PM,,26.0,10.0,Variable,5.8,0,74104.0
+358,Tulsa,Clear,2016-09-27 18:53:00,45.0,,-,29,,30.06,Oklahoma,80.1,1:53 PM,,27.0,10.0,Variable,4.6,0,74104.0
+359,Tulsa,Clear,2016-09-27 19:53:00,46.0,,-,28,,30.02,Oklahoma,82.0,2:53 PM,,28.0,9.0,Variable,4.6,0,74104.0
+360,Tulsa,Clear,2016-09-27 20:53:00,45.0,,-,26,,30.01,Oklahoma,82.9,3:53 PM,,29.0,10.0,Variable,4.6,0,74104.0
+361,Tulsa,Clear,2016-09-27 21:53:00,46.0,,-,27,,29.98,Oklahoma,82.9,4:53 PM,,30.0,10.0,South,8.1,190,74104.0
+362,Tulsa,Clear,2016-09-27 22:53:00,48.0,,-,31,,29.98,Oklahoma,81.0,5:53 PM,,31.0,10.0,SW,5.8,220,74104.0
+363,Tulsa,Clear,2016-09-27 23:53:00,50.0,,-,43,,29.98,Oklahoma,73.9,6:53 PM,,32.0,10.0,SW,4.6,220,74104.0
+364,Tulsa,Clear,2016-09-28 00:53:00,51.1,,-,53,,29.99,Oklahoma,69.1,7:53 PM,,33.0,10.0,SW,3.5,220,74104.0
+365,Tulsa,Clear,2016-09-28 01:53:00,52.0,,-,65,,29.99,Oklahoma,64.0,8:53 PM,,34.0,10.0,Calm,Calm,0,74104.0
+366,Tulsa,Clear,2016-09-28 02:53:00,53.1,,-,72,,30.0,Oklahoma,62.1,9:53 PM,,35.0,10.0,Calm,Calm,0,74104.0
+367,Tulsa,Clear,2016-09-28 03:53:00,53.1,,-,75,,29.99,Oklahoma,61.0,10:53 PM,,36.0,10.0,Calm,Calm,0,74104.0
+368,Tulsa,Clear,2016-09-28 04:53:00,53.1,,-,81,,29.99,Oklahoma,59.0,11:53 PM,,37.0,10.0,WSW,3.5,240,74104.0
+369,Tulsa,Clear,2016-09-28 05:53:00,52.0,,-,81,,29.99,Oklahoma,57.9,12:53 AM,,0.0,10.0,Calm,Calm,0,74104.0
+370,Tulsa,Clear,2016-09-28 06:53:00,52.0,,-,83,,29.98,Oklahoma,57.0,1:53 AM,,1.0,10.0,Calm,Calm,0,74104.0
+371,Tulsa,Clear,2016-09-28 07:53:00,52.0,,-,83,,29.97,Oklahoma,57.0,2:53 AM,,2.0,10.0,Calm,Calm,0,74104.0
+372,Tulsa,Clear,2016-09-28 08:53:00,51.1,,-,84,,29.97,Oklahoma,55.9,3:53 AM,,3.0,10.0,Calm,Calm,0,74104.0
+373,Tulsa,Clear,2016-09-28 09:53:00,51.1,,-,86,,29.96,Oklahoma,55.0,4:53 AM,,4.0,10.0,Calm,Calm,0,74104.0
+374,Tulsa,Clear,2016-09-28 10:53:00,51.1,,-,90,,29.97,Oklahoma,54.0,5:53 AM,,5.0,10.0,Calm,Calm,0,74104.0
+375,Tulsa,Clear,2016-09-28 11:53:00,50.0,,-,83,,29.97,Oklahoma,55.0,6:53 AM,,6.0,10.0,SSW,3.5,200,74104.0
+376,Tulsa,Clear,2016-09-28 12:53:00,52.0,,-,83,,29.98,Oklahoma,57.0,7:53 AM,,7.0,10.0,Calm,Calm,0,74104.0
+377,Tulsa,Clear,2016-09-28 13:53:00,52.0,,-,63,,29.99,Oklahoma,64.9,8:53 AM,,8.0,10.0,Calm,Calm,0,74104.0
+378,Tulsa,Clear,2016-09-28 14:53:00,52.0,,-,48,,30.01,Oklahoma,73.0,9:53 AM,,9.0,10.0,Calm,Calm,0,74104.0
+379,Tulsa,Clear,2016-09-28 15:53:00,54.0,,-,42,,30.02,Oklahoma,79.0,10:53 AM,,10.0,10.0,NNE,8.1,20,74104.0
+380,Tulsa,Clear,2016-09-28 16:53:00,54.0,,17.3,39,,30.03,Oklahoma,81.0,11:53 AM,,11.0,10.0,North,9.2,360,74104.0
+381,Tulsa,Clear,2016-09-28 17:53:00,51.1,,21.9,32,,30.04,Oklahoma,84.0,12:53 PM,,12.0,10.0,NNE,13.8,30,74104.0
+382,Tulsa,Clear,2016-09-28 18:53:00,52.0,,-,33,,30.05,Oklahoma,84.0,1:53 PM,,13.0,10.0,North,13.8,10,74104.0
+383,Tulsa,Clear,2016-09-28 19:53:00,48.9,,19.6,29,,30.05,Oklahoma,84.0,2:53 PM,,14.0,10.0,North,13.8,360,74104.0
+384,Tulsa,Clear,2016-09-28 20:53:00,46.9,,-,28,,30.05,Oklahoma,82.9,3:53 PM,,15.0,10.0,North,11.5,10,74104.0
+385,Tulsa,Clear,2016-09-28 21:53:00,45.0,,20.7,26,,30.06,Oklahoma,82.9,4:53 PM,,16.0,10.0,North,12.7,10,74104.0
+386,Tulsa,Clear,2016-09-28 22:53:00,37.9,,19.6,22,,30.08,Oklahoma,80.1,5:53 PM,,17.0,10.0,North,10.4,10,74104.0
+387,Tulsa,Clear,2016-09-28 23:53:00,45.0,,-,35,,30.11,Oklahoma,73.9,6:53 PM,,18.0,10.0,North,10.4,10,74104.0
+388,Tulsa,Clear,2016-09-29 00:53:00,46.9,,-,42,,30.13,Oklahoma,71.1,7:53 PM,,19.0,10.0,NNE,9.2,20,74104.0
+389,Tulsa,Clear,2016-09-29 01:53:00,46.9,,-,45,,30.17,Oklahoma,69.1,8:53 PM,,20.0,10.0,NNE,9.2,20,74104.0
+390,Tulsa,Clear,2016-09-29 02:53:00,46.9,,19.6,50,,30.19,Oklahoma,66.0,9:53 PM,,21.0,10.0,NNE,9.2,20,74104.0
+391,Tulsa,Clear,2016-09-29 03:53:00,48.0,,-,56,,30.22,Oklahoma,64.0,10:53 PM,,22.0,10.0,North,9.2,10,74104.0
+392,Tulsa,Clear,2016-09-29 04:53:00,48.0,,-,62,,30.24,Oklahoma,61.0,11:53 PM,,23.0,10.0,NNE,5.8,20,74104.0
+393,Tulsa,Clear,2016-09-29 05:53:00,48.9,,-,67,,30.25,Oklahoma,60.1,12:53 AM,,0.0,10.0,North,5.8,10,74104.0
+394,Tulsa,Clear,2016-09-29 06:53:00,48.9,,-,69,,30.25,Oklahoma,59.0,1:53 AM,,1.0,10.0,North,5.8,360,74104.0
+395,Tulsa,Clear,2016-09-29 07:53:00,48.9,,-,74,,30.27,Oklahoma,57.0,2:53 AM,,2.0,10.0,North,5.8,10,74104.0
+396,Tulsa,Clear,2016-09-29 08:53:00,48.9,,-,77,,30.27,Oklahoma,55.9,3:53 AM,,3.0,10.0,North,5.8,10,74104.0
+397,Tulsa,Clear,2016-09-29 09:53:00,48.9,,-,83,,30.29,Oklahoma,54.0,4:53 AM,,4.0,10.0,North,5.8,10,74104.0
+398,Tulsa,Clear,2016-09-29 10:53:00,48.0,,-,80,,30.31,Oklahoma,54.0,5:53 AM,,5.0,10.0,North,5.8,10,74104.0
+399,Tulsa,Clear,2016-09-29 11:53:00,48.0,,-,83,,30.34,Oklahoma,53.1,6:53 AM,,6.0,10.0,North,5.8,360,74104.0
+400,Tulsa,Clear,2016-09-29 12:53:00,48.0,,-,80,,30.35,Oklahoma,54.0,7:53 AM,,7.0,10.0,North,5.8,360,74104.0
+401,Tulsa,Clear,2016-09-29 13:53:00,48.9,,-,74,,30.37,Oklahoma,57.0,8:53 AM,,8.0,10.0,NNE,8.1,20,74104.0
+402,Tulsa,Clear,2016-09-29 14:53:00,50.0,,-,67,,30.39,Oklahoma,61.0,9:53 AM,,9.0,10.0,North,8.1,360,74104.0
+403,Tulsa,Clear,2016-09-29 15:53:00,50.0,,-,60,,30.4,Oklahoma,64.0,10:53 AM,,10.0,10.0,North,9.2,10,74104.0
+404,Tulsa,Clear,2016-09-29 16:53:00,48.9,,17.3,49,,30.38,Oklahoma,69.1,11:53 AM,,11.0,10.0,NNE,11.5,20,74104.0
+405,Tulsa,Clear,2016-09-29 17:53:00,48.9,,-,45,,30.37,Oklahoma,71.1,12:53 PM,,12.0,10.0,North,9.2,360,74104.0
+406,Tulsa,Clear,2016-09-29 18:53:00,48.0,,-,43,,30.34,Oklahoma,72.0,1:53 PM,,13.0,10.0,North,8.1,10,74104.0
+407,Tulsa,Clear,2016-09-29 19:53:00,46.9,,-,38,,30.31,Oklahoma,73.9,2:53 PM,,14.0,10.0,NNE,10.4,20,74104.0
+408,Tulsa,Clear,2016-09-29 20:53:00,46.9,,-,38,,30.29,Oklahoma,73.9,3:53 PM,,15.0,10.0,North,10.4,10,74104.0
+409,Tulsa,Clear,2016-09-29 21:53:00,46.9,,-,38,,30.28,Oklahoma,73.9,4:53 PM,,16.0,10.0,North,9.2,10,74104.0
+410,Tulsa,Clear,2016-09-29 22:53:00,46.9,,-,38,,30.27,Oklahoma,73.9,5:53 PM,,17.0,10.0,North,4.6,350,74104.0
+411,Tulsa,Clear,2016-09-29 23:53:00,48.0,,-,47,,30.28,Oklahoma,69.1,6:53 PM,,18.0,10.0,NNE,8.1,20,74104.0
+412,Tulsa,Clear,2016-09-30 00:53:00,48.9,,-,60,,30.27,Oklahoma,63.0,7:53 PM,,19.0,10.0,North,3.5,350,74104.0
+413,Tulsa,Clear,2016-09-30 01:53:00,51.1,,-,72,,30.29,Oklahoma,60.1,8:53 PM,,20.0,10.0,Calm,Calm,0,74104.0
+414,Tulsa,Clear,2016-09-30 02:53:00,51.1,,-,81,,30.3,Oklahoma,57.0,9:53 PM,,21.0,10.0,Calm,Calm,0,74104.0
+415,Tulsa,Clear,2016-09-30 03:53:00,50.0,,-,77,,30.3,Oklahoma,57.0,10:53 PM,,22.0,10.0,Calm,Calm,0,74104.0
+416,Tulsa,Clear,2016-09-30 04:53:00,50.0,,-,77,,30.3,Oklahoma,57.0,11:53 PM,,23.0,10.0,North,3.5,10,74104.0
+417,Tulsa,Clear,2016-09-30 05:53:00,48.9,,-,77,,30.28,Oklahoma,55.9,12:53 AM,,0.0,10.0,NNE,4.6,20,74104.0
+418,Tulsa,Clear,2016-09-30 06:53:00,48.9,,-,86,,30.27,Oklahoma,53.1,1:53 AM,,1.0,10.0,Calm,Calm,0,74104.0
+419,Tulsa,Clear,2016-09-30 07:53:00,48.0,,-,86,,30.27,Oklahoma,52.0,2:53 AM,,2.0,10.0,Calm,Calm,0,74104.0
+420,Tulsa,Clear,2016-09-30 08:53:00,48.0,,-,89,,30.25,Oklahoma,51.1,3:53 AM,,3.0,10.0,Calm,Calm,0,74104.0
+421,Tulsa,Clear,2016-09-30 09:53:00,46.9,,-,89,,30.25,Oklahoma,50.0,4:53 AM,,4.0,10.0,Calm,Calm,0,74104.0
+422,Tulsa,Clear,2016-09-30 10:53:00,46.9,,-,89,,30.25,Oklahoma,50.0,5:53 AM,,5.0,10.0,Calm,Calm,0,74104.0
+423,Tulsa,Clear,2016-09-30 11:53:00,46.9,,-,93,,30.27,Oklahoma,48.9,6:53 AM,,6.0,10.0,Calm,Calm,0,74104.0
+424,Tulsa,Clear,2016-09-30 12:53:00,48.9,,-,92,,30.28,Oklahoma,51.1,7:53 AM,,7.0,10.0,NW,3.5,310,74104.0
+425,Tulsa,Clear,2016-09-30 13:53:00,52.0,,-,75,,30.27,Oklahoma,60.1,8:53 AM,,8.0,10.0,Calm,Calm,0,74104.0
+426,Tulsa,Clear,2016-09-30 14:53:00,51.1,,-,61,,30.27,Oklahoma,64.9,9:53 AM,,9.0,10.0,NE,5.8,40,74104.0
+427,Tulsa,Clear,2016-09-30 15:53:00,50.0,,-,49,,30.26,Oklahoma,70.0,10:53 AM,,10.0,10.0,North,3.5,10,74104.0
+428,Tulsa,Clear,2016-09-30 16:53:00,48.9,,-,42,,30.24,Oklahoma,73.0,11:53 AM,,11.0,10.0,ENE,6.9,60,74104.0
+429,Tulsa,Clear,2016-09-30 17:53:00,48.0,,-,38,,30.22,Oklahoma,75.0,12:53 PM,,12.0,10.0,NNE,8.1,20,74104.0
+430,Tulsa,Clear,2016-09-30 18:53:00,48.0,,-,36,,30.19,Oklahoma,77.0,1:53 PM,,13.0,10.0,Variable,5.8,0,74104.0
+431,Tulsa,Clear,2016-09-30 19:53:00,48.0,,-,35,,30.16,Oklahoma,78.1,2:53 PM,,14.0,10.0,Variable,5.8,0,74104.0
+432,Tulsa,Clear,2016-09-30 20:53:00,46.9,,-,32,,30.13,Oklahoma,79.0,3:53 PM,,15.0,10.0,NE,8.1,40,74104.0
+433,Tulsa,Clear,2016-09-30 21:53:00,46.0,,-,32,,30.12,Oklahoma,78.1,4:53 PM,,16.0,10.0,Calm,Calm,0,74104.0
+434,Tulsa,Clear,2016-09-30 22:53:00,48.0,,-,37,,30.12,Oklahoma,75.9,5:53 PM,,17.0,10.0,NNE,3.5,20,74104.0
+435,Tulsa,Clear,2016-09-30 23:53:00,54.0,,-,65,,30.12,Oklahoma,66.0,6:53 PM,,18.0,10.0,Calm,Calm,0,74104.0
+436,Tulsa,Clear,2016-10-01 00:53:00,52.0,,-,67,,30.12,Oklahoma,63.0,7:53 PM,,19.0,10.0,Calm,Calm,0,74104.0
+437,Tulsa,Clear,2016-10-01 01:53:00,52.0,,-,78,,30.12,Oklahoma,59.0,8:53 PM,,20.0,10.0,Calm,Calm,0,74104.0
+438,Tulsa,Clear,2016-10-01 02:53:00,52.0,,-,81,,30.12,Oklahoma,57.9,9:53 PM,,21.0,10.0,Calm,Calm,0,74104.0
+439,Tulsa,Clear,2016-10-01 03:53:00,53.1,,-,87,,30.12,Oklahoma,57.0,10:53 PM,,22.0,10.0,Calm,Calm,0,74104.0
+440,Tulsa,Clear,2016-10-01 04:53:00,53.1,,-,90,,30.13,Oklahoma,55.9,11:53 PM,,23.0,10.0,Calm,Calm,0,74104.0
+441,Tulsa,Clear,2016-10-01 05:53:00,52.0,,-,93,,30.12,Oklahoma,54.0,12:53 AM,,0.0,10.0,Calm,Calm,0,74104.0
+442,Tulsa,Clear,2016-10-01 06:53:00,51.1,,-,93,,30.13,Oklahoma,53.1,1:53 AM,,1.0,10.0,Calm,Calm,0,74104.0
+443,Tulsa,Clear,2016-10-01 07:53:00,51.1,,-,93,,30.13,Oklahoma,53.1,2:53 AM,,2.0,9.0,Calm,Calm,0,74104.0
+444,Tulsa,Clear,2016-10-01 08:53:00,50.0,,-,96,,30.13,Oklahoma,51.1,3:53 AM,,3.0,8.0,Calm,Calm,0,74104.0
+445,Tulsa,Clear,2016-10-01 09:44:00,48.9,,-,92,,30.11,Oklahoma,51.1,4:44 AM,,4.0,2.0,Calm,Calm,0,74104.0
+446,Tulsa,Clear,2016-10-01 09:53:00,48.9,,-,92,,30.13,Oklahoma,51.1,4:53 AM,,5.0,9.0,Calm,Calm,0,74104.0
+447,Tulsa,Clear,2016-10-01 10:53:00,50.0,,-,93,,30.12,Oklahoma,52.0,5:53 AM,,6.0,10.0,Calm,Calm,0,74104.0
+448,Tulsa,Clear,2016-10-01 11:53:00,51.1,,-,93,,30.13,Oklahoma,53.1,6:53 AM,,7.0,10.0,Calm,Calm,0,74104.0
+449,Tulsa,Clear,2016-10-01 12:53:00,52.0,,-,93,,30.14,Oklahoma,54.0,7:53 AM,,8.0,10.0,Calm,Calm,0,74104.0
+450,Tulsa,Clear,2016-10-01 13:53:00,55.0,,-,90,,30.15,Oklahoma,57.9,8:53 AM,,9.0,10.0,SW,4.6,230,74104.0
+451,Tulsa,Clear,2016-10-01 14:53:00,55.0,,-,75,,30.15,Oklahoma,63.0,9:53 AM,,10.0,10.0,Calm,Calm,0,74104.0
+452,Tulsa,Clear,2016-10-01 15:53:00,55.0,,-,61,,30.15,Oklahoma,69.1,10:53 AM,,11.0,10.0,Calm,Calm,0,74104.0
+453,Tulsa,Clear,2016-10-01 16:53:00,55.0,,-,52,,30.14,Oklahoma,73.9,11:53 AM,,12.0,10.0,Variable,3.5,0,74104.0
+454,Tulsa,Clear,2016-10-01 17:53:00,52.0,,-,40,,30.12,Oklahoma,78.1,12:53 PM,,13.0,10.0,SSW,6.9,210,74104.0
+455,Tulsa,Clear,2016-10-01 18:53:00,51.1,,-,38,,30.08,Oklahoma,79.0,1:53 PM,,14.0,10.0,Variable,6.9,0,74104.0
+456,Tulsa,Clear,2016-10-01 19:53:00,50.0,,-,35,,30.06,Oklahoma,80.1,2:53 PM,,15.0,10.0,ENE,6.9,60,74104.0
+457,Tulsa,Clear,2016-10-01 20:53:00,50.0,,-,34,,30.05,Oklahoma,81.0,3:53 PM,,16.0,10.0,Variable,6.9,0,74104.0
+458,Tulsa,Clear,2016-10-01 21:53:00,48.9,,-,34,,30.03,Oklahoma,80.1,4:53 PM,,17.0,10.0,East,5.8,100,74104.0
+459,Tulsa,Clear,2016-10-01 22:53:00,48.9,,-,34,,30.03,Oklahoma,80.1,5:53 PM,,18.0,10.0,ENE,5.8,70,74104.0
+460,Tulsa,Clear,2016-10-01 23:53:00,50.0,,-,41,,30.03,Oklahoma,75.0,6:53 PM,,19.0,10.0,SE,4.6,130,74104.0
+461,Tulsa,Clear,2016-10-02 00:53:00,55.0,,-,70,,30.04,Oklahoma,64.9,7:53 PM,,20.0,10.0,Calm,Calm,0,74104.0
+462,Tulsa,Clear,2016-10-02 01:53:00,55.0,,-,73,,30.06,Oklahoma,64.0,8:53 PM,,21.0,10.0,Calm,Calm,0,74104.0
+463,Tulsa,Clear,2016-10-02 02:53:00,55.0,,-,75,,30.06,Oklahoma,63.0,9:53 PM,,22.0,10.0,Calm,Calm,0,74104.0
+464,Tulsa,Clear,2016-10-02 03:53:00,55.0,,-,81,,30.06,Oklahoma,61.0,10:53 PM,,23.0,10.0,Calm,Calm,0,74104.0
+465,Tulsa,Mostly Cloudy,2016-10-02 04:53:00,54.0,,-,80,,30.07,Oklahoma,60.1,11:53 PM,,24.0,10.0,Calm,Calm,0,74104.0

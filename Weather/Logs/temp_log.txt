@@ -1,0 +1,543 @@
+
+--------------------------------------------------------
+Loading missing dates for Tulsa, Oklahoma, 7410430 missing dates found
+
+--------------------------------------------------------
+Loading missing dates for Tulsa, Oklahoma, 7410430 missing dates found
+
+--------------------------------------------------------
+Loading missing dates for Tulsa, Oklahoma, 7410430 missing dates found
+
+--------------------------------------------------------
+Loading missing dates for Tulsa, Oklahoma, 7410430 missing dates found
+Loading URL: https://www.wunderground.com/history/airport/KRVS/2016/9/1/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KRVS/2016/9/2/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KRVS/2016/9/3/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KRVS/2016/9/4/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KRVS/2016/9/5/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KRVS/2016/9/6/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KRVS/2016/9/7/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KRVS/2016/9/8/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KRVS/2016/9/9/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KRVS/2016/9/10/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KRVS/2016/9/11/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KRVS/2016/9/12/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KRVS/2016/9/13/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KRVS/2016/9/14/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KRVS/2016/9/15/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KRVS/2016/9/16/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KRVS/2016/9/17/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KRVS/2016/9/18/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KRVS/2016/9/19/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KRVS/2016/9/20/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KRVS/2016/9/21/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KRVS/2016/9/22/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KRVS/2016/9/23/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KRVS/2016/9/24/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KRVS/2016/9/25/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KRVS/2016/9/26/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KRVS/2016/9/27/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KRVS/2016/9/28/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KRVS/2016/9/29/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KRVS/2016/9/30/DailyHistory.html?format=1
+Successfully loaded
+
+
+Time to complete: 0:00:16.826000
+--------------------------------------------------------
+
+--------------------------------------------------------
+Loading missing dates for Tulsa, Oklahoma, 7410430 missing dates found
+Loading URL: https://www.wunderground.com/history/airport/KRVS/2016/9/1/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KRVS/2016/9/2/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KRVS/2016/9/3/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KRVS/2016/9/4/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KRVS/2016/9/5/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KRVS/2016/9/6/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KRVS/2016/9/7/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KRVS/2016/9/8/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KRVS/2016/9/9/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KRVS/2016/9/10/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KRVS/2016/9/11/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KRVS/2016/9/12/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KRVS/2016/9/13/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KRVS/2016/9/14/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KRVS/2016/9/15/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KRVS/2016/9/16/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KRVS/2016/9/17/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KRVS/2016/9/18/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KRVS/2016/9/19/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KRVS/2016/9/20/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KRVS/2016/9/21/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KRVS/2016/9/22/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KRVS/2016/9/23/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KRVS/2016/9/24/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KRVS/2016/9/25/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KRVS/2016/9/26/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KRVS/2016/9/27/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KRVS/2016/9/28/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KRVS/2016/9/29/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KRVS/2016/9/30/DailyHistory.html?format=1
+Successfully loaded
+
+
+Time to complete: 0:00:16.413000
+--------------------------------------------------------
+
+--------------------------------------------------------
+Loading missing dates for Tulsa, Oklahoma, 7410430 missing dates found
+Loading URL: https://www.wunderground.com/history/airport/KRVS/2016/9/1/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KRVS/2016/9/2/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KRVS/2016/9/3/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KRVS/2016/9/4/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KRVS/2016/9/5/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KRVS/2016/9/6/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KRVS/2016/9/7/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KRVS/2016/9/8/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KRVS/2016/9/9/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KRVS/2016/9/10/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KRVS/2016/9/11/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KRVS/2016/9/12/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KRVS/2016/9/13/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KRVS/2016/9/14/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KRVS/2016/9/15/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KRVS/2016/9/16/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KRVS/2016/9/17/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KRVS/2016/9/18/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KRVS/2016/9/19/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KRVS/2016/9/20/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KRVS/2016/9/21/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KRVS/2016/9/22/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KRVS/2016/9/23/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KRVS/2016/9/24/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KRVS/2016/9/25/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KRVS/2016/9/26/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KRVS/2016/9/27/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KRVS/2016/9/28/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KRVS/2016/9/29/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KRVS/2016/9/30/DailyHistory.html?format=1
+Successfully loaded
+
+
+--------------------------------------------------------
+Loading missing dates for Tulsa, Oklahoma, 74104
+--------------------------------------------------------
+Loading missing dates for Tulsa, Oklahoma, 74104
+--------------------------------------------------------
+Loading missing dates for Tulsa, Oklahoma, 74104
+--------------------------------------------------------
+Loading missing dates for Tulsa, Oklahoma, 74104
+--------------------------------------------------------
+Loading missing dates for Tulsa, Oklahoma, 7410420 missing dates found
+Loading URL: https://www.wunderground.com/history/airport/KRVS/2016/9/15/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KRVS/2016/9/16/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KRVS/2016/9/17/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KRVS/2016/9/18/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KRVS/2016/9/19/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KRVS/2016/9/20/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KRVS/2016/9/21/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KRVS/2016/9/22/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KRVS/2016/9/23/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KRVS/2016/9/24/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KRVS/2016/9/25/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KRVS/2016/9/26/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KRVS/2016/9/27/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KRVS/2016/9/28/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KRVS/2016/9/29/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KRVS/2016/9/30/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KRVS/2016/10/1/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KRVS/2016/10/2/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KRVS/2016/10/3/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KRVS/2016/10/4/DailyHistory.html?format=1
+Successfully loaded
+
+
+Time to complete: 0:00:10.545000
+--------------------------------------------------------
+
+--------------------------------------------------------
+Loading missing dates for Tulsa, Oklahoma, 74104
+--------------------------------------------------------
+Loading missing dates for Tulsa, Oklahoma, 7410417 missing dates found
+Loading URL: https://www.wunderground.com/history/airport/KRVS/2016/9/15/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KRVS/2016/9/16/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KRVS/2016/9/17/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KRVS/2016/9/18/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KRVS/2016/9/19/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KRVS/2016/9/20/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KRVS/2016/9/21/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KRVS/2016/9/22/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KRVS/2016/9/23/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KRVS/2016/9/24/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KRVS/2016/9/25/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KRVS/2016/9/26/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KRVS/2016/9/27/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KRVS/2016/9/28/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KRVS/2016/9/29/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KRVS/2016/9/30/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KRVS/2016/10/1/DailyHistory.html?format=1
+Successfully loaded
+
+
+Time to complete: 0:00:09.305000
+--------------------------------------------------------
+
+--------------------------------------------------------
+Loading missing dates for Seattle, Washington, 9810117 missing dates found
+Loading URL: https://www.wunderground.com/history/airport/KBFI/2016/9/15/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KBFI/2016/9/16/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KBFI/2016/9/17/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KBFI/2016/9/18/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KBFI/2016/9/19/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KBFI/2016/9/20/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KBFI/2016/9/21/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KBFI/2016/9/22/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KBFI/2016/9/23/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KBFI/2016/9/24/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KBFI/2016/9/25/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KBFI/2016/9/26/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KBFI/2016/9/27/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KBFI/2016/9/28/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KBFI/2016/9/29/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KBFI/2016/9/30/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KBFI/2016/10/1/DailyHistory.html?format=1
+Successfully loaded
+
+
+Time to complete: 0:00:09.265000
+--------------------------------------------------------
+
+--------------------------------------------------------
+Loading missing dates for Tulsa, Oklahoma, 74104
+--------------------------------------------------------
+Loading missing dates for Seattle, Washington, 9810117 missing dates found
+Loading URL: https://www.wunderground.com/history/airport/KBFI/2016/9/15/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KBFI/2016/9/16/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KBFI/2016/9/17/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KBFI/2016/9/18/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KBFI/2016/9/19/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KBFI/2016/9/20/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KBFI/2016/9/21/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KBFI/2016/9/22/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KBFI/2016/9/23/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KBFI/2016/9/24/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KBFI/2016/9/25/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KBFI/2016/9/26/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KBFI/2016/9/27/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KBFI/2016/9/28/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KBFI/2016/9/29/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KBFI/2016/9/30/DailyHistory.html?format=1
+Successfully loaded
+
+Loading URL: https://www.wunderground.com/history/airport/KBFI/2016/10/1/DailyHistory.html?format=1
+Successfully loaded
+
+
+Time to complete: 0:00:09.964000
+--------------------------------------------------------
